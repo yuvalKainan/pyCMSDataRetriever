@@ -1,0 +1,11392 @@
+[
+  {
+    "place_id": 14713,
+    "name": "A Coruna",
+    "country_id": 3
+  },
+  {
+    "place_id": 20980,
+    "name": "Aachen",
+    "country_id": 5
+  },
+  {
+    "place_id": 45600,
+    "name": "Aalborg",
+    "country_id": 18
+  },
+  {
+    "place_id": 32126,
+    "name": "Aalsmeer",
+    "country_id": 10
+  },
+  {
+    "place_id": 34759,
+    "name": "Aalst",
+    "country_id": 12
+  },
+  {
+    "place_id": 45606,
+    "name": "Aarhus",
+    "country_id": 18
+  },
+  {
+    "place_id": 30060,
+    "name": "Abbeyleix",
+    "country_id": 6
+  },
+  {
+    "place_id": 20046,
+    "name": "Aberdeen",
+    "country_id": 4
+  },
+  {
+    "place_id": 49363,
+    "name": "Abergavenny",
+    "country_id": 4
+  },
+  {
+    "place_id": 1038,
+    "name": "Aci Castello",
+    "country_id": 1
+  },
+  {
+    "place_id": 63785,
+    "name": "Acre",
+    "country_id": 44
+  },
+  {
+    "place_id": 56722,
+    "name": "Adana",
+    "country_id": 30
+  },
+  {
+    "place_id": 29937,
+    "name": "Adare",
+    "country_id": 6
+  },
+  {
+    "place_id": 30626,
+    "name": "Adelaide",
+    "country_id": 9
+  },
+  {
+    "place_id": 40552,
+    "name": "Agios Nikolaos (Crete)",
+    "country_id": 15
+  },
+  {
+    "place_id": 1067,
+    "name": "Agrigento",
+    "country_id": 1
+  },
+  {
+    "place_id": 26672,
+    "name": "Aigle",
+    "country_id": 7
+  },
+  {
+    "place_id": 5730,
+    "name": "Aigues Mortes",
+    "country_id": 2
+  },
+  {
+    "place_id": 30637,
+    "name": "Airlie Beach",
+    "country_id": 9
+  },
+  {
+    "place_id": 5737,
+    "name": "Aix en Provence",
+    "country_id": 2
+  },
+  {
+    "place_id": 5743,
+    "name": "Aix les Bains",
+    "country_id": 2
+  },
+  {
+    "place_id": 58169,
+    "name": "Aizpute",
+    "country_id": 32
+  },
+  {
+    "place_id": 69853,
+    "name": "Akhaltsikhe",
+    "country_id": 55
+  },
+  {
+    "place_id": 47649,
+    "name": "Akureyri",
+    "country_id": 20
+  },
+  {
+    "place_id": 50363,
+    "name": "Al",
+    "country_id": 19
+  },
+  {
+    "place_id": 56735,
+    "name": "Alacati",
+    "country_id": 30
+  },
+  {
+    "place_id": 56697,
+    "name": "Alanya",
+    "country_id": 30
+  },
+  {
+    "place_id": 14656,
+    "name": "Alarcon",
+    "country_id": 3
+  },
+  {
+    "place_id": 1414,
+    "name": "Alassio",
+    "country_id": 1
+  },
+  {
+    "place_id": 1470,
+    "name": "Alba",
+    "country_id": 1
+  },
+  {
+    "place_id": 30622,
+    "name": "Albany",
+    "country_id": 9
+  },
+  {
+    "place_id": 1417,
+    "name": "Albenga",
+    "country_id": 1
+  },
+  {
+    "place_id": 1096,
+    "name": "Alberobello",
+    "country_id": 1
+  },
+  {
+    "place_id": 5749,
+    "name": "Albi",
+    "country_id": 2
+  },
+  {
+    "place_id": 33601,
+    "name": "Albufeira",
+    "country_id": 11
+  },
+  {
+    "place_id": 30934,
+    "name": "Albury",
+    "country_id": 9
+  },
+  {
+    "place_id": 14995,
+    "name": "Alcala de Henares",
+    "country_id": 3
+  },
+  {
+    "place_id": 14836,
+    "name": "Alcala la Real",
+    "country_id": 3
+  },
+  {
+    "place_id": 33603,
+    "name": "Alcobaca",
+    "country_id": 11
+  },
+  {
+    "place_id": 14426,
+    "name": "Alcudia",
+    "country_id": 3
+  },
+  {
+    "place_id": 46464,
+    "name": "Alesund",
+    "country_id": 19
+  },
+  {
+    "place_id": 1603,
+    "name": "Alghero",
+    "country_id": 1
+  },
+  {
+    "place_id": 14858,
+    "name": "Alicante",
+    "country_id": 3
+  },
+  {
+    "place_id": 30640,
+    "name": "Alice Springs",
+    "country_id": 9
+  },
+  {
+    "place_id": 48877,
+    "name": "Aliki Village (Paros)",
+    "country_id": 15
+  },
+  {
+    "place_id": 49643,
+    "name": "Aljezur",
+    "country_id": 11
+  },
+    {
+    "place_id": 40857,
+    "name": "Alexandroupolis",
+    "country_id": 15
+  },
+  {
+    "place_id": 32129,
+    "name": "Alkmaar",
+    "country_id": 10
+  },
+  {
+    "place_id": 49655,
+    "name": "Almada",
+    "country_id": 11
+  },
+  {
+    "place_id": 15014,
+    "name": "Almagro",
+    "country_id": 3
+  },
+  {
+    "place_id": 33608,
+    "name": "Almancil",
+    "country_id": 11
+  },
+  {
+    "place_id": 15424,
+    "name": "Almeria",
+    "country_id": 3
+  },
+  {
+    "place_id": 20054,
+    "name": "Alnwick",
+    "country_id": 4
+  },
+  {
+    "place_id": 14559,
+    "name": "Alquezar",
+    "country_id": 3
+  },
+  {
+    "place_id": 50291,
+    "name": "Alta",
+    "country_id": 19
+  },
+  {
+    "place_id": 26674,
+    "name": "Altdorf",
+    "country_id": 7
+  },
+  {
+    "place_id": 60801,
+    "name": "Alushta",
+    "country_id": 40
+  },
+  {
+    "place_id": 42473,
+    "name": "Alvsbyn",
+    "country_id": 16
+  },
+  {
+    "place_id": 1650,
+    "name": "Amalfi",
+    "country_id": 1
+  },
+  {
+    "place_id": 64625,
+    "name": "Amami",
+    "country_id": 46
+  },
+  {
+    "place_id": 56387,
+    "name": "Amasra",
+    "country_id": 30
+  },
+  {
+    "place_id": 5756,
+    "name": "Amboise",
+    "country_id": 2
+  },
+  {
+    "place_id": 68187,
+    "name": "Amed",
+    "country_id": 52
+  },
+  {
+    "place_id": 32132,
+    "name": "Amersfoort",
+    "country_id": 10
+  },
+  {
+    "place_id": 5762,
+    "name": "Amiens",
+    "country_id": 2
+  },
+  {
+    "place_id": 32138,
+    "name": "Amsterdam",
+    "country_id": 10
+  },
+  {
+    "place_id": 56795,
+    "name": "Anamur",
+    "country_id": 30
+  },
+  {
+    "place_id": 1646,
+    "name": "Ancona",
+    "country_id": 1
+  },
+  {
+    "place_id": 50413,
+    "name": "Andalsnes",
+    "country_id": 19
+  },
+  {
+    "place_id": 26676,
+    "name": "Andermatt",
+    "country_id": 7
+  },
+  {
+    "place_id": 67043,
+    "name": "Andong",
+    "country_id": 48
+  },
+  {
+    "place_id": 47894,
+    "name": "Andorra la Vella",
+    "country_id": 21
+  },
+  {
+    "place_id": 69096,
+    "name": "Angeles",
+    "country_id": 53
+  },
+  {
+    "place_id": 5768,
+    "name": "Angers",
+    "country_id": 2
+  },
+  {
+    "place_id": 5774,
+    "name": "Angouleme",
+    "country_id": 2
+  },
+  {
+    "place_id": 49692,
+    "name": "Angra do Heroismo",
+    "country_id": 11
+  },
+  {
+    "place_id": 56391,
+    "name": "Ankara",
+    "country_id": 30
+  },
+  {
+    "place_id": 5779,
+    "name": "Annecy",
+    "country_id": 2
+  },
+  {
+    "place_id": 56799,
+    "name": "Antakya",
+    "country_id": 30
+  },
+  {
+    "place_id": 56419,
+    "name": "Antalya",
+    "country_id": 30
+  },
+  {
+    "place_id": 14503,
+    "name": "Antequera",
+    "country_id": 3
+  },
+  {
+    "place_id": 5785,
+    "name": "Antibes",
+    "country_id": 2
+  },
+  {
+    "place_id": 34764,
+    "name": "Antwerp",
+    "country_id": 12
+  },
+  {
+    "place_id": 57843,
+    "name": "Anyksciai",
+    "country_id": 31
+  },
+  {
+    "place_id": 62009,
+    "name": "Ao Nang",
+    "country_id": 42
+  },
+  {
+    "place_id": 1473,
+    "name": "Aosta",
+    "country_id": 1
+  },
+  {
+    "place_id": 32382,
+    "name": "Apeldoorn",
+    "country_id": 10
+  },
+  {
+    "place_id": 26678,
+    "name": "Appenzell",
+    "country_id": 7
+  },
+  {
+    "place_id": 1564,
+    "name": "Aquileia",
+    "country_id": 1
+  },
+  {
+    "place_id": 14710,
+    "name": "Aracena",
+    "country_id": 3
+  },
+  {
+    "place_id": 54492,
+    "name": "Arad",
+    "country_id": 28
+  },
+  {
+    "place_id": 14911,
+    "name": "Aranjuez",
+    "country_id": 3
+  },
+  {
+    "place_id": 55559,
+    "name": "Arbanasi",
+    "country_id": 29
+  },
+  {
+    "place_id": 14865,
+    "name": "Arcos de la Frontera",
+    "country_id": 3
+  },
+  {
+    "place_id": 29939,
+    "name": "Ardmore",
+    "country_id": 6
+  },
+  {
+    "place_id": 50351,
+    "name": "Arendal",
+    "country_id": 19
+  },
+  {
+    "place_id": 1283,
+    "name": "Arezzo",
+    "country_id": 1
+  },
+  {
+    "place_id": 48810,
+    "name": "Argostoli (Kefalonia)",
+    "country_id": 15
+  },
+  {
+    "place_id": 5792,
+    "name": "Arles",
+    "country_id": 2
+  },
+  {
+    "place_id": 29941,
+    "name": "Armagh",
+    "country_id": 6
+  },
+  {
+    "place_id": 32387,
+    "name": "Arnhem",
+    "country_id": 10
+  },
+  {
+    "place_id": 26680,
+    "name": "Arosa",
+    "country_id": 7
+  },
+  {
+    "place_id": 40556,
+    "name": "Arta",
+    "country_id": 15
+  },
+  {
+    "place_id": 20060,
+    "name": "Arundel",
+    "country_id": 4
+  },
+  {
+    "place_id": 42254,
+    "name": "Arvidsjaur",
+    "country_id": 16
+  },
+  {
+    "place_id": 1240,
+    "name": "Ascoli Piceno",
+    "country_id": 1
+  },
+  {
+    "place_id": 26683,
+    "name": "Ascona",
+    "country_id": 7
+  },
+  {
+    "place_id": 20062,
+    "name": "Ascot",
+    "country_id": 4
+  },
+  {
+    "place_id": 63858,
+    "name": "Ashdod",
+    "country_id": 44
+  },
+  {
+    "place_id": 63860,
+    "name": "Ashkelon",
+    "country_id": 44
+  },
+  {
+    "place_id": 1568,
+    "name": "Asolo",
+    "country_id": 1
+  },
+  {
+    "place_id": 1253,
+    "name": "Assisi",
+    "country_id": 1
+  },
+  {
+    "place_id": 48813,
+    "name": "Assos (Kefalonia)",
+    "country_id": 15
+  },
+  {
+    "place_id": 1477,
+    "name": "Asti",
+    "country_id": 1
+  },
+  {
+    "place_id": 40560,
+    "name": "Athens",
+    "country_id": 15
+  },
+  {
+    "place_id": 30066,
+    "name": "Athlone",
+    "country_id": 6
+  },
+  {
+    "place_id": 65639,
+    "name": "Auckland",
+    "country_id": 47
+  },
+  {
+    "place_id": 20985,
+    "name": "Augsburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 5800,
+    "name": "Autun",
+    "country_id": 2
+  },
+  {
+    "place_id": 5805,
+    "name": "Auvers sur Oise",
+    "country_id": 2
+  },
+  {
+    "place_id": 5811,
+    "name": "Auxerre",
+    "country_id": 2
+  },
+  {
+    "place_id": 50415,
+    "name": "Avaldsnes",
+    "country_id": 19
+  },
+  {
+    "place_id": 56805,
+    "name": "Avanos",
+    "country_id": 30
+  },
+  {
+    "place_id": 49630,
+    "name": "Aveiro",
+    "country_id": 11
+  },
+  {
+    "place_id": 37216,
+    "name": "Aviemore",
+    "country_id": 4
+  },
+  {
+    "place_id": 5815,
+    "name": "Avignon",
+    "country_id": 2
+  },
+  {
+    "place_id": 15005,
+    "name": "Avila",
+    "country_id": 3
+  },
+  {
+    "place_id": 56900,
+    "name": "Aydin",
+    "country_id": 30
+  },
+  {
+    "place_id": 70174,
+    "name": "Ayia Napa",
+    "country_id": 57
+  },
+  {
+    "place_id": 20064,
+    "name": "Aylesbury",
+    "country_id": 4
+  },
+  {
+    "place_id": 61826,
+    "name": "Ayutthaya",
+    "country_id": 42
+  },
+  {
+    "place_id": 61599,
+    "name": "Babruysk",
+    "country_id": 41
+  },
+  {
+    "place_id": 63105,
+    "name": "Bac Ha",
+    "country_id": 43
+  },
+  {
+    "place_id": 20991,
+    "name": "Bacharach",
+    "country_id": 5
+  },
+  {
+    "place_id": 28276,
+    "name": "Bad Aussee",
+    "country_id": 8
+  },
+  {
+    "place_id": 20993,
+    "name": "Bad Bergzabern",
+    "country_id": 5
+  },
+  {
+    "place_id": 28278,
+    "name": "Bad Gastein",
+    "country_id": 8
+  },
+  {
+    "place_id": 28280,
+    "name": "Bad Gleichenberg",
+    "country_id": 8
+  },
+  {
+    "place_id": 28282,
+    "name": "Bad Hofgastein",
+    "country_id": 8
+  },
+  {
+    "place_id": 21146,
+    "name": "Bad Homburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 28284,
+    "name": "Bad Ischl",
+    "country_id": 8
+  },
+  {
+    "place_id": 20995,
+    "name": "Bad Karlshafen",
+    "country_id": 5
+  },
+  {
+    "place_id": 21819,
+    "name": "Bad Kissingen",
+    "country_id": 5
+  },
+  {
+    "place_id": 20998,
+    "name": "Bad Mergentheim",
+    "country_id": 5
+  },
+  {
+    "place_id": 21000,
+    "name": "Bad Reichenhall",
+    "country_id": 5
+  },
+  {
+    "place_id": 21002,
+    "name": "Bad Wimpfen",
+    "country_id": 5
+  },
+  {
+    "place_id": 15656,
+    "name": "Badajoz",
+    "country_id": 3
+  },
+  {
+    "place_id": 28287,
+    "name": "Baden",
+    "country_id": 8
+  },
+  {
+    "place_id": 21005,
+    "name": "Baden-Baden",
+    "country_id": 5
+  },
+  {
+    "place_id": 21012,
+    "name": "Badenweiler",
+    "country_id": 5
+  },
+  {
+    "place_id": 14357,
+    "name": "Baeza",
+    "country_id": 3
+  },
+  {
+    "place_id": 69086,
+    "name": "Baguio",
+    "country_id": 53
+  },
+  {
+    "place_id": 14841,
+    "name": "Baiona",
+    "country_id": 3
+  },
+  {
+    "place_id": 20069,
+    "name": "Bakewell",
+    "country_id": 4
+  },
+  {
+    "place_id": 63578,
+    "name": "Bakhchisaray",
+    "country_id": 40
+  },
+  {
+    "place_id": 69841,
+    "name": "Bakuriani",
+    "country_id": 55
+  },
+  {
+    "place_id": 55561,
+    "name": "Balchik",
+    "country_id": 29
+  },
+  {
+    "place_id": 50280,
+    "name": "Balestrand",
+    "country_id": 19
+  },
+  {
+    "place_id": 56637,
+    "name": "Balikesir",
+    "country_id": 30
+  },
+  {
+    "place_id": 30655,
+    "name": "Ballarat",
+    "country_id": 9
+  },
+  {
+    "place_id": 49507,
+    "name": "Ballina",
+    "country_id": 6
+  },
+  {
+    "place_id": 49545,
+    "name": "Ballybunion",
+    "country_id": 6
+  },
+  {
+    "place_id": 60603,
+    "name": "Balti",
+    "country_id": 39
+  },
+  {
+    "place_id": 47965,
+    "name": "Balzers",
+    "country_id": 22
+  },
+  {
+    "place_id": 21015,
+    "name": "Bamberg",
+    "country_id": 5
+  },
+  {
+    "place_id": 68268,
+    "name": "Bandung",
+    "country_id": 52
+  },
+  {
+    "place_id": 61840,
+    "name": "Bangkok",
+    "country_id": 42
+  },
+  {
+    "place_id": 49353,
+    "name": "Bangor",
+    "country_id": 4
+  },
+  {
+    "place_id": 59673,
+    "name": "Banja Luka",
+    "country_id": 35
+  },
+  {
+    "place_id": 53926,
+    "name": "Banska Bystrica",
+    "country_id": 27
+  },
+  {
+    "place_id": 53928,
+    "name": "Banska Stiavnica",
+    "country_id": 27
+  },
+  {
+    "place_id": 55563,
+    "name": "Bansko",
+    "country_id": 29
+  },
+  {
+    "place_id": 49513,
+    "name": "Bantry",
+    "country_id": 6
+  },
+  {
+    "place_id": 59959,
+    "name": "Bar",
+    "country_id": 36
+  },
+  {
+    "place_id": 5822,
+    "name": "Barbizon",
+    "country_id": 2
+  },
+  {
+    "place_id": 14804,
+    "name": "Barcelona",
+    "country_id": 3
+  },
+  {
+    "place_id": 53931,
+    "name": "Bardejov",
+    "country_id": 27
+  },
+  {
+    "place_id": 1317,
+    "name": "Barga",
+    "country_id": 1
+  },
+  {
+    "place_id": 1124,
+    "name": "Bari",
+    "country_id": 1
+  },
+  {
+    "place_id": 26685,
+    "name": "Basel",
+    "country_id": 7
+  },
+  {
+    "place_id": 35929,
+    "name": "Baska",
+    "country_id": 13
+  },
+  {
+    "place_id": 34797,
+    "name": "Bastogne",
+    "country_id": 12
+  },
+  {
+    "place_id": 63867,
+    "name": "Bat Yam",
+    "country_id": 44
+  },
+  {
+    "place_id": 33610,
+    "name": "Batalha",
+    "country_id": 11
+  },
+  {
+    "place_id": 68281,
+    "name": "Batam",
+    "country_id": 52
+  },
+  {
+    "place_id": 30661,
+    "name": "Batemans Bay",
+    "country_id": 9
+  },
+  {
+    "place_id": 20072,
+    "name": "Bath",
+    "country_id": 4
+  },
+  {
+    "place_id": 64225,
+    "name": "Battambang",
+    "country_id": 45
+  },
+  {
+    "place_id": 20084,
+    "name": "Battle",
+    "country_id": 4
+  },
+  {
+    "place_id": 67698,
+    "name": "Batu Ferringhi",
+    "country_id": 51
+  },
+  {
+    "place_id": 69813,
+    "name": "Batumi",
+    "country_id": 55
+  },
+  {
+    "place_id": 26703,
+    "name": "Bauen",
+    "country_id": 7
+  },
+  {
+    "place_id": 58215,
+    "name": "Bauska",
+    "country_id": 32
+  },
+  {
+    "place_id": 5827,
+    "name": "Bayeux",
+    "country_id": 2
+  },
+  {
+    "place_id": 5834,
+    "name": "Bayonne",
+    "country_id": 2
+  },
+  {
+    "place_id": 21019,
+    "name": "Bayreuth",
+    "country_id": 5
+  },
+  {
+    "place_id": 63789,
+    "name": "Be'er Sheva",
+    "country_id": 44
+  },
+  {
+    "place_id": 20088,
+    "name": "Beaulieu",
+    "country_id": 4
+  },
+  {
+    "place_id": 20094,
+    "name": "Beaumaris",
+    "country_id": 4
+  },
+  {
+    "place_id": 5842,
+    "name": "Beaune",
+    "country_id": 2
+  },
+  {
+    "place_id": 34801,
+    "name": "Beauraing",
+    "country_id": 12
+  },
+  {
+    "place_id": 5848,
+    "name": "Beauvais",
+    "country_id": 2
+  },
+  {
+    "place_id": 59951,
+    "name": "Becici",
+    "country_id": 36
+  },
+  {
+    "place_id": 68189,
+    "name": "Bedugul",
+    "country_id": 52
+  },
+  {
+    "place_id": 14600,
+    "name": "Beget",
+    "country_id": 3
+  },
+  {
+    "place_id": 14886,
+    "name": "Begur",
+    "country_id": 3
+  },
+  {
+    "place_id": 66400,
+    "name": "Beit She'an",
+    "country_id": 44
+  },
+  {
+    "place_id": 33613,
+    "name": "Beja",
+    "country_id": 11
+  },
+  {
+    "place_id": 56878,
+    "name": "Belek",
+    "country_id": 30
+  },
+  {
+    "place_id": 30116,
+    "name": "Belfast",
+    "country_id": 6
+  },
+  {
+    "place_id": 59280,
+    "name": "Belgrade",
+    "country_id": 34
+  },
+  {
+    "place_id": 1634,
+    "name": "Bellagio",
+    "country_id": 1
+  },
+  {
+    "place_id": 26705,
+    "name": "Bellinzona",
+    "country_id": 7
+  },
+  {
+    "place_id": 1678,
+    "name": "Belluno",
+    "country_id": 1
+  },
+  {
+    "place_id": 34803,
+    "name": "Beloeil",
+    "country_id": 12
+  },
+  {
+    "place_id": 14613,
+    "name": "Benasque",
+    "country_id": 3
+  },
+  {
+    "place_id": 60626,
+    "name": "Bender",
+    "country_id": 39
+  },
+  {
+    "place_id": 30919,
+    "name": "Bendigo",
+    "country_id": 9
+  },
+  {
+    "place_id": 15785,
+    "name": "Benicarlo",
+    "country_id": 3
+  },
+  {
+    "place_id": 60236,
+    "name": "Berat",
+    "country_id": 37
+  },
+  {
+    "place_id": 21021,
+    "name": "Berchtesgaden",
+    "country_id": 5
+  },
+  {
+    "place_id": 60894,
+    "name": "Berdiansk",
+    "country_id": 40
+  },
+  {
+    "place_id": 56440,
+    "name": "Bergama",
+    "country_id": 30
+  },
+  {
+    "place_id": 1495,
+    "name": "Bergamo",
+    "country_id": 1
+  },
+  {
+    "place_id": 46469,
+    "name": "Bergen",
+    "country_id": 19
+  },
+  {
+    "place_id": 21026,
+    "name": "Berlin",
+    "country_id": 5
+  },
+  {
+    "place_id": 26711,
+    "name": "Bern",
+    "country_id": 7
+  },
+  {
+    "place_id": 21083,
+    "name": "Bernkastel-Kues",
+    "country_id": 5
+  },
+  {
+    "place_id": 60436,
+    "name": "Berovo",
+    "country_id": 38
+  },
+  {
+    "place_id": 14479,
+    "name": "Besalu",
+    "country_id": 3
+  },
+  {
+    "place_id": 14936,
+    "name": "Betancuria",
+    "country_id": 3
+  },
+  {
+    "place_id": 14580,
+    "name": "Betanzos",
+    "country_id": 3
+  },
+  {
+    "place_id": 62029,
+    "name": "Betong",
+    "country_id": 42
+  },
+  {
+    "place_id": 5853,
+    "name": "Beynac",
+    "country_id": 2
+  },
+  {
+    "place_id": 5855,
+    "name": "Beziers",
+    "country_id": 2
+  },
+  {
+    "place_id": 51683,
+    "name": "Bialystok",
+    "country_id": 26
+  },
+  {
+    "place_id": 5860,
+    "name": "Biarritz",
+    "country_id": 2
+  },
+  {
+    "place_id": 20098,
+    "name": "Bibury",
+    "country_id": 4
+  },
+  {
+    "place_id": 22073,
+    "name": "Bielefeld",
+    "country_id": 5
+  },
+  {
+    "place_id": 63270,
+    "name": "Bien Hoa",
+    "country_id": 43
+  },
+  {
+    "place_id": 59695,
+    "name": "Bihac",
+    "country_id": 35
+  },
+  {
+    "place_id": 59711,
+    "name": "Bijeljina",
+    "country_id": 35
+  },
+  {
+    "place_id": 14761,
+    "name": "Bilbao",
+    "country_id": 3
+  },
+  {
+    "place_id": 63584,
+    "name": "Bilhorod-Dnistrovskyi",
+    "country_id": 40
+  },
+  {
+    "place_id": 48589,
+    "name": "Billund",
+    "country_id": 18
+  },
+  {
+    "place_id": 34807,
+    "name": "Binche",
+    "country_id": 12
+  },
+  {
+    "place_id": 49472,
+    "name": "Biograd na Moru",
+    "country_id": 13
+  },
+  {
+    "place_id": 20100,
+    "name": "Birmingham",
+    "country_id": 4
+  },
+  {
+    "place_id": 29943,
+    "name": "Birr",
+    "country_id": 6
+  },
+  {
+    "place_id": 56317,
+    "name": "Bistrita",
+    "country_id": 28
+  },
+  {
+    "place_id": 56738,
+    "name": "Bitez",
+    "country_id": 30
+  },
+  {
+    "place_id": 60408,
+    "name": "Bitola",
+    "country_id": 38
+  },
+  {
+    "place_id": 42256,
+    "name": "Bjursas",
+    "country_id": 16
+  },
+  {
+    "place_id": 30663,
+    "name": "Blackheath",
+    "country_id": 9
+  },
+  {
+    "place_id": 49232,
+    "name": "Blackpool",
+    "country_id": 4
+  },
+  {
+    "place_id": 34811,
+    "name": "Blankenberge",
+    "country_id": 12
+  },
+  {
+    "place_id": 30070,
+    "name": "Blarney",
+    "country_id": 6
+  },
+  {
+    "place_id": 48112,
+    "name": "Bled",
+    "country_id": 24
+  },
+  {
+    "place_id": 34813,
+    "name": "Blegny",
+    "country_id": 12
+  },
+  {
+    "place_id": 65706,
+    "name": "Blenheim",
+    "country_id": 47
+  },
+  {
+    "place_id": 5865,
+    "name": "Blois",
+    "country_id": 2
+  },
+  {
+    "place_id": 50679,
+    "name": "Blonduos",
+    "country_id": 20
+  },
+  {
+    "place_id": 42631,
+    "name": "Boden",
+    "country_id": 16
+  },
+  {
+    "place_id": 21085,
+    "name": "Bodenwerder",
+    "country_id": 5
+  },
+  {
+    "place_id": 46485,
+    "name": "Bodo",
+    "country_id": 19
+  },
+  {
+    "place_id": 56447,
+    "name": "Bodrum",
+    "country_id": 30
+  },
+  {
+    "place_id": 68322,
+    "name": "Bogor",
+    "country_id": 52
+  },
+  {
+    "place_id": 35934,
+    "name": "Bol",
+    "country_id": 13
+  },
+  {
+    "place_id": 1378,
+    "name": "Bologna",
+    "country_id": 1
+  },
+  {
+    "place_id": 32199,
+    "name": "Bolsward",
+    "country_id": 10
+  },
+  {
+    "place_id": 1533,
+    "name": "Bolzano",
+    "country_id": 1
+  },
+  {
+    "place_id": 5871,
+    "name": "Bonifacio",
+    "country_id": 2
+  },
+  {
+    "place_id": 21087,
+    "name": "Bonn",
+    "country_id": 5
+  },
+  {
+    "place_id": 6573,
+    "name": "Bonnieux",
+    "country_id": 2
+  },
+  {
+    "place_id": 62039,
+    "name": "Bophut",
+    "country_id": 42
+  },
+  {
+    "place_id": 69076,
+    "name": "Boracay Island",
+    "country_id": 53
+  },
+  {
+    "place_id": 5877,
+    "name": "Bordeaux",
+    "country_id": 2
+  },
+  {
+    "place_id": 47654,
+    "name": "Borgarnes",
+    "country_id": 20
+  },
+  {
+    "place_id": 69823,
+    "name": "Borjomi",
+    "country_id": 55
+  },
+  {
+    "place_id": 1537,
+    "name": "Bormio",
+    "country_id": 1
+  },
+  {
+    "place_id": 55567,
+    "name": "Borovets",
+    "country_id": 29
+  },
+  {
+    "place_id": 1607,
+    "name": "Bosa",
+    "country_id": 1
+  },
+  {
+    "place_id": 34815,
+    "name": "Bouillon",
+    "country_id": 12
+  },
+  {
+    "place_id": 5885,
+    "name": "Bourg en Bresse",
+    "country_id": 2
+  },
+  {
+    "place_id": 5891,
+    "name": "Bourges",
+    "country_id": 2
+  },
+  {
+    "place_id": 20113,
+    "name": "Bournemouth",
+    "country_id": 4
+  },
+  {
+    "place_id": 20115,
+    "name": "Bourton-on-the-Water",
+    "country_id": 4
+  },
+  {
+    "place_id": 49745,
+    "name": "Bovec",
+    "country_id": 24
+  },
+  {
+    "place_id": 63678,
+    "name": "Bowmore",
+    "country_id": 4
+  },
+  {
+    "place_id": 56756,
+    "name": "Bozcaada",
+    "country_id": 30
+  },
+  {
+    "place_id": 1480,
+    "name": "Bra",
+    "country_id": 1
+  },
+  {
+    "place_id": 20117,
+    "name": "Bradford",
+    "country_id": 4
+  },
+  {
+    "place_id": 20122,
+    "name": "Bradford-on-Avon",
+    "country_id": 4
+  },
+  {
+    "place_id": 20126,
+    "name": "Brading",
+    "country_id": 4
+  },
+  {
+    "place_id": 33617,
+    "name": "Braga",
+    "country_id": 11
+  },
+  {
+    "place_id": 33626,
+    "name": "Braganca",
+    "country_id": 11
+  },
+  {
+    "place_id": 5897,
+    "name": "Brantome",
+    "country_id": 2
+  },
+  {
+    "place_id": 61588,
+    "name": "Braslaw",
+    "country_id": 41
+  },
+  {
+    "place_id": 54431,
+    "name": "Brasov",
+    "country_id": 28
+  },
+  {
+    "place_id": 53933,
+    "name": "Bratislava",
+    "country_id": 27
+  },
+  {
+    "place_id": 22195,
+    "name": "Braunschweig",
+    "country_id": 5
+  },
+  {
+    "place_id": 30253,
+    "name": "Bray",
+    "country_id": 6
+  },
+  {
+    "place_id": 20326,
+    "name": "Bray",
+    "country_id": 4
+  },
+  {
+    "place_id": 32201,
+    "name": "Breda",
+    "country_id": 10
+  },
+  {
+    "place_id": 28291,
+    "name": "Bregenz",
+    "country_id": 8
+  },
+  {
+    "place_id": 49486,
+    "name": "Brela",
+    "country_id": 13
+  },
+  {
+    "place_id": 21089,
+    "name": "Bremen",
+    "country_id": 5
+  },
+  {
+    "place_id": 1519,
+    "name": "Brescia",
+    "country_id": 1
+  },
+  {
+    "place_id": 61549,
+    "name": "Brest",
+    "country_id": 41
+  },
+  {
+    "place_id": 7639,
+    "name": "Brest",
+    "country_id": 2
+  },
+  {
+    "place_id": 49348,
+    "name": "Bridgend",
+    "country_id": 4
+  },
+  {
+    "place_id": 20130,
+    "name": "Bridlington",
+    "country_id": 4
+  },
+  {
+    "place_id": 26732,
+    "name": "Brienz",
+    "country_id": 7
+  },
+  {
+    "place_id": 26737,
+    "name": "Brig",
+    "country_id": 7
+  },
+  {
+    "place_id": 20132,
+    "name": "Brighton",
+    "country_id": 4
+  },
+  {
+    "place_id": 1653,
+    "name": "Brindisi",
+    "country_id": 1
+  },
+  {
+    "place_id": 30666,
+    "name": "Brisbane",
+    "country_id": 9
+  },
+  {
+    "place_id": 20137,
+    "name": "Bristol",
+    "country_id": 4
+  },
+  {
+    "place_id": 1541,
+    "name": "Brixen",
+    "country_id": 1
+  },
+  {
+    "place_id": 44217,
+    "name": "Brno",
+    "country_id": 17
+  },
+  {
+    "place_id": 20154,
+    "name": "Broadway",
+    "country_id": 4
+  },
+  {
+    "place_id": 30678,
+    "name": "Broken Hill",
+    "country_id": 9
+  },
+  {
+    "place_id": 30682,
+    "name": "Broome",
+    "country_id": 9
+  },
+  {
+    "place_id": 34822,
+    "name": "Bruges",
+    "country_id": 12
+  },
+  {
+    "place_id": 1544,
+    "name": "Bruneck",
+    "country_id": 1
+  },
+  {
+    "place_id": 26740,
+    "name": "Brunnen",
+    "country_id": 7
+  },
+  {
+    "place_id": 34844,
+    "name": "Brussels",
+    "country_id": 12
+  },
+  {
+    "place_id": 54436,
+    "name": "Bucharest",
+    "country_id": 28
+  },
+  {
+    "place_id": 50686,
+    "name": "Budapest",
+    "country_id": 25
+  },
+  {
+    "place_id": 59886,
+    "name": "Budva",
+    "country_id": 36
+  },
+  {
+    "place_id": 60931,
+    "name": "Bukovel",
+    "country_id": 40
+  },
+  {
+    "place_id": 26742,
+    "name": "Bulle",
+    "country_id": 7
+  },
+  {
+    "place_id": 30687,
+    "name": "Bundaberg",
+    "country_id": 9
+  },
+  {
+    "place_id": 49525,
+    "name": "Bundoran",
+    "country_id": 6
+  },
+  {
+    "place_id": 32204,
+    "name": "Bunschoten",
+    "country_id": 10
+  },
+  {
+    "place_id": 63262,
+    "name": "Buon Ma Thuot",
+    "country_id": 43
+  },
+  {
+    "place_id": 20159,
+    "name": "Burford",
+    "country_id": 4
+  },
+  {
+    "place_id": 61803,
+    "name": "Burgas",
+    "country_id": 29
+  },
+  {
+    "place_id": 21097,
+    "name": "Burghausen",
+    "country_id": 5
+  },
+  {
+    "place_id": 14413,
+    "name": "Burgos",
+    "country_id": 3
+  },
+  {
+    "place_id": 62079,
+    "name": "Buriram",
+    "country_id": 42
+  },
+  {
+    "place_id": 56457,
+    "name": "Bursa",
+    "country_id": 30
+  },
+  {
+    "place_id": 67046,
+    "name": "Busan",
+    "country_id": 48
+  },
+  {
+    "place_id": 37542,
+    "name": "Bushmills",
+    "country_id": 4
+  },
+  {
+    "place_id": 53918,
+    "name": "Bydgoszcz",
+    "country_id": 26
+  },
+  {
+    "place_id": 30693,
+    "name": "Byron Bay",
+    "country_id": 9
+  },
+  {
+    "place_id": 63280,
+    "name": "Ca Mau",
+    "country_id": 43
+  },
+  {
+    "place_id": 15019,
+    "name": "Caceres",
+    "country_id": 3
+  },
+  {
+    "place_id": 14977,
+    "name": "Cadaques",
+    "country_id": 3
+  },
+  {
+    "place_id": 14683,
+    "name": "Cadiz",
+    "country_id": 3
+  },
+  {
+    "place_id": 5899,
+    "name": "Caen",
+    "country_id": 2
+  },
+  {
+    "place_id": 20161,
+    "name": "Caernarfon",
+    "country_id": 4
+  },
+  {
+    "place_id": 63792,
+    "name": "Caesarea",
+    "country_id": 44
+  },
+  {
+    "place_id": 69104,
+    "name": "Cagayan de Oro",
+    "country_id": 53
+  },
+  {
+    "place_id": 1608,
+    "name": "Cagliari",
+    "country_id": 1
+  },
+  {
+    "place_id": 49535,
+    "name": "Cahersiveen",
+    "country_id": 6
+  },
+  {
+    "place_id": 5905,
+    "name": "Cahors",
+    "country_id": 2
+  },
+  {
+    "place_id": 60612,
+    "name": "Cahul",
+    "country_id": 39
+  },
+  {
+    "place_id": 30697,
+    "name": "Cairns",
+    "country_id": 9
+  },
+  {
+    "place_id": 1613,
+    "name": "Cala Gonone",
+    "country_id": 1
+  },
+  {
+    "place_id": 58740,
+    "name": "Calais",
+    "country_id": 2
+  },
+  {
+    "place_id": 49657,
+    "name": "Caldas da Rainha",
+    "country_id": 11
+  },
+  {
+    "place_id": 49661,
+    "name": "Calheta",
+    "country_id": 11
+  },
+  {
+    "place_id": 1063,
+    "name": "Caltagirone",
+    "country_id": 1
+  },
+  {
+    "place_id": 21100,
+    "name": "Calw",
+    "country_id": 5
+  },
+  {
+    "place_id": 49806,
+    "name": "Camara de Lobos",
+    "country_id": 11
+  },
+  {
+    "place_id": 20166,
+    "name": "Cambridge",
+    "country_id": 4
+  },
+  {
+    "place_id": 56761,
+    "name": "Camlihemsin",
+    "country_id": 30
+  },
+  {
+    "place_id": 1421,
+    "name": "Camogli",
+    "country_id": 1
+  },
+  {
+    "place_id": 49926,
+    "name": "Campobasso",
+    "country_id": 1
+  },
+  {
+    "place_id": 63107,
+    "name": "Can Tho",
+    "country_id": 43
+  },
+  {
+    "place_id": 56658,
+    "name": "Canakkale",
+    "country_id": 30
+  },
+  {
+    "place_id": 1547,
+    "name": "Canazei",
+    "country_id": 1
+  },
+  {
+    "place_id": 30702,
+    "name": "Canberra",
+    "country_id": 9
+  },
+  {
+    "place_id": 5911,
+    "name": "Cannes",
+    "country_id": 2
+  },
+  {
+    "place_id": 20177,
+    "name": "Canterbury",
+    "country_id": 4
+  },
+  {
+    "place_id": 1149,
+    "name": "Capri",
+    "country_id": 1
+  },
+  {
+    "place_id": 33632,
+    "name": "Caramulo",
+    "country_id": 11
+  },
+  {
+    "place_id": 5918,
+    "name": "Carcassonne",
+    "country_id": 2
+  },
+  {
+    "place_id": 20186,
+    "name": "Cardiff",
+    "country_id": 4
+  },
+  {
+    "place_id": 49540,
+    "name": "Carlow",
+    "country_id": 6
+  },
+  {
+    "place_id": 49343,
+    "name": "Carmarthen",
+    "country_id": 4
+  },
+  {
+    "place_id": 14924,
+    "name": "Carmona",
+    "country_id": 3
+  },
+  {
+    "place_id": 5924,
+    "name": "Carnac",
+    "country_id": 2
+  },
+  {
+    "place_id": 29946,
+    "name": "Carrick-on-Shannon",
+    "country_id": 6
+  },
+  {
+    "place_id": 49589,
+    "name": "Carvoeiro",
+    "country_id": 11
+  },
+  {
+    "place_id": 14411,
+    "name": "Casares",
+    "country_id": 3
+  },
+  {
+    "place_id": 33634,
+    "name": "Cascais",
+    "country_id": 11
+  },
+  {
+    "place_id": 29951,
+    "name": "Cashel",
+    "country_id": 6
+  },
+  {
+    "place_id": 5930,
+    "name": "Cassis",
+    "country_id": 2
+  },
+  {
+    "place_id": 1234,
+    "name": "Castel Gandolfo",
+    "country_id": 1
+  },
+  {
+    "place_id": 1407,
+    "name": "Castell'Arquato",
+    "country_id": 1
+  },
+  {
+    "place_id": 1100,
+    "name": "Castellana Grotte",
+    "country_id": 1
+  },
+  {
+    "place_id": 1314,
+    "name": "Castellina in Chianti",
+    "country_id": 1
+  },
+  {
+    "place_id": 16295,
+    "name": "Castellon de la Plana",
+    "country_id": 3
+  },
+  {
+    "place_id": 1041,
+    "name": "Castelmola",
+    "country_id": 1
+  },
+  {
+    "place_id": 49528,
+    "name": "Castlebar",
+    "country_id": 6
+  },
+  {
+    "place_id": 1033,
+    "name": "Catania",
+    "country_id": 1
+  },
+  {
+    "place_id": 1662,
+    "name": "Catanzaro",
+    "country_id": 1
+  },
+  {
+    "place_id": 35940,
+    "name": "Cavtat",
+    "country_id": 13
+  },
+  {
+    "place_id": 14691,
+    "name": "Cazorla",
+    "country_id": 3
+  },
+  {
+    "place_id": 69078,
+    "name": "Cebu City",
+    "country_id": 53
+  },
+  {
+    "place_id": 1011,
+    "name": "Cefalu",
+    "country_id": 1
+  },
+  {
+    "place_id": 1103,
+    "name": "Ceglie Messapica",
+    "country_id": 1
+  },
+  {
+    "place_id": 49748,
+    "name": "Celje",
+    "country_id": 24
+  },
+  {
+    "place_id": 21102,
+    "name": "Celle",
+    "country_id": 5
+  },
+  {
+    "place_id": 5934,
+    "name": "Ceret",
+    "country_id": 2
+  },
+  {
+    "place_id": 20196,
+    "name": "Cerne Abbas",
+    "country_id": 4
+  },
+  {
+    "place_id": 1425,
+    "name": "Cervo",
+    "country_id": 1
+  },
+  {
+    "place_id": 58221,
+    "name": "Cesis",
+    "country_id": 32
+  },
+  {
+    "place_id": 44219,
+    "name": "Ceske Budejovice",
+    "country_id": 17
+  },
+  {
+    "place_id": 44221,
+    "name": "Cesky Krumlov",
+    "country_id": 17
+  },
+  {
+    "place_id": 56474,
+    "name": "Cesme",
+    "country_id": 30
+  },
+  {
+    "place_id": 59895,
+    "name": "Cetinje",
+    "country_id": 36
+  },
+  {
+    "place_id": 62081,
+    "name": "Chachoengsao",
+    "country_id": 42
+  },
+  {
+    "place_id": 62051,
+    "name": "Chalong",
+    "country_id": 42
+  },
+  {
+    "place_id": 5937,
+    "name": "Chalons en Champagne",
+    "country_id": 2
+  },
+  {
+    "place_id": 5941,
+    "name": "Chambery",
+    "country_id": 2
+  },
+  {
+    "place_id": 5947,
+    "name": "Chamonix-Mont Blanc",
+    "country_id": 2
+  },
+  {
+    "place_id": 26744,
+    "name": "Champery",
+    "country_id": 7
+  },
+  {
+    "place_id": 26746,
+    "name": "Champex",
+    "country_id": 7
+  },
+  {
+    "place_id": 40599,
+    "name": "Chania (Crete)",
+    "country_id": 15
+  },
+  {
+    "place_id": 61873,
+    "name": "Chanthaburi",
+    "country_id": 42
+  },
+  {
+    "place_id": 5955,
+    "name": "Chantilly",
+    "country_id": 2
+  },
+  {
+    "place_id": 34890,
+    "name": "Charleroi",
+    "country_id": 12
+  },
+  {
+    "place_id": 5960,
+    "name": "Chartres",
+    "country_id": 2
+  },
+  {
+    "place_id": 5965,
+    "name": "Chateau Thierry",
+    "country_id": 2
+  },
+  {
+    "place_id": 26748,
+    "name": "Chateau-d'Oex",
+    "country_id": 7
+  },
+  {
+    "place_id": 63112,
+    "name": "Chau Doc",
+    "country_id": 43
+  },
+  {
+    "place_id": 5970,
+    "name": "Chaumont sur Loire",
+    "country_id": 2
+  },
+  {
+    "place_id": 62043,
+    "name": "Chaweng",
+    "country_id": 42
+  },
+  {
+    "place_id": 44227,
+    "name": "Cheb",
+    "country_id": 17
+  },
+  {
+    "place_id": 20198,
+    "name": "Cheltenham",
+    "country_id": 4
+  },
+  {
+    "place_id": 67050,
+    "name": "Cheongju",
+    "country_id": 48
+  },
+  {
+    "place_id": 63600,
+    "name": "Cherkasy",
+    "country_id": 40
+  },
+  {
+    "place_id": 60900,
+    "name": "Chernihiv",
+    "country_id": 40
+  },
+  {
+    "place_id": 60836,
+    "name": "Chernivtsi",
+    "country_id": 40
+  },
+  {
+    "place_id": 20204,
+    "name": "Chester",
+    "country_id": 4
+  },
+  {
+    "place_id": 1672,
+    "name": "Chianciano Terme",
+    "country_id": 1
+  },
+  {
+    "place_id": 61875,
+    "name": "Chiang Dao",
+    "country_id": 42
+  },
+  {
+    "place_id": 61878,
+    "name": "Chiang Mai",
+    "country_id": 42
+  },
+  {
+    "place_id": 61888,
+    "name": "Chiang Rai",
+    "country_id": 42
+  },
+  {
+    "place_id": 49919,
+    "name": "Chianni",
+    "country_id": 1
+  },
+  {
+    "place_id": 1428,
+    "name": "Chiavari",
+    "country_id": 1
+  },
+  {
+    "place_id": 64586,
+    "name": "Chiba",
+    "country_id": 46
+  },
+  {
+    "place_id": 20210,
+    "name": "Chichester",
+    "country_id": 4
+  },
+  {
+    "place_id": 34892,
+    "name": "Chimay",
+    "country_id": 12
+  },
+  {
+    "place_id": 15000,
+    "name": "Chinchon",
+    "country_id": 3
+  },
+  {
+    "place_id": 5972,
+    "name": "Chinon",
+    "country_id": 2
+  },
+  {
+    "place_id": 48913,
+    "name": "Chios",
+    "country_id": 15
+  },
+  {
+    "place_id": 20216,
+    "name": "Chipping Campden",
+    "country_id": 4
+  },
+  {
+    "place_id": 60580,
+    "name": "Chisinau",
+    "country_id": 39
+  },
+  {
+    "place_id": 61890,
+    "name": "Chon Buri",
+    "country_id": 42
+  },
+  {
+    "place_id": 21107,
+    "name": "Chorin",
+    "country_id": 5
+  },
+  {
+    "place_id": 60886,
+    "name": "Chornomorsk",
+    "country_id": 40
+  },
+  {
+    "place_id": 65646,
+    "name": "Christchurch",
+    "country_id": 47
+  },
+  {
+    "place_id": 61894,
+    "name": "Chumphon",
+    "country_id": 42
+  },
+  {
+    "place_id": 67052,
+    "name": "Chuncheon",
+    "country_id": 48
+  },
+  {
+    "place_id": 26750,
+    "name": "Chur",
+    "country_id": 7
+  },
+  {
+    "place_id": 1410,
+    "name": "Cinque Terre",
+    "country_id": 1
+  },
+  {
+    "place_id": 68193,
+    "name": "Cirebon",
+    "country_id": 52
+  },
+  {
+    "place_id": 20222,
+    "name": "Cirencester",
+    "country_id": 4
+  },
+  {
+    "place_id": 14845,
+    "name": "Ciudad Rodrigo",
+    "country_id": 3
+  },
+  {
+    "place_id": 14343,
+    "name": "Ciutadella",
+    "country_id": 3
+  },
+  {
+    "place_id": 1643,
+    "name": "Civitavecchia",
+    "country_id": 1
+  },
+  {
+    "place_id": 5977,
+    "name": "Clermont Ferrand",
+    "country_id": 2
+  },
+  {
+    "place_id": 49515,
+    "name": "Clifden",
+    "country_id": 6
+  },
+  {
+    "place_id": 49522,
+    "name": "Clonakilty",
+    "country_id": 6
+  },
+  {
+    "place_id": 20227,
+    "name": "Clovelly",
+    "country_id": 4
+  },
+  {
+    "place_id": 54482,
+    "name": "Cluj-Napoca",
+    "country_id": 28
+  },
+  {
+    "place_id": 5984,
+    "name": "Cluny",
+    "country_id": 2
+  },
+  {
+    "place_id": 21110,
+    "name": "Coburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 21112,
+    "name": "Cochem",
+    "country_id": 5
+  },
+  {
+    "place_id": 20232,
+    "name": "Cockermouth",
+    "country_id": 4
+  },
+  {
+    "place_id": 30714,
+    "name": "Coffs Harbour",
+    "country_id": 9
+  },
+  {
+    "place_id": 33637,
+    "name": "Coimbra",
+    "country_id": 11
+  },
+  {
+    "place_id": 5991,
+    "name": "Collioure",
+    "country_id": 2
+  },
+  {
+    "place_id": 5998,
+    "name": "Colmar",
+    "country_id": 2
+  },
+  {
+    "place_id": 21114,
+    "name": "Cologne",
+    "country_id": 5
+  },
+  {
+    "place_id": 37724,
+    "name": "Colwyn Bay",
+    "country_id": 4
+  },
+  {
+    "place_id": 14610,
+    "name": "Comillas",
+    "country_id": 3
+  },
+  {
+    "place_id": 1685,
+    "name": "Como",
+    "country_id": 1
+  },
+  {
+    "place_id": 6004,
+    "name": "Compiegne",
+    "country_id": 2
+  },
+  {
+    "place_id": 60619,
+    "name": "Comrat",
+    "country_id": 39
+  },
+  {
+    "place_id": 63276,
+    "name": "Con Son Island",
+    "country_id": 43
+  },
+  {
+    "place_id": 6008,
+    "name": "Concarneau",
+    "country_id": 2
+  },
+  {
+    "place_id": 29954,
+    "name": "Cong",
+    "country_id": 6
+  },
+  {
+    "place_id": 6015,
+    "name": "Conques",
+    "country_id": 2
+  },
+  {
+    "place_id": 54486,
+    "name": "Constanta",
+    "country_id": 28
+  },
+  {
+    "place_id": 20235,
+    "name": "Conwy",
+    "country_id": 4
+  },
+  {
+    "place_id": 45615,
+    "name": "Copenhagen",
+    "country_id": 18
+  },
+  {
+    "place_id": 26753,
+    "name": "Coppet",
+    "country_id": 7
+  },
+  {
+    "place_id": 6019,
+    "name": "Cordes sur Ciel",
+    "country_id": 2
+  },
+  {
+    "place_id": 14461,
+    "name": "Cordoba",
+    "country_id": 3
+  },
+  {
+    "place_id": 49797,
+    "name": "Corfu",
+    "country_id": 15
+  },
+  {
+    "place_id": 40604,
+    "name": "Corinth",
+    "country_id": 15
+  },
+  {
+    "place_id": 29957,
+    "name": "Cork",
+    "country_id": 6
+  },
+  {
+    "place_id": 69100,
+    "name": "Coron",
+    "country_id": 53
+  },
+  {
+    "place_id": 14670,
+    "name": "Corralejo",
+    "country_id": 3
+  },
+  {
+    "place_id": 1551,
+    "name": "Cortina d'Ampezzo",
+    "country_id": 1
+  },
+  {
+    "place_id": 1287,
+    "name": "Cortona",
+    "country_id": 1
+  },
+  {
+    "place_id": 1138,
+    "name": "Cosenza",
+    "country_id": 1
+  },
+  {
+    "place_id": 15214,
+    "name": "Costa Adeje",
+    "country_id": 3
+  },
+  {
+    "place_id": 6021,
+    "name": "Courchevel",
+    "country_id": 2
+  },
+  {
+    "place_id": 1483,
+    "name": "Courmayeur",
+    "country_id": 1
+  },
+  {
+    "place_id": 20240,
+    "name": "Coventry",
+    "country_id": 4
+  },
+  {
+    "place_id": 21122,
+    "name": "Creglingen",
+    "country_id": 5
+  },
+  {
+    "place_id": 1498,
+    "name": "Cremona",
+    "country_id": 1
+  },
+  {
+    "place_id": 49497,
+    "name": "Cres",
+    "country_id": 13
+  },
+  {
+    "place_id": 60577,
+    "name": "Cricova",
+    "country_id": 39
+  },
+  {
+    "place_id": 35945,
+    "name": "Crikvenica",
+    "country_id": 13
+  },
+  {
+    "place_id": 15036,
+    "name": "Cuenca",
+    "country_id": 3
+  },
+  {
+    "place_id": 33646,
+    "name": "Curia",
+    "country_id": 11
+  },
+  {
+    "place_id": 54453,
+    "name": "Curtea de Arges",
+    "country_id": 28
+  },
+  {
+    "place_id": 51727,
+    "name": "Czestochowa",
+    "country_id": 26
+  },
+  {
+    "place_id": 63118,
+    "name": "Da Nang",
+    "country_id": 43
+  },
+  {
+    "place_id": 67054,
+    "name": "Daegu",
+    "country_id": 48
+  },
+  {
+    "place_id": 67057,
+    "name": "Daejeon",
+    "country_id": 48
+  },
+  {
+    "place_id": 36105,
+    "name": "Dakovo",
+    "country_id": 13
+  },
+  {
+    "place_id": 63128,
+    "name": "Dalat",
+    "country_id": 43
+  },
+  {
+    "place_id": 56747,
+    "name": "Dalyan",
+    "country_id": 30
+  },
+  {
+    "place_id": 34896,
+    "name": "Damme",
+    "country_id": 12
+  },
+  {
+    "place_id": 22404,
+    "name": "Darmstadt",
+    "country_id": 5
+  },
+  {
+    "place_id": 20246,
+    "name": "Dartmouth",
+    "country_id": 4
+  },
+  {
+    "place_id": 30719,
+    "name": "Darwin",
+    "country_id": 9
+  },
+  {
+    "place_id": 56882,
+    "name": "Datca",
+    "country_id": 30
+  },
+  {
+    "place_id": 58172,
+    "name": "Daugavpils",
+    "country_id": 32
+  },
+  {
+    "place_id": 69084,
+    "name": "Davao",
+    "country_id": 53
+  },
+  {
+    "place_id": 26755,
+    "name": "Davos",
+    "country_id": 7
+  },
+  {
+    "place_id": 34899,
+    "name": "De Haan",
+    "country_id": 12
+  },
+  {
+    "place_id": 49247,
+    "name": "De Panne",
+    "country_id": 12
+  },
+  {
+    "place_id": 6023,
+    "name": "Deauville",
+    "country_id": 2
+  },
+  {
+    "place_id": 53910,
+    "name": "Debrecen",
+    "country_id": 25
+  },
+  {
+    "place_id": 50652,
+    "name": "Decin",
+    "country_id": 17
+  },
+  {
+    "place_id": 20252,
+    "name": "Dedham",
+    "country_id": 4
+  },
+  {
+    "place_id": 32206,
+    "name": "Delft",
+    "country_id": 10
+  },
+  {
+    "place_id": 40608,
+    "name": "Delphi",
+    "country_id": 15
+  },
+  {
+    "place_id": 56480,
+    "name": "Demre",
+    "country_id": 30
+  },
+  {
+    "place_id": 35908,
+    "name": "Den Burg",
+    "country_id": 10
+  },
+  {
+    "place_id": 34901,
+    "name": "Dendermonde",
+    "country_id": 12
+  },
+  {
+    "place_id": 56716,
+    "name": "Denizli",
+    "country_id": 30
+  },
+  {
+    "place_id": 20254,
+    "name": "Derby",
+    "country_id": 4
+  },
+  {
+    "place_id": 32214,
+    "name": "Deventer",
+    "country_id": 10
+  },
+  {
+    "place_id": 61802,
+    "name": "Devin",
+    "country_id": 29
+  },
+  {
+    "place_id": 60252,
+    "name": "Dhermi",
+    "country_id": 37
+  },
+  {
+    "place_id": 56666,
+    "name": "Didim",
+    "country_id": 30
+  },
+  {
+    "place_id": 34904,
+    "name": "Diest",
+    "country_id": 12
+  },
+  {
+    "place_id": 48018,
+    "name": "Differdange",
+    "country_id": 23
+  },
+  {
+    "place_id": 6030,
+    "name": "Dijon",
+    "country_id": 2
+  },
+  {
+    "place_id": 56807,
+    "name": "Dikili",
+    "country_id": 30
+  },
+  {
+    "place_id": 49309,
+    "name": "Diksmuide",
+    "country_id": 12
+  },
+  {
+    "place_id": 6037,
+    "name": "Dinan",
+    "country_id": 2
+  },
+  {
+    "place_id": 34908,
+    "name": "Dinant",
+    "country_id": 12
+  },
+  {
+    "place_id": 6043,
+    "name": "Dinard",
+    "country_id": 2
+  },
+  {
+    "place_id": 30064,
+    "name": "Dingle",
+    "country_id": 6
+  },
+  {
+    "place_id": 21124,
+    "name": "Dinkelsbuehl",
+    "country_id": 5
+  },
+  {
+    "place_id": 63022,
+    "name": "Disneyland Paris",
+    "country_id": 2
+  },
+  {
+    "place_id": 56810,
+    "name": "Diyarbakir",
+    "country_id": 30
+  },
+  {
+    "place_id": 60726,
+    "name": "Dnipropetrovsk",
+    "country_id": 40
+  },
+  {
+    "place_id": 67105,
+    "name": "Dodong-ri",
+    "country_id": 48
+  },
+  {
+    "place_id": 32218,
+    "name": "Domburg",
+    "country_id": 10
+  },
+  {
+    "place_id": 6049,
+    "name": "Domme",
+    "country_id": 2
+  },
+  {
+    "place_id": 29971,
+    "name": "Donegal",
+    "country_id": 6
+  },
+  {
+    "place_id": 60752,
+    "name": "Donetsk",
+    "country_id": 40
+  },
+  {
+    "place_id": 63282,
+    "name": "Dong Ha",
+    "country_id": 43
+  },
+  {
+    "place_id": 63258,
+    "name": "Dong Hoi",
+    "country_id": 43
+  },
+  {
+    "place_id": 49511,
+    "name": "Doolin",
+    "country_id": 6
+  },
+  {
+    "place_id": 20260,
+    "name": "Dorchester",
+    "country_id": 4
+  },
+  {
+    "place_id": 32222,
+    "name": "Dordrecht",
+    "country_id": 10
+  },
+  {
+    "place_id": 22496,
+    "name": "Dortmund",
+    "country_id": 5
+  },
+  {
+    "place_id": 20265,
+    "name": "Dover",
+    "country_id": 4
+  },
+  {
+    "place_id": 45637,
+    "name": "Dragor",
+    "country_id": 18
+  },
+  {
+    "place_id": 50312,
+    "name": "Drammen",
+    "country_id": 19
+  },
+  {
+    "place_id": 21126,
+    "name": "Dresden",
+    "country_id": 5
+  },
+  {
+    "place_id": 29973,
+    "name": "Drogheda",
+    "country_id": 6
+  },
+  {
+    "place_id": 29979,
+    "name": "Drumcliff",
+    "country_id": 6
+  },
+  {
+    "place_id": 57845,
+    "name": "Druskininkai",
+    "country_id": 31
+  },
+  {
+    "place_id": 29982,
+    "name": "Dublin",
+    "country_id": 6
+  },
+  {
+    "place_id": 35947,
+    "name": "Dubrovnik",
+    "country_id": 13
+  },
+  {
+    "place_id": 48021,
+    "name": "Dudelange",
+    "country_id": 23
+  },
+  {
+    "place_id": 49286,
+    "name": "Dudley",
+    "country_id": 4
+  },
+  {
+    "place_id": 28297,
+    "name": "Duernstein",
+    "country_id": 8
+  },
+  {
+    "place_id": 21139,
+    "name": "Duesseldorf",
+    "country_id": 5
+  },
+  {
+    "place_id": 20267,
+    "name": "Dumfries",
+    "country_id": 4
+  },
+  {
+    "place_id": 30079,
+    "name": "Duncannon",
+    "country_id": 6
+  },
+  {
+    "place_id": 30082,
+    "name": "Dundalk",
+    "country_id": 6
+  },
+  {
+    "place_id": 20273,
+    "name": "Dundee",
+    "country_id": 4
+  },
+  {
+    "place_id": 65648,
+    "name": "Dunedin",
+    "country_id": 47
+  },
+  {
+    "place_id": 49378,
+    "name": "Dunfermline",
+    "country_id": 4
+  },
+  {
+    "place_id": 49532,
+    "name": "Dungarvan",
+    "country_id": 6
+  },
+  {
+    "place_id": 20279,
+    "name": "Dunster",
+    "country_id": 4
+  },
+  {
+    "place_id": 63252,
+    "name": "Duong Dong",
+    "country_id": 43
+  },
+  {
+    "place_id": 49257,
+    "name": "Durbuy",
+    "country_id": 12
+  },
+  {
+    "place_id": 20285,
+    "name": "Durham",
+    "country_id": 4
+  },
+  {
+    "place_id": 60211,
+    "name": "Durres",
+    "country_id": 37
+  },
+  {
+    "place_id": 45639,
+    "name": "Ebeltoft",
+    "country_id": 18
+  },
+  {
+    "place_id": 56777,
+    "name": "Eceabat",
+    "country_id": 30
+  },
+  {
+    "place_id": 47977,
+    "name": "Echternach",
+    "country_id": 23
+  },
+  {
+    "place_id": 32226,
+    "name": "Edam",
+    "country_id": 10
+  },
+  {
+    "place_id": 20291,
+    "name": "Edinburgh",
+    "country_id": 4
+  },
+  {
+    "place_id": 54490,
+    "name": "Eforie",
+    "country_id": 28
+  },
+  {
+    "place_id": 50731,
+    "name": "Eger",
+    "country_id": 25
+  },
+  {
+    "place_id": 47656,
+    "name": "Egilsstadir",
+    "country_id": 20
+  },
+  {
+    "place_id": 63795,
+    "name": "Eilat",
+    "country_id": 44
+  },
+  {
+    "place_id": 32395,
+    "name": "Eindhoven",
+    "country_id": 10
+  },
+  {
+    "place_id": 26759,
+    "name": "Einsiedeln",
+    "country_id": 7
+  },
+  {
+    "place_id": 21150,
+    "name": "Eisenach",
+    "country_id": 5
+  },
+  {
+    "place_id": 28299,
+    "name": "Eisenstadt",
+    "country_id": 8
+  },
+  {
+    "place_id": 69094,
+    "name": "El Nido",
+    "country_id": 53
+  },
+  {
+    "place_id": 14641,
+    "name": "El Prat del Llobregat",
+    "country_id": 3
+  },
+  {
+    "place_id": 14974,
+    "name": "El Puerto de Santa Maria",
+    "country_id": 3
+  },
+  {
+    "place_id": 1340,
+    "name": "Elba Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 14454,
+    "name": "Elche",
+    "country_id": 3
+  },
+  {
+    "place_id": 20315,
+    "name": "Elgin",
+    "country_id": 4
+  },
+  {
+    "place_id": 55502,
+    "name": "Elk",
+    "country_id": 26
+  },
+  {
+    "place_id": 45641,
+    "name": "Elsinore",
+    "country_id": 18
+  },
+  {
+    "place_id": 33648,
+    "name": "Elvas",
+    "country_id": 11
+  },
+  {
+    "place_id": 20321,
+    "name": "Ely",
+    "country_id": 4
+  },
+  {
+    "place_id": 47906,
+    "name": "Encamp",
+    "country_id": 21
+  },
+  {
+    "place_id": 27326,
+    "name": "Engelberg",
+    "country_id": 7
+  },
+  {
+    "place_id": 32228,
+    "name": "Enkhuizen",
+    "country_id": 10
+  },
+  {
+    "place_id": 1079,
+    "name": "Enna",
+    "country_id": 1
+  },
+  {
+    "place_id": 30085,
+    "name": "Ennis",
+    "country_id": 6
+  },
+  {
+    "place_id": 6052,
+    "name": "Epernay",
+    "country_id": 2
+  },
+  {
+    "place_id": 21153,
+    "name": "Erfurt",
+    "country_id": 5
+  },
+  {
+    "place_id": 1076,
+    "name": "Erice",
+    "country_id": 1
+  },
+  {
+    "place_id": 33654,
+    "name": "Ericeira",
+    "country_id": 11
+  },
+  {
+    "place_id": 48588,
+    "name": "Esbjerg",
+    "country_id": 18
+  },
+  {
+    "place_id": 48012,
+    "name": "Esch-sur-Alzette",
+    "country_id": 23
+  },
+  {
+    "place_id": 50130,
+    "name": "Eskilstuna",
+    "country_id": 16
+  },
+  {
+    "place_id": 56687,
+    "name": "Eskisehir",
+    "country_id": 30
+  },
+  {
+    "place_id": 26762,
+    "name": "Estavayer-le-Lac",
+    "country_id": 7
+  },
+  {
+    "place_id": 14930,
+    "name": "Estella",
+    "country_id": 3
+  },
+  {
+    "place_id": 14631,
+    "name": "Estepona",
+    "country_id": 3
+  },
+  {
+    "place_id": 33657,
+    "name": "Estoril",
+    "country_id": 11
+  },
+  {
+    "place_id": 33659,
+    "name": "Estremoz",
+    "country_id": 11
+  },
+  {
+    "place_id": 50739,
+    "name": "Esztergom",
+    "country_id": 25
+  },
+  {
+    "place_id": 6056,
+    "name": "Etretat",
+    "country_id": 2
+  },
+  {
+    "place_id": 6061,
+    "name": "Evian-les-Bains",
+    "country_id": 2
+  },
+  {
+    "place_id": 33663,
+    "name": "Evora",
+    "country_id": 11
+  },
+  {
+    "place_id": 20324,
+    "name": "Exeter",
+    "country_id": 4
+  },
+  {
+    "place_id": 6067,
+    "name": "Eze",
+    "country_id": 2
+  },
+  {
+    "place_id": 45645,
+    "name": "Faborg",
+    "country_id": 18
+  },
+  {
+    "place_id": 49382,
+    "name": "Falkirk",
+    "country_id": 4
+  },
+  {
+    "place_id": 30729,
+    "name": "Falls Creek",
+    "country_id": 9
+  },
+  {
+    "place_id": 20331,
+    "name": "Falmouth",
+    "country_id": 4
+  },
+  {
+    "place_id": 42258,
+    "name": "Falun",
+    "country_id": 16
+  },
+  {
+    "place_id": 70182,
+    "name": "Famagusta",
+    "country_id": 57
+  },
+  {
+    "place_id": 33670,
+    "name": "Faro",
+    "country_id": 11
+  },
+  {
+    "place_id": 33675,
+    "name": "Fatima",
+    "country_id": 11
+  },
+  {
+    "place_id": 49469,
+    "name": "Fazana",
+    "country_id": 13
+  },
+  {
+    "place_id": 6070,
+    "name": "Fecamp",
+    "country_id": 2
+  },
+  {
+    "place_id": 28302,
+    "name": "Feldkirch",
+    "country_id": 8
+  },
+  {
+    "place_id": 60805,
+    "name": "Feodosia",
+    "country_id": 40
+  },
+  {
+    "place_id": 1385,
+    "name": "Ferrara",
+    "country_id": 1
+  },
+  {
+    "place_id": 56484,
+    "name": "Fethiye",
+    "country_id": 30
+  },
+  {
+    "place_id": 33677,
+    "name": "Figueira da Foz",
+    "country_id": 11
+  },
+  {
+    "place_id": 14988,
+    "name": "Figueres",
+    "country_id": 3
+  },
+  {
+    "place_id": 1046,
+    "name": "Filicudi Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 1431,
+    "name": "Finale Ligure",
+    "country_id": 1
+  },
+  {
+    "place_id": 40745,
+    "name": "Fira (Santorini)",
+    "country_id": 15
+  },
+  {
+    "place_id": 38046,
+    "name": "Fishguard",
+    "country_id": 4
+  },
+  {
+    "place_id": 42270,
+    "name": "Fjallbacka",
+    "country_id": 16
+  },
+  {
+    "place_id": 50309,
+    "name": "Flam",
+    "country_id": 19
+  },
+  {
+    "place_id": 1368,
+    "name": "Florence",
+    "country_id": 1
+  },
+  {
+    "place_id": 59714,
+    "name": "Foca",
+    "country_id": 35
+  },
+  {
+    "place_id": 56491,
+    "name": "Foca",
+    "country_id": 30
+  },
+  {
+    "place_id": 1106,
+    "name": "Foggia",
+    "country_id": 1
+  },
+  {
+    "place_id": 6075,
+    "name": "Fontainebleau",
+    "country_id": 2
+  },
+  {
+    "place_id": 6081,
+    "name": "Fontevraud l'Abbaye",
+    "country_id": 2
+  },
+  {
+    "place_id": 46830,
+    "name": "Forde",
+    "country_id": 19
+  },
+  {
+    "place_id": 14680,
+    "name": "Fornells",
+    "country_id": 3
+  },
+  {
+    "place_id": 38066,
+    "name": "Fort William",
+    "country_id": 4
+  },
+  {
+    "place_id": 20336,
+    "name": "Fowey",
+    "country_id": 4
+  },
+  {
+    "place_id": 71323,
+    "name": "Fox Glacier Weheka",
+    "country_id": 47
+  },
+  {
+    "place_id": 32232,
+    "name": "Franeker",
+    "country_id": 10
+  },
+  {
+    "place_id": 21157,
+    "name": "Frankfurt",
+    "country_id": 5
+  },
+  {
+    "place_id": 44573,
+    "name": "Frantiskovy Lazne",
+    "country_id": 17
+  },
+  {
+    "place_id": 1230,
+    "name": "Frascati",
+    "country_id": 1
+  },
+  {
+    "place_id": 30731,
+    "name": "Fraser Island",
+    "country_id": 9
+  },
+  {
+    "place_id": 45900,
+    "name": "Fredericia",
+    "country_id": 18
+  },
+  {
+    "place_id": 45648,
+    "name": "Frederikshavn",
+    "country_id": 18
+  },
+  {
+    "place_id": 46487,
+    "name": "Fredrikstad",
+    "country_id": 19
+  },
+  {
+    "place_id": 21352,
+    "name": "Freiburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 30734,
+    "name": "Fremantle",
+    "country_id": 9
+  },
+  {
+    "place_id": 21168,
+    "name": "Freudenstadt",
+    "country_id": 5
+  },
+  {
+    "place_id": 26764,
+    "name": "Fribourg",
+    "country_id": 7
+  },
+  {
+    "place_id": 21170,
+    "name": "Friedrichshafen",
+    "country_id": 5
+  },
+  {
+    "place_id": 28304,
+    "name": "Friesach",
+    "country_id": 8
+  },
+  {
+    "place_id": 64333,
+    "name": "Fukuoka",
+    "country_id": 46
+  },
+  {
+    "place_id": 21174,
+    "name": "Fulda",
+    "country_id": 5
+  },
+  {
+    "place_id": 33679,
+    "name": "Funchal",
+    "country_id": 11
+  },
+  {
+    "place_id": 49729,
+    "name": "Furnas",
+    "country_id": 11
+  },
+  {
+    "place_id": 21172,
+    "name": "Fussen",
+    "country_id": 5
+  },
+  {
+    "place_id": 69825,
+    "name": "Gagra",
+    "country_id": 55
+  },
+  {
+    "place_id": 1311,
+    "name": "Gaiole in Chianti",
+    "country_id": 1
+  },
+  {
+    "place_id": 56325,
+    "name": "Galati",
+    "country_id": 28
+  },
+  {
+    "place_id": 56494,
+    "name": "Gallipoli",
+    "country_id": 30
+  },
+  {
+    "place_id": 42893,
+    "name": "Gallivare",
+    "country_id": 16
+  },
+  {
+    "place_id": 30000,
+    "name": "Galway",
+    "country_id": 6
+  },
+  {
+    "place_id": 26769,
+    "name": "Gandria",
+    "country_id": 7
+  },
+  {
+    "place_id": 67148,
+    "name": "Gangneung",
+    "country_id": 48
+  },
+  {
+    "place_id": 21177,
+    "name": "Garmisch-Partenkirchen",
+    "country_id": 5
+  },
+  {
+    "place_id": 50147,
+    "name": "Gavle",
+    "country_id": 16
+  },
+  {
+    "place_id": 56642,
+    "name": "Gaziantep",
+    "country_id": 30
+  },
+  {
+    "place_id": 51730,
+    "name": "Gdansk",
+    "country_id": 26
+  },
+  {
+    "place_id": 53924,
+    "name": "Gdynia",
+    "country_id": 26
+  },
+  {
+    "place_id": 30903,
+    "name": "Geelong",
+    "country_id": 9
+  },
+  {
+    "place_id": 46861,
+    "name": "Geilo",
+    "country_id": 19
+  },
+  {
+    "place_id": 46489,
+    "name": "Geiranger",
+    "country_id": 19
+  },
+  {
+    "place_id": 21180,
+    "name": "Gelnhausen",
+    "country_id": 5
+  },
+  {
+    "place_id": 26771,
+    "name": "Geneva",
+    "country_id": 7
+  },
+  {
+    "place_id": 34915,
+    "name": "Genk",
+    "country_id": 12
+  },
+  {
+    "place_id": 1434,
+    "name": "Genoa",
+    "country_id": 1
+  },
+  {
+    "place_id": 67150,
+    "name": "Geoje",
+    "country_id": 48
+  },
+  {
+    "place_id": 67644,
+    "name": "George Town",
+    "country_id": 51
+  },
+  {
+    "place_id": 34917,
+    "name": "Geraardsbergen",
+    "country_id": 12
+  },
+  {
+    "place_id": 60434,
+    "name": "Gevgelija",
+    "country_id": 38
+  },
+  {
+    "place_id": 34919,
+    "name": "Ghent",
+    "country_id": 12
+  },
+  {
+    "place_id": 15048,
+    "name": "Gibraltar",
+    "country_id": 3
+  },
+  {
+    "place_id": 32236,
+    "name": "Giethoorn",
+    "country_id": 10
+  },
+  {
+    "place_id": 64336,
+    "name": "Gifu",
+    "country_id": 46
+  },
+  {
+    "place_id": 1345,
+    "name": "Giglio Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 14965,
+    "name": "Gijon",
+    "country_id": 3
+  },
+  {
+    "place_id": 45650,
+    "name": "Gilleleje",
+    "country_id": 18
+  },
+  {
+    "place_id": 14952,
+    "name": "Girona",
+    "country_id": 3
+  },
+  {
+    "place_id": 65650,
+    "name": "Gisborne",
+    "country_id": 47
+  },
+  {
+    "place_id": 6084,
+    "name": "Giverny",
+    "country_id": 2
+  },
+  {
+    "place_id": 52228,
+    "name": "Gizycko",
+    "country_id": 26
+  },
+  {
+    "place_id": 60255,
+    "name": "Gjirokaster",
+    "country_id": 37
+  },
+  {
+    "place_id": 50356,
+    "name": "Gjovik",
+    "country_id": 19
+  },
+  {
+    "place_id": 30740,
+    "name": "Gladstone",
+    "country_id": 9
+  },
+  {
+    "place_id": 20340,
+    "name": "Glasgow",
+    "country_id": 4
+  },
+  {
+    "place_id": 67444,
+    "name": "Glendalough",
+    "country_id": 6
+  },
+  {
+    "place_id": 30005,
+    "name": "Glengarriff",
+    "country_id": 6
+  },
+  {
+    "place_id": 20357,
+    "name": "Gloucester",
+    "country_id": 4
+  },
+  {
+    "place_id": 28307,
+    "name": "Gmunden",
+    "country_id": 8
+  },
+  {
+    "place_id": 56780,
+    "name": "Gocek",
+    "country_id": 30
+  },
+  {
+    "place_id": 21182,
+    "name": "Goerlitz",
+    "country_id": 5
+  },
+  {
+    "place_id": 50389,
+    "name": "Gol",
+    "country_id": 19
+  },
+  {
+    "place_id": 30650,
+    "name": "Gold Coast",
+    "country_id": 9
+  },
+  {
+    "place_id": 56783,
+    "name": "Golkoy",
+    "country_id": 30
+  },
+  {
+    "place_id": 61556,
+    "name": "Gomel",
+    "country_id": 41
+  },
+  {
+    "place_id": 67059,
+    "name": "Gongju",
+    "country_id": 48
+  },
+  {
+    "place_id": 6087,
+    "name": "Gordes",
+    "country_id": 2
+  },
+  {
+    "place_id": 56497,
+    "name": "Goreme",
+    "country_id": 30
+  },
+  {
+    "place_id": 49530,
+    "name": "Gorey",
+    "country_id": 6
+  },
+  {
+    "place_id": 69833,
+    "name": "Gori",
+    "country_id": 55
+  },
+  {
+    "place_id": 21184,
+    "name": "Goslar",
+    "country_id": 5
+  },
+  {
+    "place_id": 60432,
+    "name": "Gostivar",
+    "country_id": 38
+  },
+  {
+    "place_id": 42272,
+    "name": "Gothenburg",
+    "country_id": 16
+  },
+  {
+    "place_id": 32238,
+    "name": "Gouda",
+    "country_id": 10
+  },
+  {
+    "place_id": 1590,
+    "name": "Grado",
+    "country_id": 1
+  },
+  {
+    "place_id": 14888,
+    "name": "Granada",
+    "country_id": 3
+  },
+  {
+    "place_id": 26801,
+    "name": "Grandson",
+    "country_id": 7
+  },
+  {
+    "place_id": 20364,
+    "name": "Grasmere",
+    "country_id": 4
+  },
+  {
+    "place_id": 6091,
+    "name": "Grasse",
+    "country_id": 2
+  },
+  {
+    "place_id": 28312,
+    "name": "Graz",
+    "country_id": 8
+  },
+  {
+    "place_id": 14940,
+    "name": "Grazalema",
+    "country_id": 3
+  },
+  {
+    "place_id": 6097,
+    "name": "Grenoble",
+    "country_id": 2
+  },
+  {
+    "place_id": 1308,
+    "name": "Greve in Chianti",
+    "country_id": 1
+  },
+  {
+    "place_id": 65652,
+    "name": "Greymouth",
+    "country_id": 47
+  },
+  {
+    "place_id": 50671,
+    "name": "Grindavik ",
+    "country_id": 20
+  },
+  {
+    "place_id": 26804,
+    "name": "Grindelwald",
+    "country_id": 7
+  },
+  {
+    "place_id": 61561,
+    "name": "Grodno",
+    "country_id": 41
+  },
+  {
+    "place_id": 35922,
+    "name": "Groningen",
+    "country_id": 10
+  },
+  {
+    "place_id": 49917,
+    "name": "Grosseto",
+    "country_id": 1
+  },
+  {
+    "place_id": 35972,
+    "name": "Groznjan",
+    "country_id": 13
+  },
+  {
+    "place_id": 26807,
+    "name": "Gruyeres",
+    "country_id": 7
+  },
+  {
+    "place_id": 26810,
+    "name": "Gstaad",
+    "country_id": 7
+  },
+  {
+    "place_id": 14475,
+    "name": "Guadalupe",
+    "country_id": 3
+  },
+  {
+    "place_id": 14659,
+    "name": "Guadix",
+    "country_id": 3
+  },
+  {
+    "place_id": 26812,
+    "name": "Guarda",
+    "country_id": 7
+  },
+  {
+    "place_id": 1258,
+    "name": "Gubbio",
+    "country_id": 1
+  },
+  {
+    "place_id": 69817,
+    "name": "Gudauri",
+    "country_id": 55
+  },
+  {
+    "place_id": 20367,
+    "name": "Guildford",
+    "country_id": 4
+  },
+  {
+    "place_id": 33690,
+    "name": "Guimaraes",
+    "country_id": 11
+  },
+  {
+    "place_id": 54787,
+    "name": "Gura Humorului",
+    "country_id": 28
+  },
+  {
+    "place_id": 67061,
+    "name": "Gwangju",
+    "country_id": 48
+  },
+  {
+    "place_id": 67065,
+    "name": "Gyeongju",
+    "country_id": 48
+  },
+  {
+    "place_id": 51658,
+    "name": "Gyor",
+    "country_id": 25
+  },
+  {
+    "place_id": 50743,
+    "name": "Gyula",
+    "country_id": 25
+  },
+  {
+    "place_id": 63288,
+    "name": "Ha Giang",
+    "country_id": 43
+  },
+  {
+    "place_id": 63428,
+    "name": "Ha Long",
+    "country_id": 43
+  },
+  {
+    "place_id": 63141,
+    "name": "Ha Tien",
+    "country_id": 43
+  },
+  {
+    "place_id": 58742,
+    "name": "Haapsalu",
+    "country_id": 33
+  },
+  {
+    "place_id": 32243,
+    "name": "Haarlem",
+    "country_id": 10
+  },
+  {
+    "place_id": 20369,
+    "name": "Haddington",
+    "country_id": 4
+  },
+  {
+    "place_id": 45652,
+    "name": "Haderslev",
+    "country_id": 18
+  },
+  {
+    "place_id": 63800,
+    "name": "Haifa",
+    "country_id": 44
+  },
+  {
+    "place_id": 63145,
+    "name": "Haiphong",
+    "country_id": 43
+  },
+  {
+    "place_id": 64338,
+    "name": "Hakodate",
+    "country_id": 46
+  },
+  {
+    "place_id": 64749,
+    "name": "Hakone",
+    "country_id": 46
+  },
+  {
+    "place_id": 64340,
+    "name": "Hakuba-mura",
+    "country_id": 46
+  },
+  {
+    "place_id": 46494,
+    "name": "Halden",
+    "country_id": 19
+  },
+  {
+    "place_id": 34939,
+    "name": "Halle",
+    "country_id": 12
+  },
+  {
+    "place_id": 21196,
+    "name": "Halle",
+    "country_id": 5
+  },
+  {
+    "place_id": 28328,
+    "name": "Hallstatt",
+    "country_id": 8
+  },
+  {
+    "place_id": 42291,
+    "name": "Halmstad",
+    "country_id": 16
+  },
+  {
+    "place_id": 64590,
+    "name": "Hamamatsu",
+    "country_id": 46
+  },
+  {
+    "place_id": 46498,
+    "name": "Hamar",
+    "country_id": 19
+  },
+  {
+    "place_id": 21199,
+    "name": "Hamburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 39914,
+    "name": "Hameenlinna",
+    "country_id": 14
+  },
+  {
+    "place_id": 21464,
+    "name": "Hamelin",
+    "country_id": 5
+  },
+  {
+    "place_id": 65704,
+    "name": "Hamilton",
+    "country_id": 47
+  },
+  {
+    "place_id": 30931,
+    "name": "Hamilton Island",
+    "country_id": 9
+  },
+  {
+    "place_id": 46904,
+    "name": "Hammerfest",
+    "country_id": 19
+  },
+  {
+    "place_id": 21211,
+    "name": "Hanau",
+    "country_id": 5
+  },
+  {
+    "place_id": 65654,
+    "name": "Hanmer Springs",
+    "country_id": 47
+  },
+  {
+    "place_id": 21213,
+    "name": "Hann. Muenden",
+    "country_id": 5
+  },
+  {
+    "place_id": 21215,
+    "name": "Hannover",
+    "country_id": 5
+  },
+  {
+    "place_id": 63149,
+    "name": "Hanoi",
+    "country_id": 43
+  },
+  {
+    "place_id": 50746,
+    "name": "Harkany",
+    "country_id": 25
+  },
+  {
+    "place_id": 50152,
+    "name": "Harnosand",
+    "country_id": 16
+  },
+  {
+    "place_id": 14880,
+    "name": "Haro",
+    "country_id": 3
+  },
+  {
+    "place_id": 20376,
+    "name": "Harrogate",
+    "country_id": 4
+  },
+  {
+    "place_id": 50382,
+    "name": "Harstad",
+    "country_id": 19
+  },
+  {
+    "place_id": 34942,
+    "name": "Hasselt",
+    "country_id": 12
+  },
+  {
+    "place_id": 62011,
+    "name": "Hat Yai",
+    "country_id": 42
+  },
+  {
+    "place_id": 50340,
+    "name": "Haugesund",
+    "country_id": 19
+  },
+  {
+    "place_id": 20378,
+    "name": "Hawkshead",
+    "country_id": 4
+  },
+  {
+    "place_id": 20382,
+    "name": "Haworth",
+    "country_id": 4
+  },
+  {
+    "place_id": 21219,
+    "name": "Heidelberg",
+    "country_id": 5
+  },
+  {
+    "place_id": 28331,
+    "name": "Heiligenblut",
+    "country_id": 8
+  },
+  {
+    "place_id": 20385,
+    "name": "Helmsley",
+    "country_id": 4
+  },
+  {
+    "place_id": 42293,
+    "name": "Helsingborg",
+    "country_id": 16
+  },
+  {
+    "place_id": 39916,
+    "name": "Helsinki",
+    "country_id": 14
+  },
+  {
+    "place_id": 50369,
+    "name": "Hemsedal ",
+    "country_id": 19
+  },
+  {
+    "place_id": 20388,
+    "name": "Henley-on-Thames",
+    "country_id": 4
+  },
+  {
+    "place_id": 46501,
+    "name": "Henningsvaer",
+    "country_id": 19
+  },
+  {
+    "place_id": 40622,
+    "name": "Heraklion (Crete)",
+    "country_id": 15
+  },
+  {
+    "place_id": 59904,
+    "name": "Herceg Novi",
+    "country_id": 36
+  },
+  {
+    "place_id": 20390,
+    "name": "Hereford",
+    "country_id": 4
+  },
+  {
+    "place_id": 30947,
+    "name": "Hervey Bay",
+    "country_id": 9
+  },
+  {
+    "place_id": 66415,
+    "name": "Herzliya",
+    "country_id": 44
+  },
+  {
+    "place_id": 50748,
+    "name": "Heviz",
+    "country_id": 25
+  },
+  {
+    "place_id": 20396,
+    "name": "Hexham",
+    "country_id": 4
+  },
+  {
+    "place_id": 45656,
+    "name": "Hillerod",
+    "country_id": 18
+  },
+  {
+    "place_id": 60231,
+    "name": "Himare",
+    "country_id": 37
+  },
+  {
+    "place_id": 64342,
+    "name": "Himeji",
+    "country_id": 46
+  },
+  {
+    "place_id": 64346,
+    "name": "Hiroshima",
+    "country_id": 46
+  },
+  {
+    "place_id": 21224,
+    "name": "Hirschhorn",
+    "country_id": 5
+  },
+  {
+    "place_id": 55569,
+    "name": "Hisarya",
+    "country_id": 29
+  },
+  {
+    "place_id": 63177,
+    "name": "Ho Chi Minh City",
+    "country_id": 43
+  },
+  {
+    "place_id": 30742,
+    "name": "Hobart",
+    "country_id": 9
+  },
+  {
+    "place_id": 21226,
+    "name": "Hoexter",
+    "country_id": 5
+  },
+  {
+    "place_id": 47659,
+    "name": "Hofn",
+    "country_id": 20
+  },
+  {
+    "place_id": 63187,
+    "name": "Hoi An",
+    "country_id": 43
+  },
+  {
+    "place_id": 65656,
+    "name": "Hokitika",
+    "country_id": 47
+  },
+  {
+    "place_id": 50750,
+    "name": "Holloko",
+    "country_id": 25
+  },
+  {
+    "place_id": 61806,
+    "name": "Holmstad",
+    "country_id": 19
+  },
+  {
+    "place_id": 38353,
+    "name": "Holyhead",
+    "country_id": 4
+  },
+  {
+    "place_id": 14431,
+    "name": "Hondarribia",
+    "country_id": 3
+  },
+  {
+    "place_id": 50402,
+    "name": "Honefoss",
+    "country_id": 19
+  },
+  {
+    "place_id": 6104,
+    "name": "Honfleur",
+    "country_id": 2
+  },
+  {
+    "place_id": 69741,
+    "name": "Hong Kong",
+    "country_id": 54
+  },
+  {
+    "place_id": 50270,
+    "name": "Honningsvag",
+    "country_id": 19
+  },
+  {
+    "place_id": 32252,
+    "name": "Hoorn",
+    "country_id": 10
+  },
+  {
+    "place_id": 40611,
+    "name": "Hora Sfakion (Crete)",
+    "country_id": 15
+  },
+  {
+    "place_id": 48587,
+    "name": "Horsens",
+    "country_id": 18
+  },
+  {
+    "place_id": 49716,
+    "name": "Horta",
+    "country_id": 11
+  },
+  {
+    "place_id": 50373,
+    "name": "Horten",
+    "country_id": 19
+  },
+  {
+    "place_id": 50752,
+    "name": "Hortobagy",
+    "country_id": 25
+  },
+  {
+    "place_id": 50636,
+    "name": "Hradec Kralove",
+    "country_id": 17
+  },
+  {
+    "place_id": 61896,
+    "name": "Hua Hin",
+    "country_id": 42
+  },
+  {
+    "place_id": 63202,
+    "name": "Hue",
+    "country_id": 43
+  },
+  {
+    "place_id": 14982,
+    "name": "Huelva",
+    "country_id": 3
+  },
+  {
+    "place_id": 15031,
+    "name": "Huesca",
+    "country_id": 3
+  },
+  {
+    "place_id": 47662,
+    "name": "Husavik",
+    "country_id": 20
+  },
+  {
+    "place_id": 34944,
+    "name": "Huy",
+    "country_id": 12
+  },
+  {
+    "place_id": 50677,
+    "name": "Hvammstangi",
+    "country_id": 20
+  },
+  {
+    "place_id": 35975,
+    "name": "Hvar",
+    "country_id": 13
+  },
+  {
+    "place_id": 48803,
+    "name": "Hydra Port",
+    "country_id": 15
+  },
+  {
+    "place_id": 54488,
+    "name": "Iasi",
+    "country_id": 28
+  },
+  {
+    "place_id": 14968,
+    "name": "Ibiza Town",
+    "country_id": 3
+  },
+  {
+    "place_id": 56753,
+    "name": "Icmeler",
+    "country_id": 30
+  },
+  {
+    "place_id": 15003,
+    "name": "Icod de los Vinos",
+    "country_id": 3
+  },
+  {
+    "place_id": 69102,
+    "name": "Iloilo City",
+    "country_id": 53
+  },
+  {
+    "place_id": 36183,
+    "name": "Ilok",
+    "country_id": 13
+  },
+  {
+    "place_id": 1442,
+    "name": "Imperia",
+    "country_id": 1
+  },
+  {
+    "place_id": 40110,
+    "name": "Inari",
+    "country_id": 14
+  },
+  {
+    "place_id": 67071,
+    "name": "Incheon",
+    "country_id": 48
+  },
+  {
+    "place_id": 56500,
+    "name": "Inebolu",
+    "country_id": 30
+  },
+  {
+    "place_id": 28333,
+    "name": "Innsbruck",
+    "country_id": 8
+  },
+  {
+    "place_id": 26814,
+    "name": "Interlaken",
+    "country_id": 7
+  },
+  {
+    "place_id": 64352,
+    "name": "Inuyama",
+    "country_id": 46
+  },
+  {
+    "place_id": 20398,
+    "name": "Inveraray",
+    "country_id": 4
+  },
+  {
+    "place_id": 65658,
+    "name": "Invercargill",
+    "country_id": 47
+  },
+  {
+    "place_id": 20404,
+    "name": "Inverness",
+    "country_id": 4
+  },
+  {
+    "place_id": 40615,
+    "name": "Ioannina",
+    "country_id": 15
+  },
+  {
+    "place_id": 48881,
+    "name": "Ios Town",
+    "country_id": 15
+  },
+  {
+    "place_id": 67646,
+    "name": "Ipoh",
+    "country_id": 51
+  },
+  {
+    "place_id": 47666,
+    "name": "Isafjordur",
+    "country_id": 20
+  },
+  {
+    "place_id": 1154,
+    "name": "Ischia",
+    "country_id": 1
+  },
+  {
+    "place_id": 20834,
+    "name": "Isle of Skye",
+    "country_id": 4
+  },
+  {
+    "place_id": 20410,
+    "name": "Isle of Wight",
+    "country_id": 4
+  },
+  {
+    "place_id": 56502,
+    "name": "Istanbul",
+    "country_id": 30
+  },
+  {
+    "place_id": 40115,
+    "name": "Ivalo",
+    "country_id": 14
+  },
+  {
+    "place_id": 60881,
+    "name": "Ivano-Frankivsk",
+    "country_id": 40
+  },
+  {
+    "place_id": 34948,
+    "name": "Ixelles",
+    "country_id": 12
+  },
+  {
+    "place_id": 56554,
+    "name": "Izmir",
+    "country_id": 30
+  },
+  {
+    "place_id": 56630,
+    "name": "Izmit",
+    "country_id": 30
+  },
+  {
+    "place_id": 56571,
+    "name": "Iznik",
+    "country_id": 30
+  },
+  {
+    "place_id": 48124,
+    "name": "Izola",
+    "country_id": 24
+  },
+  {
+    "place_id": 14666,
+    "name": "Jaca",
+    "country_id": 3
+  },
+  {
+    "place_id": 14741,
+    "name": "Jaen",
+    "country_id": 3
+  },
+  {
+    "place_id": 59391,
+    "name": "Jagodina",
+    "country_id": 34
+  },
+  {
+    "place_id": 59716,
+    "name": "Jajce",
+    "country_id": 35
+  },
+  {
+    "place_id": 68195,
+    "name": "Jakarta",
+    "country_id": 52
+  },
+  {
+    "place_id": 51835,
+    "name": "Jawor",
+    "country_id": 26
+  },
+  {
+    "place_id": 67073,
+    "name": "Jeju City",
+    "country_id": 48
+  },
+  {
+    "place_id": 58223,
+    "name": "Jelgava",
+    "country_id": 32
+  },
+  {
+    "place_id": 45660,
+    "name": "Jelling",
+    "country_id": 18
+  },
+  {
+    "place_id": 49465,
+    "name": "Jelsa",
+    "country_id": 13
+  },
+  {
+    "place_id": 67075,
+    "name": "Jeonju",
+    "country_id": 48
+  },
+  {
+    "place_id": 14958,
+    "name": "Jerez de la Frontera",
+    "country_id": 3
+  },
+  {
+    "place_id": 63804,
+    "name": "Jerusalem",
+    "country_id": 44
+  },
+  {
+    "place_id": 50656,
+    "name": "Jihlava",
+    "country_id": 17
+  },
+  {
+    "place_id": 68201,
+    "name": "Jimbaran",
+    "country_id": 52
+  },
+  {
+    "place_id": 67078,
+    "name": "Jinju",
+    "country_id": 48
+  },
+  {
+    "place_id": 67648,
+    "name": "Johor Bahru",
+    "country_id": 51
+  },
+  {
+    "place_id": 50082,
+    "name": "Jokkmokk",
+    "country_id": 16
+  },
+  {
+    "place_id": 50157,
+    "name": "Jonkoping",
+    "country_id": 16
+  },
+  {
+    "place_id": 42297,
+    "name": "Jukkasjarvi",
+    "country_id": 16
+  },
+  {
+    "place_id": 57849,
+    "name": "Juodkrante",
+    "country_id": 31
+  },
+  {
+    "place_id": 58175,
+    "name": "Jurmala",
+    "country_id": 32
+  },
+  {
+    "place_id": 64356,
+    "name": "Kagoshima",
+    "country_id": 46
+  },
+  {
+    "place_id": 65660,
+    "name": "Kaikoura",
+    "country_id": 47
+  },
+  {
+    "place_id": 23692,
+    "name": "Kaiserslautern",
+    "country_id": 5
+  },
+  {
+    "place_id": 50237,
+    "name": "Kalambaka",
+    "country_id": 15
+  },
+  {
+    "place_id": 73750,
+    "name": "Kaliningrad",
+    "country_id": 58
+  },
+  {
+    "place_id": 55510,
+    "name": "Kalisz",
+    "country_id": 26
+  },
+  {
+    "place_id": 56578,
+    "name": "Kalkan",
+    "country_id": 30
+  },
+  {
+    "place_id": 42299,
+    "name": "Kalmar",
+    "country_id": 16
+  },
+  {
+    "place_id": 64358,
+    "name": "Kamakura",
+    "country_id": 46
+  },
+  {
+    "place_id": 62045,
+    "name": "Kamala",
+    "country_id": 42
+  },
+  {
+    "place_id": 60890,
+    "name": "Kamianets-Podilskyi",
+    "country_id": 40
+  },
+  {
+    "place_id": 32257,
+    "name": "Kampen",
+    "country_id": 10
+  },
+  {
+    "place_id": 61900,
+    "name": "Kamphaeng Phet",
+    "country_id": 42
+  },
+  {
+    "place_id": 64227,
+    "name": "Kampot",
+    "country_id": 45
+  },
+  {
+    "place_id": 64368,
+    "name": "Kanazawa",
+    "country_id": 46
+  },
+  {
+    "place_id": 61909,
+    "name": "Kanchanaburi",
+    "country_id": 42
+  },
+  {
+    "place_id": 28355,
+    "name": "Kaprun",
+    "country_id": 8
+  },
+  {
+    "place_id": 65662,
+    "name": "Karamea",
+    "country_id": 47
+  },
+  {
+    "place_id": 44229,
+    "name": "Karlovy Vary",
+    "country_id": 17
+  },
+  {
+    "place_id": 50166,
+    "name": "Karlshamn",
+    "country_id": 16
+  },
+  {
+    "place_id": 50171,
+    "name": "Karlskrona",
+    "country_id": 16
+  },
+  {
+    "place_id": 21229,
+    "name": "Karlsruhe",
+    "country_id": 5
+  },
+  {
+    "place_id": 42302,
+    "name": "Karlstad",
+    "country_id": 16
+  },
+  {
+    "place_id": 66387,
+    "name": "Karmiel",
+    "country_id": 44
+  },
+  {
+    "place_id": 56788,
+    "name": "Kars",
+    "country_id": 30
+  },
+  {
+    "place_id": 56581,
+    "name": "Kas",
+    "country_id": 30
+  },
+  {
+    "place_id": 21232,
+    "name": "Kassel",
+    "country_id": 5
+  },
+  {
+    "place_id": 40630,
+    "name": "Kastoria",
+    "country_id": 15
+  },
+  {
+    "place_id": 30750,
+    "name": "Katherine",
+    "country_id": 9
+  },
+  {
+    "place_id": 30752,
+    "name": "Katoomba",
+    "country_id": 9
+  },
+  {
+    "place_id": 53920,
+    "name": "Katowice",
+    "country_id": 26
+  },
+  {
+    "place_id": 32262,
+    "name": "Katwijk aan Zee",
+    "country_id": 10
+  },
+  {
+    "place_id": 57851,
+    "name": "Kaunas",
+    "country_id": 31
+  },
+  {
+    "place_id": 60443,
+    "name": "Kavadarci",
+    "country_id": 38
+  },
+  {
+    "place_id": 41371,
+    "name": "Kavala",
+    "country_id": 15
+  },
+  {
+    "place_id": 64580,
+    "name": "Kawasaki",
+    "country_id": 46
+  },
+  {
+    "place_id": 56864,
+    "name": "Kayseri",
+    "country_id": 30
+  },
+  {
+    "place_id": 74387,
+    "name": "Kazan",
+    "country_id": 58
+  },
+  {
+    "place_id": 55249,
+    "name": "Kazimierz Dolny",
+    "country_id": 26
+  },
+  {
+    "place_id": 50754,
+    "name": "Kecskemet",
+    "country_id": 25
+  },
+  {
+    "place_id": 57858,
+    "name": "Kedainiai",
+    "country_id": 31
+  },
+  {
+    "place_id": 30007,
+    "name": "Kells",
+    "country_id": 6
+  },
+  {
+    "place_id": 20412,
+    "name": "Kelso",
+    "country_id": 4
+  },
+  {
+    "place_id": 56741,
+    "name": "Kemer",
+    "country_id": 30
+  },
+  {
+    "place_id": 61799,
+    "name": "Kemi",
+    "country_id": 14
+  },
+  {
+    "place_id": 39939,
+    "name": "Kemijarvi",
+    "country_id": 14
+  },
+  {
+    "place_id": 20418,
+    "name": "Kendal",
+    "country_id": 4
+  },
+  {
+    "place_id": 63572,
+    "name": "Kerch",
+    "country_id": 40
+  },
+  {
+    "place_id": 65664,
+    "name": "Kerikeri",
+    "country_id": 47
+  },
+  {
+    "place_id": 20421,
+    "name": "Keswick",
+    "country_id": 4
+  },
+  {
+    "place_id": 50756,
+    "name": "Keszthely",
+    "country_id": 25
+  },
+  {
+    "place_id": 61912,
+    "name": "Khao Lak",
+    "country_id": 42
+  },
+  {
+    "place_id": 60761,
+    "name": "Kharkiv",
+    "country_id": 40
+  },
+  {
+    "place_id": 63576,
+    "name": "Kherson",
+    "country_id": 40
+  },
+  {
+    "place_id": 62017,
+    "name": "Khon Kaen",
+    "country_id": 42
+  },
+  {
+    "place_id": 21239,
+    "name": "Kiel",
+    "country_id": 5
+  },
+  {
+    "place_id": 60666,
+    "name": "Kiev",
+    "country_id": 40
+  },
+  {
+    "place_id": 30088,
+    "name": "Kildare",
+    "country_id": 6
+  },
+  {
+    "place_id": 49549,
+    "name": "Kilkee",
+    "country_id": 6
+  },
+  {
+    "place_id": 30011,
+    "name": "Kilkenny",
+    "country_id": 6
+  },
+  {
+    "place_id": 30021,
+    "name": "Killarney",
+    "country_id": 6
+  },
+  {
+    "place_id": 30024,
+    "name": "Kilmore Quay",
+    "country_id": 6
+  },
+  {
+    "place_id": 38475,
+    "name": "King's Lynn",
+    "country_id": 4
+  },
+  {
+    "place_id": 30026,
+    "name": "Kinsale",
+    "country_id": 6
+  },
+  {
+    "place_id": 50265,
+    "name": "Kinsarvik",
+    "country_id": 19
+  },
+  {
+    "place_id": 50303,
+    "name": "Kirkenes",
+    "country_id": 19
+  },
+  {
+    "place_id": 20424,
+    "name": "Kirkwall",
+    "country_id": 4
+  },
+  {
+    "place_id": 42306,
+    "name": "Kiruna",
+    "country_id": 16
+  },
+  {
+    "place_id": 66393,
+    "name": "Kiryat Shmona",
+    "country_id": 44
+  },
+  {
+    "place_id": 28357,
+    "name": "Kitzbuhel",
+    "country_id": 8
+  },
+  {
+    "place_id": 56792,
+    "name": "Kizkalesi",
+    "country_id": 30
+  },
+  {
+    "place_id": 28360,
+    "name": "Klagenfurt",
+    "country_id": 8
+  },
+  {
+    "place_id": 57898,
+    "name": "Klaipeda",
+    "country_id": 31
+  },
+  {
+    "place_id": 55251,
+    "name": "Klodzko",
+    "country_id": 26
+  },
+  {
+    "place_id": 28369,
+    "name": "Klosterneuburg",
+    "country_id": 8
+  },
+  {
+    "place_id": 26823,
+    "name": "Klosters",
+    "country_id": 7
+  },
+  {
+    "place_id": 34952,
+    "name": "Knokke-Heist",
+    "country_id": 12
+  },
+  {
+    "place_id": 61915,
+    "name": "Ko Chang",
+    "country_id": 42
+  },
+  {
+    "place_id": 61919,
+    "name": "Ko Lanta",
+    "country_id": 42
+  },
+  {
+    "place_id": 62013,
+    "name": "Ko Lipe",
+    "country_id": 42
+  },
+  {
+    "place_id": 61922,
+    "name": "Ko Pha Ngan",
+    "country_id": 42
+  },
+  {
+    "place_id": 61927,
+    "name": "Ko Phi Phi",
+    "country_id": 42
+  },
+  {
+    "place_id": 61936,
+    "name": "Ko Samet",
+    "country_id": 42
+  },
+  {
+    "place_id": 61940,
+    "name": "Ko Samui",
+    "country_id": 42
+  },
+  {
+    "place_id": 62047,
+    "name": "Ko Tao",
+    "country_id": 42
+  },
+  {
+    "place_id": 48126,
+    "name": "Kobarid",
+    "country_id": 24
+  },
+  {
+    "place_id": 64378,
+    "name": "Kobe",
+    "country_id": 46
+  },
+  {
+    "place_id": 21243,
+    "name": "Koblenz",
+    "country_id": 5
+  },
+  {
+    "place_id": 69837,
+    "name": "Kobuleti",
+    "country_id": 55
+  },
+  {
+    "place_id": 64385,
+    "name": "Kochi",
+    "country_id": 46
+  },
+  {
+    "place_id": 45662,
+    "name": "Koge",
+    "country_id": 18
+  },
+  {
+    "place_id": 62087,
+    "name": "Koh Mak",
+    "country_id": 42
+  },
+  {
+    "place_id": 49270,
+    "name": "Koksijde",
+    "country_id": 12
+  },
+  {
+    "place_id": 60822,
+    "name": "Koktebel",
+    "country_id": 40
+  },
+  {
+    "place_id": 59948,
+    "name": "Kolasin",
+    "country_id": 36
+  },
+  {
+    "place_id": 45664,
+    "name": "Kolding",
+    "country_id": 18
+  },
+  {
+    "place_id": 63225,
+    "name": "Kon Tum",
+    "country_id": 43
+  },
+  {
+    "place_id": 46503,
+    "name": "Kongsberg",
+    "country_id": 19
+  },
+  {
+    "place_id": 59698,
+    "name": "Konjic",
+    "country_id": 35
+  },
+  {
+    "place_id": 21246,
+    "name": "Konstanz",
+    "country_id": 5
+  },
+  {
+    "place_id": 56673,
+    "name": "Konya",
+    "country_id": 30
+  },
+  {
+    "place_id": 50674,
+    "name": "Kopavogur",
+    "country_id": 20
+  },
+  {
+    "place_id": 48215,
+    "name": "Koper",
+    "country_id": 24
+  },
+  {
+    "place_id": 55572,
+    "name": "Koprivshtitsa",
+    "country_id": 29
+  },
+  {
+    "place_id": 60245,
+    "name": "Korce",
+    "country_id": 37
+  },
+  {
+    "place_id": 35990,
+    "name": "Korcula",
+    "country_id": 13
+  },
+  {
+    "place_id": 34954,
+    "name": "Kortrijk",
+    "country_id": 12
+  },
+  {
+    "place_id": 48910,
+    "name": "Kos",
+    "country_id": 15
+  },
+  {
+    "place_id": 53941,
+    "name": "Kosice",
+    "country_id": 27
+  },
+  {
+    "place_id": 50758,
+    "name": "Koszeg",
+    "country_id": 25
+  },
+  {
+    "place_id": 67650,
+    "name": "Kota Bharu",
+    "country_id": 51
+  },
+  {
+    "place_id": 67652,
+    "name": "Kota Kinabalu",
+    "country_id": 51
+  },
+  {
+    "place_id": 59911,
+    "name": "Kotor",
+    "country_id": 36
+  },
+  {
+    "place_id": 61942,
+    "name": "Krabi",
+    "country_id": 42
+  },
+  {
+    "place_id": 59331,
+    "name": "Kragujevac",
+    "country_id": 34
+  },
+  {
+    "place_id": 51688,
+    "name": "Krakow",
+    "country_id": 26
+  },
+  {
+    "place_id": 59387,
+    "name": "Kraljevo",
+    "country_id": 34
+  },
+  {
+    "place_id": 48131,
+    "name": "Kranj",
+    "country_id": 24
+  },
+  {
+    "place_id": 48133,
+    "name": "Kranjska Gora",
+    "country_id": 24
+  },
+  {
+    "place_id": 64278,
+    "name": "Kratie",
+    "country_id": 45
+  },
+  {
+    "place_id": 60440,
+    "name": "Kratovo",
+    "country_id": 38
+  },
+  {
+    "place_id": 28371,
+    "name": "Krems",
+    "country_id": 8
+  },
+  {
+    "place_id": 46508,
+    "name": "Kristiansand",
+    "country_id": 19
+  },
+  {
+    "place_id": 50176,
+    "name": "Kristianstad",
+    "country_id": 16
+  },
+  {
+    "place_id": 39941,
+    "name": "Kristinestad",
+    "country_id": 14
+  },
+  {
+    "place_id": 36549,
+    "name": "Krk",
+    "country_id": 13
+  },
+  {
+    "place_id": 60427,
+    "name": "Krusevo",
+    "country_id": 38
+  },
+  {
+    "place_id": 60234,
+    "name": "Ksamil",
+    "country_id": 37
+  },
+  {
+    "place_id": 67654,
+    "name": "Kuala Lumpur",
+    "country_id": 51
+  },
+  {
+    "place_id": 67662,
+    "name": "Kuala Terengganu",
+    "country_id": 51
+  },
+  {
+    "place_id": 67665,
+    "name": "Kuantan",
+    "country_id": 51
+  },
+  {
+    "place_id": 67667,
+    "name": "Kuching",
+    "country_id": 51
+  },
+  {
+    "place_id": 58179,
+    "name": "Kuldiga",
+    "country_id": 32
+  },
+  {
+    "place_id": 64389,
+    "name": "Kumamoto",
+    "country_id": 46
+  },
+  {
+    "place_id": 30754,
+    "name": "Kununurra",
+    "country_id": 9
+  },
+  {
+    "place_id": 39944,
+    "name": "Kuopio",
+    "country_id": 14
+  },
+  {
+    "place_id": 58746,
+    "name": "Kuressaare",
+    "country_id": 33
+  },
+  {
+    "place_id": 56586,
+    "name": "Kusadasi",
+    "country_id": 30
+  },
+  {
+    "place_id": 68203,
+    "name": "Kuta",
+    "country_id": 52
+  },
+  {
+    "place_id": 69815,
+    "name": "Kutaisi",
+    "country_id": 55
+  },
+  {
+    "place_id": 44235,
+    "name": "Kutna Hora",
+    "country_id": 17
+  },
+  {
+    "place_id": 39948,
+    "name": "Kuusamo",
+    "country_id": 14
+  },
+  {
+    "place_id": 69855,
+    "name": "Kvareli",
+    "country_id": 55
+  },
+  {
+    "place_id": 64393,
+    "name": "Kyoto",
+    "country_id": 46
+  },
+  {
+    "place_id": 70180,
+    "name": "Kyrenia",
+    "country_id": 57
+  },
+  {
+    "place_id": 40638,
+    "name": "Kythira",
+    "country_id": 15
+  },
+  {
+    "place_id": 55577,
+    "name": "Kyustendil",
+    "country_id": 29
+  },
+  {
+    "place_id": 1170,
+    "name": "L'Aquila",
+    "country_id": 1
+  },
+  {
+    "place_id": 6109,
+    "name": "L'Isle sur la Sorgue",
+    "country_id": 2
+  },
+  {
+    "place_id": 6569,
+    "name": "La Baule",
+    "country_id": 2
+  },
+  {
+    "place_id": 49228,
+    "name": "La Louviere",
+    "country_id": 12
+  },
+  {
+    "place_id": 6112,
+    "name": "La Rochelle",
+    "country_id": 2
+  },
+  {
+    "place_id": 6119,
+    "name": "La Roque Gageac",
+    "country_id": 2
+  },
+  {
+    "place_id": 14918,
+    "name": "La Seu d'Urgell",
+    "country_id": 3
+  },
+  {
+    "place_id": 49910,
+    "name": "La Spezia",
+    "country_id": 1
+  },
+  {
+    "place_id": 36002,
+    "name": "Labin",
+    "country_id": 13
+  },
+  {
+    "place_id": 20431,
+    "name": "Lacock",
+    "country_id": 4
+  },
+  {
+    "place_id": 62023,
+    "name": "Laem Chabang",
+    "country_id": 42
+  },
+  {
+    "place_id": 69821,
+    "name": "Lagodekhi",
+    "country_id": 55
+  },
+  {
+    "place_id": 33700,
+    "name": "Lagos",
+    "country_id": 11
+  },
+  {
+    "place_id": 14434,
+    "name": "Laguardia",
+    "country_id": 3
+  },
+  {
+    "place_id": 49519,
+    "name": "Lahinch",
+    "country_id": 6
+  },
+  {
+    "place_id": 61944,
+    "name": "Lampang",
+    "country_id": 42
+  },
+  {
+    "place_id": 68017,
+    "name": "Langkawi",
+    "country_id": 51
+  },
+  {
+    "place_id": 6122,
+    "name": "Laon",
+    "country_id": 2
+  },
+  {
+    "place_id": 41505,
+    "name": "Larisa",
+    "country_id": 15
+  },
+  {
+    "place_id": 70168,
+    "name": "Larnaca",
+    "country_id": 57
+  },
+  {
+    "place_id": 50320,
+    "name": "Larvik",
+    "country_id": 19
+  },
+  {
+    "place_id": 14468,
+    "name": "Las Palmas",
+    "country_id": 3
+  },
+  {
+    "place_id": 36007,
+    "name": "Lastovo",
+    "country_id": 13
+  },
+  {
+    "place_id": 49927,
+    "name": "Latina",
+    "country_id": 1
+  },
+  {
+    "place_id": 21249,
+    "name": "Lauenburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 30762,
+    "name": "Launceston",
+    "country_id": 9
+  },
+  {
+    "place_id": 26825,
+    "name": "Lausanne",
+    "country_id": 7
+  },
+  {
+    "place_id": 27591,
+    "name": "Lauterbrunnen",
+    "country_id": 7
+  },
+  {
+    "place_id": 67292,
+    "name": "Lautoka",
+    "country_id": 49
+  },
+  {
+    "place_id": 20437,
+    "name": "Lavenham",
+    "country_id": 4
+  },
+  {
+    "place_id": 6129,
+    "name": "Le Puy en Velay",
+    "country_id": 2
+  },
+  {
+    "place_id": 1109,
+    "name": "Lecce",
+    "country_id": 1
+  },
+  {
+    "place_id": 28373,
+    "name": "Lech",
+    "country_id": 8
+  },
+  {
+    "place_id": 20439,
+    "name": "Leeds",
+    "country_id": 4
+  },
+  {
+    "place_id": 32264,
+    "name": "Leeuwarden",
+    "country_id": 10
+  },
+  {
+    "place_id": 48890,
+    "name": "Lefkada",
+    "country_id": 15
+  },
+  {
+    "place_id": 48850,
+    "name": "Lefkes (Paros)",
+    "country_id": 15
+  },
+  {
+    "place_id": 49156,
+    "name": "Leicester",
+    "country_id": 4
+  },
+  {
+    "place_id": 32268,
+    "name": "Leiden",
+    "country_id": 10
+  },
+  {
+    "place_id": 21253,
+    "name": "Leipzig",
+    "country_id": 5
+  },
+  {
+    "place_id": 33705,
+    "name": "Leiria",
+    "country_id": 11
+  },
+  {
+    "place_id": 42308,
+    "name": "Leksand",
+    "country_id": 16
+  },
+  {
+    "place_id": 32400,
+    "name": "Lelystad",
+    "country_id": 10
+  },
+  {
+    "place_id": 14723,
+    "name": "Leon",
+    "country_id": 3
+  },
+  {
+    "place_id": 1446,
+    "name": "Lerici",
+    "country_id": 1
+  },
+  {
+    "place_id": 6134,
+    "name": "Les Baux de Provence",
+    "country_id": 2
+  },
+  {
+    "place_id": 26834,
+    "name": "Les Diablerets",
+    "country_id": 7
+  },
+  {
+    "place_id": 47902,
+    "name": "Les Escaldes",
+    "country_id": 21
+  },
+  {
+    "place_id": 6139,
+    "name": "Les Eyzies de Tayac",
+    "country_id": 2
+  },
+  {
+    "place_id": 49509,
+    "name": "Letterkenny",
+    "country_id": 6
+  },
+  {
+    "place_id": 26837,
+    "name": "Leukerbad",
+    "country_id": 7
+  },
+  {
+    "place_id": 30769,
+    "name": "Leura",
+    "country_id": 9
+  },
+  {
+    "place_id": 1450,
+    "name": "Levanto",
+    "country_id": 1
+  },
+  {
+    "place_id": 53944,
+    "name": "Levoca",
+    "country_id": 27
+  },
+  {
+    "place_id": 20447,
+    "name": "Lewes",
+    "country_id": 4
+  },
+  {
+    "place_id": 50607,
+    "name": "Liberec",
+    "country_id": 17
+  },
+  {
+    "place_id": 61610,
+    "name": "Lida",
+    "country_id": 41
+  },
+  {
+    "place_id": 34959,
+    "name": "Liege",
+    "country_id": 12
+  },
+  {
+    "place_id": 28375,
+    "name": "Lienz",
+    "country_id": 8
+  },
+  {
+    "place_id": 58183,
+    "name": "Liepaja",
+    "country_id": 32
+  },
+  {
+    "place_id": 34972,
+    "name": "Lier",
+    "country_id": 12
+  },
+  {
+    "place_id": 6143,
+    "name": "Lille",
+    "country_id": 2
+  },
+  {
+    "place_id": 46513,
+    "name": "Lillehammer",
+    "country_id": 19
+  },
+  {
+    "place_id": 70170,
+    "name": "Limassol",
+    "country_id": 57
+  },
+  {
+    "place_id": 30029,
+    "name": "Limerick",
+    "country_id": 6
+  },
+  {
+    "place_id": 61785,
+    "name": "Limoges",
+    "country_id": 2
+  },
+  {
+    "place_id": 20451,
+    "name": "Lincoln",
+    "country_id": 4
+  },
+  {
+    "place_id": 21258,
+    "name": "Lindau",
+    "country_id": 5
+  },
+  {
+    "place_id": 40640,
+    "name": "Lindos (Rhodes)",
+    "country_id": 15
+  },
+  {
+    "place_id": 42313,
+    "name": "Linkoping",
+    "country_id": 16
+  },
+  {
+    "place_id": 20461,
+    "name": "Linlithgow",
+    "country_id": 4
+  },
+  {
+    "place_id": 28377,
+    "name": "Linz",
+    "country_id": 8
+  },
+  {
+    "place_id": 1056,
+    "name": "Lipari Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 55530,
+    "name": "Liptovsky Mikulas",
+    "country_id": 27
+  },
+  {
+    "place_id": 33707,
+    "name": "Lisbon",
+    "country_id": 11
+  },
+  {
+    "place_id": 30034,
+    "name": "Lismore",
+    "country_id": 6
+  },
+  {
+    "place_id": 20464,
+    "name": "Liverpool",
+    "country_id": 4
+  },
+  {
+    "place_id": 1659,
+    "name": "Livorno",
+    "country_id": 1
+  },
+  {
+    "place_id": 48139,
+    "name": "Ljubljana",
+    "country_id": 24
+  },
+  {
+    "place_id": 38663,
+    "name": "Llandudno",
+    "country_id": 4
+  },
+  {
+    "place_id": 49358,
+    "name": "Llangollen",
+    "country_id": 4
+  },
+  {
+    "place_id": 26839,
+    "name": "Locarno",
+    "country_id": 7
+  },
+  {
+    "place_id": 6149,
+    "name": "Loches",
+    "country_id": 2
+  },
+  {
+    "place_id": 51756,
+    "name": "Lodz",
+    "country_id": 26
+  },
+  {
+    "place_id": 62073,
+    "name": "Loei",
+    "country_id": 42
+  },
+  {
+    "place_id": 14639,
+    "name": "Logrono",
+    "country_id": 3
+  },
+  {
+    "place_id": 50408,
+    "name": "Lom",
+    "country_id": 19
+  },
+  {
+    "place_id": 20479,
+    "name": "London",
+    "country_id": 4
+  },
+  {
+    "place_id": 30073,
+    "name": "Londonderry",
+    "country_id": 6
+  },
+  {
+    "place_id": 20553,
+    "name": "Long Melford",
+    "country_id": 4
+  },
+  {
+    "place_id": 50301,
+    "name": "Longyearbyen",
+    "country_id": 19
+  },
+  {
+    "place_id": 61948,
+    "name": "Lopburi",
+    "country_id": 42
+  },
+  {
+    "place_id": 49637,
+    "name": "Loule",
+    "country_id": 11
+  },
+  {
+    "place_id": 6151,
+    "name": "Lourdes",
+    "country_id": 2
+  },
+  {
+    "place_id": 34976,
+    "name": "Louvain",
+    "country_id": 12
+  },
+  {
+    "place_id": 34983,
+    "name": "Louvain-la-Neuve",
+    "country_id": 12
+  },
+  {
+    "place_id": 55581,
+    "name": "Lovech",
+    "country_id": 29
+  },
+  {
+    "place_id": 36242,
+    "name": "Lovran",
+    "country_id": 13
+  },
+  {
+    "place_id": 21468,
+    "name": "Lubeck",
+    "country_id": 5
+  },
+  {
+    "place_id": 51764,
+    "name": "Lublin",
+    "country_id": 26
+  },
+  {
+    "place_id": 1320,
+    "name": "Lucca",
+    "country_id": 1
+  },
+  {
+    "place_id": 26843,
+    "name": "Lucerne",
+    "country_id": 7
+  },
+  {
+    "place_id": 20555,
+    "name": "Ludlow",
+    "country_id": 4
+  },
+  {
+    "place_id": 58189,
+    "name": "Ludza",
+    "country_id": 32
+  },
+  {
+    "place_id": 21261,
+    "name": "Lueneburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 26858,
+    "name": "Lugano",
+    "country_id": 7
+  },
+  {
+    "place_id": 14703,
+    "name": "Lugo",
+    "country_id": 3
+  },
+  {
+    "place_id": 63592,
+    "name": "Luhansk",
+    "country_id": 40
+  },
+  {
+    "place_id": 50086,
+    "name": "Lulea",
+    "country_id": 16
+  },
+  {
+    "place_id": 36597,
+    "name": "Lumbarda",
+    "country_id": 13
+  },
+  {
+    "place_id": 42315,
+    "name": "Lund",
+    "country_id": 16
+  },
+  {
+    "place_id": 33745,
+    "name": "Luso",
+    "country_id": 11
+  },
+  {
+    "place_id": 60916,
+    "name": "Lutsk",
+    "country_id": 40
+  },
+  {
+    "place_id": 47992,
+    "name": "Luxembourg City",
+    "country_id": 23
+  },
+  {
+    "place_id": 60738,
+    "name": "Lviv",
+    "country_id": 40
+  },
+  {
+    "place_id": 42322,
+    "name": "Lycksele",
+    "country_id": 16
+  },
+  {
+    "place_id": 6547,
+    "name": "Lyon",
+    "country_id": 2
+  },
+  {
+    "place_id": 32277,
+    "name": "Maastricht",
+    "country_id": 10
+  },
+  {
+    "place_id": 1247,
+    "name": "Macerata",
+    "country_id": 1
+  },
+  {
+    "place_id": 30926,
+    "name": "Mackay",
+    "country_id": 9
+  },
+  {
+    "place_id": 69092,
+    "name": "Mactan",
+    "country_id": 53
+  },
+  {
+    "place_id": 49713,
+    "name": "Madalena",
+    "country_id": 11
+  },
+  {
+    "place_id": 14397,
+    "name": "Madrid",
+    "country_id": 3
+  },
+  {
+    "place_id": 61952,
+    "name": "Mae Hong Son",
+    "country_id": 42
+  },
+  {
+    "place_id": 62035,
+    "name": "Mae Nam",
+    "country_id": 42
+  },
+  {
+    "place_id": 61957,
+    "name": "Mae Sariang",
+    "country_id": 42
+  },
+  {
+    "place_id": 62071,
+    "name": "Mae Sot",
+    "country_id": 42
+  },
+  {
+    "place_id": 21264,
+    "name": "Magdeburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 15012,
+    "name": "Mahon",
+    "country_id": 3
+  },
+  {
+    "place_id": 21268,
+    "name": "Mainz",
+    "country_id": 5
+  },
+  {
+    "place_id": 36245,
+    "name": "Makarska",
+    "country_id": 13
+  },
+  {
+    "place_id": 68553,
+    "name": "Makassar",
+    "country_id": 52
+  },
+  {
+    "place_id": 40642,
+    "name": "Makrinitsa",
+    "country_id": 15
+  },
+  {
+    "place_id": 67669,
+    "name": "Malacca",
+    "country_id": 51
+  },
+  {
+    "place_id": 61613,
+    "name": "Maladzyechna",
+    "country_id": 41
+  },
+  {
+    "place_id": 14944,
+    "name": "Malaga",
+    "country_id": 3
+  },
+  {
+    "place_id": 68205,
+    "name": "Malang",
+    "country_id": 52
+  },
+  {
+    "place_id": 47958,
+    "name": "Malbun",
+    "country_id": 22
+  },
+  {
+    "place_id": 36252,
+    "name": "Mali Losinj",
+    "country_id": 13
+  },
+  {
+    "place_id": 40644,
+    "name": "Malia (Crete)",
+    "country_id": 15
+  },
+  {
+    "place_id": 34986,
+    "name": "Malmedy",
+    "country_id": 12
+  },
+  {
+    "place_id": 42326,
+    "name": "Malmo",
+    "country_id": 16
+  },
+  {
+    "place_id": 20560,
+    "name": "Manchester",
+    "country_id": 4
+  },
+  {
+    "place_id": 46519,
+    "name": "Mandal",
+    "country_id": 19
+  },
+  {
+    "place_id": 68207,
+    "name": "Mangsit",
+    "country_id": 52
+  },
+  {
+    "place_id": 69074,
+    "name": "Manila",
+    "country_id": 53
+  },
+  {
+    "place_id": 1502,
+    "name": "Mantua",
+    "country_id": 1
+  },
+  {
+    "place_id": 49921,
+    "name": "Maranello",
+    "country_id": 1
+  },
+  {
+    "place_id": 1129,
+    "name": "Maratea",
+    "country_id": 1
+  },
+  {
+    "place_id": 14851,
+    "name": "Marbella",
+    "country_id": 3
+  },
+  {
+    "place_id": 21273,
+    "name": "Marburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 56763,
+    "name": "Mardin",
+    "country_id": 30
+  },
+  {
+    "place_id": 30777,
+    "name": "Margaret River",
+    "country_id": 9
+  },
+  {
+    "place_id": 44240,
+    "name": "Marianske Lazne",
+    "country_id": 17
+  },
+  {
+    "place_id": 48168,
+    "name": "Maribor",
+    "country_id": 24
+  },
+  {
+    "place_id": 63582,
+    "name": "Mariupol",
+    "country_id": 40
+  },
+  {
+    "place_id": 60567,
+    "name": "Marken",
+    "country_id": 10
+  },
+  {
+    "place_id": 20575,
+    "name": "Marlborough",
+    "country_id": 4
+  },
+  {
+    "place_id": 56590,
+    "name": "Marmaris",
+    "country_id": 30
+  },
+  {
+    "place_id": 70094,
+    "name": "Marsaskala",
+    "country_id": 56
+  },
+  {
+    "place_id": 70074,
+    "name": "Marsaxlokk",
+    "country_id": 56
+  },
+  {
+    "place_id": 6557,
+    "name": "Marseille",
+    "country_id": 2
+  },
+  {
+    "place_id": 42337,
+    "name": "Marstrand",
+    "country_id": 16
+  },
+  {
+    "place_id": 26864,
+    "name": "Martigny",
+    "country_id": 7
+  },
+  {
+    "place_id": 10766,
+    "name": "Martigues",
+    "country_id": 2
+  },
+  {
+    "place_id": 1117,
+    "name": "Martina Franca",
+    "country_id": 1
+  },
+  {
+    "place_id": 65666,
+    "name": "Martinborough",
+    "country_id": 47
+  },
+  {
+    "place_id": 33747,
+    "name": "Marvao",
+    "country_id": 11
+  },
+  {
+    "place_id": 1669,
+    "name": "Massa Marittima",
+    "country_id": 1
+  },
+  {
+    "place_id": 1134,
+    "name": "Matera",
+    "country_id": 1
+  },
+  {
+    "place_id": 20572,
+    "name": "Matlock",
+    "country_id": 4
+  },
+  {
+    "place_id": 49640,
+    "name": "Matosinhos",
+    "country_id": 11
+  },
+  {
+    "place_id": 64428,
+    "name": "Matsumoto",
+    "country_id": 46
+  },
+  {
+    "place_id": 64432,
+    "name": "Matsuyama",
+    "country_id": 46
+  },
+  {
+    "place_id": 21278,
+    "name": "Maulbronn",
+    "country_id": 5
+  },
+  {
+    "place_id": 28387,
+    "name": "Mayerling",
+    "country_id": 8
+  },
+  {
+    "place_id": 70076,
+    "name": "Mdina",
+    "country_id": 56
+  },
+  {
+    "place_id": 34989,
+    "name": "Mechlin",
+    "country_id": 12
+  },
+  {
+    "place_id": 68570,
+    "name": "Medan",
+    "country_id": 52
+  },
+  {
+    "place_id": 59670,
+    "name": "Medjugorje",
+    "country_id": 35
+  },
+  {
+    "place_id": 49448,
+    "name": "Medulin",
+    "country_id": 13
+  },
+  {
+    "place_id": 21281,
+    "name": "Meersburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 6156,
+    "name": "Megeve",
+    "country_id": 2
+  },
+  {
+    "place_id": 21283,
+    "name": "Meissen",
+    "country_id": 5
+  },
+  {
+    "place_id": 30782,
+    "name": "Melbourne",
+    "country_id": 9
+  },
+  {
+    "place_id": 28389,
+    "name": "Melk",
+    "country_id": 8
+  },
+  {
+    "place_id": 70090,
+    "name": "Mellieha",
+    "country_id": 56
+  },
+  {
+    "place_id": 55583,
+    "name": "Melnik",
+    "country_id": 29
+  },
+  {
+    "place_id": 44242,
+    "name": "Melnik",
+    "country_id": 17
+  },
+  {
+    "place_id": 20581,
+    "name": "Melrose",
+    "country_id": 4
+  },
+  {
+    "place_id": 6161,
+    "name": "Menton",
+    "country_id": 2
+  },
+  {
+    "place_id": 14364,
+    "name": "Merida",
+    "country_id": 3
+  },
+  {
+    "place_id": 30800,
+    "name": "Merimbula",
+    "country_id": 9
+  },
+  {
+    "place_id": 48531,
+    "name": "Mersch ",
+    "country_id": 23
+  },
+  {
+    "place_id": 56853,
+    "name": "Mersin",
+    "country_id": 30
+  },
+  {
+    "place_id": 1082,
+    "name": "Messina",
+    "country_id": 1
+  },
+  {
+    "place_id": 69827,
+    "name": "Mestia",
+    "country_id": 55
+  },
+  {
+    "place_id": 40647,
+    "name": "Methoni",
+    "country_id": 15
+  },
+  {
+    "place_id": 40649,
+    "name": "Metsovo",
+    "country_id": 15
+  },
+  {
+    "place_id": 66406,
+    "name": "Metula",
+    "country_id": 44
+  },
+  {
+    "place_id": 10902,
+    "name": "Metz",
+    "country_id": 2
+  },
+  {
+    "place_id": 32287,
+    "name": "Middelburg",
+    "country_id": 10
+  },
+  {
+    "place_id": 49297,
+    "name": "Middelkerke",
+    "country_id": 12
+  },
+  {
+    "place_id": 30093,
+    "name": "Midleton",
+    "country_id": 6
+  },
+  {
+    "place_id": 56775,
+    "name": "Midyat",
+    "country_id": 30
+  },
+  {
+    "place_id": 14530,
+    "name": "Mijas",
+    "country_id": 3
+  },
+  {
+    "place_id": 52797,
+    "name": "Mikolajki",
+    "country_id": 26
+  },
+  {
+    "place_id": 50647,
+    "name": "Mikulov",
+    "country_id": 17
+  },
+  {
+    "place_id": 1522,
+    "name": "Milan",
+    "country_id": 1
+  },
+  {
+    "place_id": 30940,
+    "name": "Mildura",
+    "country_id": 9
+  },
+  {
+    "place_id": 61529,
+    "name": "Minsk",
+    "country_id": 41
+  },
+  {
+    "place_id": 61619,
+    "name": "Mir",
+    "country_id": 41
+  },
+  {
+    "place_id": 30802,
+    "name": "Mission Beach",
+    "country_id": 9
+  },
+  {
+    "place_id": 21286,
+    "name": "Mittenwald",
+    "country_id": 5
+  },
+  {
+    "place_id": 64436,
+    "name": "Miyazaki",
+    "country_id": 46
+  },
+  {
+    "place_id": 50650,
+    "name": "Mlada Boleslav",
+    "country_id": 17
+  },
+  {
+    "place_id": 50393,
+    "name": "Mo i Rana",
+    "country_id": 19
+  },
+  {
+    "place_id": 1394,
+    "name": "Modena",
+    "country_id": 1
+  },
+  {
+    "place_id": 61580,
+    "name": "Mogilev",
+    "country_id": 41
+  },
+  {
+    "place_id": 67080,
+    "name": "Mokpo",
+    "country_id": 48
+  },
+  {
+    "place_id": 59538,
+    "name": "Mokra Gora",
+    "country_id": 34
+  },
+  {
+    "place_id": 46521,
+    "name": "Molde",
+    "country_id": 19
+  },
+  {
+    "place_id": 49682,
+    "name": "Momjan",
+    "country_id": 13
+  },
+  {
+    "place_id": 40658,
+    "name": "Monemvasia",
+    "country_id": 15
+  },
+  {
+    "place_id": 1120,
+    "name": "Monopoli",
+    "country_id": 1
+  },
+  {
+    "place_id": 1016,
+    "name": "Monreale",
+    "country_id": 1
+  },
+  {
+    "place_id": 34996,
+    "name": "Mons",
+    "country_id": 12
+  },
+  {
+    "place_id": 33751,
+    "name": "Monsanto",
+    "country_id": 11
+  },
+  {
+    "place_id": 33753,
+    "name": "Monsaraz",
+    "country_id": 11
+  },
+  {
+    "place_id": 21288,
+    "name": "Monschau",
+    "country_id": 5
+  },
+  {
+    "place_id": 20978,
+    "name": "Mont Saint Michel",
+    "country_id": 2
+  },
+  {
+    "place_id": 1350,
+    "name": "Montalcino",
+    "country_id": 1
+  },
+  {
+    "place_id": 26867,
+    "name": "Montana",
+    "country_id": 7
+  },
+  {
+    "place_id": 49821,
+    "name": "Monte Carlo",
+    "country_id": 2
+  },
+  {
+    "place_id": 1325,
+    "name": "Montecatini Terme",
+    "country_id": 1
+  },
+  {
+    "place_id": 1353,
+    "name": "Montepulciano",
+    "country_id": 1
+  },
+  {
+    "place_id": 1305,
+    "name": "Monteriggioni",
+    "country_id": 1
+  },
+  {
+    "place_id": 6174,
+    "name": "Montpellier",
+    "country_id": 2
+  },
+  {
+    "place_id": 26869,
+    "name": "Montreux",
+    "country_id": 7
+  },
+  {
+    "place_id": 42339,
+    "name": "Mora",
+    "country_id": 16
+  },
+  {
+    "place_id": 26873,
+    "name": "Morcote",
+    "country_id": 7
+  },
+  {
+    "place_id": 20587,
+    "name": "Moreton-in-Marsh",
+    "country_id": 4
+  },
+  {
+    "place_id": 26875,
+    "name": "Morges",
+    "country_id": 7
+  },
+  {
+    "place_id": 72177,
+    "name": "Moscow",
+    "country_id": 58
+  },
+  {
+    "place_id": 47673,
+    "name": "Mosfellsbaer",
+    "country_id": 20
+  },
+  {
+    "place_id": 50332,
+    "name": "Moss",
+    "country_id": 19
+  },
+  {
+    "place_id": 70078,
+    "name": "Mosta",
+    "country_id": 56
+  },
+  {
+    "place_id": 59659,
+    "name": "Mostar",
+    "country_id": 35
+  },
+  {
+    "place_id": 36646,
+    "name": "Motovun",
+    "country_id": 13
+  },
+  {
+    "place_id": 30804,
+    "name": "Mount Isa",
+    "country_id": 9
+  },
+  {
+    "place_id": 69849,
+    "name": "Mtskheta",
+    "country_id": 55
+  },
+  {
+    "place_id": 21292,
+    "name": "Muenster",
+    "country_id": 5
+  },
+  {
+    "place_id": 56627,
+    "name": "Mugla",
+    "country_id": 30
+  },
+  {
+    "place_id": 63254,
+    "name": "Mui Ne",
+    "country_id": 43
+  },
+  {
+    "place_id": 32292,
+    "name": "Muiden",
+    "country_id": 10
+  },
+  {
+    "place_id": 60933,
+    "name": "Mukacheve",
+    "country_id": 40
+  },
+  {
+    "place_id": 30096,
+    "name": "Mullingar",
+    "country_id": 6
+  },
+  {
+    "place_id": 21300,
+    "name": "Munich",
+    "country_id": 5
+  },
+  {
+    "place_id": 65668,
+    "name": "Murchison",
+    "country_id": 47
+  },
+  {
+    "place_id": 18083,
+    "name": "Murcia",
+    "country_id": 3
+  },
+  {
+    "place_id": 26878,
+    "name": "Murren",
+    "country_id": 7
+  },
+  {
+    "place_id": 26881,
+    "name": "Murten",
+    "country_id": 7
+  },
+  {
+    "place_id": 30808,
+    "name": "Murwillumbah",
+    "country_id": 9
+  },
+  {
+    "place_id": 56599,
+    "name": "Mustafapasa",
+    "country_id": 30
+  },
+  {
+    "place_id": 26883,
+    "name": "Mustair",
+    "country_id": 7
+  },
+  {
+    "place_id": 63268,
+    "name": "My Tho",
+    "country_id": 43
+  },
+  {
+    "place_id": 60872,
+    "name": "Mykolaiv",
+    "country_id": 40
+  },
+  {
+    "place_id": 40663,
+    "name": "Mykonos",
+    "country_id": 15
+  },
+  {
+    "place_id": 39950,
+    "name": "Naantali",
+    "country_id": 14
+  },
+  {
+    "place_id": 32295,
+    "name": "Naarden",
+    "country_id": 10
+  },
+  {
+    "place_id": 67294,
+    "name": "Nadi",
+    "country_id": 49
+  },
+  {
+    "place_id": 40671,
+    "name": "Nafplion",
+    "country_id": 15
+  },
+  {
+    "place_id": 64438,
+    "name": "Nagano",
+    "country_id": 46
+  },
+  {
+    "place_id": 64442,
+    "name": "Nagasaki",
+    "country_id": 46
+  },
+  {
+    "place_id": 64448,
+    "name": "Nagoya",
+    "country_id": 46
+  },
+  {
+    "place_id": 64456,
+    "name": "Naha",
+    "country_id": 46
+  },
+  {
+    "place_id": 64066,
+    "name": "Nahariya",
+    "country_id": 44
+  },
+  {
+    "place_id": 61960,
+    "name": "Nakhon Pathom",
+    "country_id": 42
+  },
+  {
+    "place_id": 62049,
+    "name": "Nakhon Ratchasima",
+    "country_id": 42
+  },
+  {
+    "place_id": 62027,
+    "name": "Nakhon Si Thammarat",
+    "country_id": 42
+  },
+  {
+    "place_id": 35003,
+    "name": "Namur",
+    "country_id": 12
+  },
+  {
+    "place_id": 67082,
+    "name": "Namwon",
+    "country_id": 48
+  },
+  {
+    "place_id": 62061,
+    "name": "Nan",
+    "country_id": 42
+  },
+  {
+    "place_id": 6181,
+    "name": "Nancy",
+    "country_id": 2
+  },
+  {
+    "place_id": 6188,
+    "name": "Nantes",
+    "country_id": 2
+  },
+  {
+    "place_id": 48856,
+    "name": "Naoussa (Paros)",
+    "country_id": 15
+  },
+  {
+    "place_id": 65670,
+    "name": "Napier",
+    "country_id": 47
+  },
+  {
+    "place_id": 1162,
+    "name": "Naples",
+    "country_id": 1
+  },
+  {
+    "place_id": 64458,
+    "name": "Nara",
+    "country_id": 46
+  },
+  {
+    "place_id": 6195,
+    "name": "Narbonne",
+    "country_id": 2
+  },
+  {
+    "place_id": 30810,
+    "name": "Narooma",
+    "country_id": 9
+  },
+  {
+    "place_id": 60163,
+    "name": "Narva",
+    "country_id": 33
+  },
+  {
+    "place_id": 46524,
+    "name": "Narvik",
+    "country_id": 19
+  },
+  {
+    "place_id": 21313,
+    "name": "Naumburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 40680,
+    "name": "Naxos",
+    "country_id": 15
+  },
+  {
+    "place_id": 33756,
+    "name": "Nazare",
+    "country_id": 11
+  },
+  {
+    "place_id": 63833,
+    "name": "Nazareth",
+    "country_id": 44
+  },
+  {
+    "place_id": 65673,
+    "name": "Nelson",
+    "country_id": 47
+  },
+  {
+    "place_id": 1237,
+    "name": "Nemi",
+    "country_id": 1
+  },
+  {
+    "place_id": 14437,
+    "name": "Nerja",
+    "country_id": 3
+  },
+  {
+    "place_id": 55586,
+    "name": "Nesebar",
+    "country_id": 29
+  },
+  {
+    "place_id": 61606,
+    "name": "Nesvizh",
+    "country_id": 41
+  },
+  {
+    "place_id": 63817,
+    "name": "Netanya",
+    "country_id": 44
+  },
+  {
+    "place_id": 26886,
+    "name": "Neuchatel",
+    "country_id": 7
+  },
+  {
+    "place_id": 59692,
+    "name": "Neum",
+    "country_id": 35
+  },
+  {
+    "place_id": 28393,
+    "name": "Neusiedl am See",
+    "country_id": 8
+  },
+  {
+    "place_id": 69835,
+    "name": "New Athos",
+    "country_id": 55
+  },
+  {
+    "place_id": 65676,
+    "name": "New Plymouth",
+    "country_id": 47
+  },
+  {
+    "place_id": 20589,
+    "name": "Newcastle",
+    "country_id": 4
+  },
+  {
+    "place_id": 30889,
+    "name": "Newcastle",
+    "country_id": 9
+  },
+  {
+    "place_id": 49329,
+    "name": "Newport",
+    "country_id": 4
+  },
+  {
+    "place_id": 63231,
+    "name": "Nha Trang",
+    "country_id": 43
+  },
+  {
+    "place_id": 6202,
+    "name": "Nice",
+    "country_id": 2
+  },
+  {
+    "place_id": 70176,
+    "name": "Nicosia",
+    "country_id": 57
+  },
+  {
+    "place_id": 57862,
+    "name": "Nida",
+    "country_id": 31
+  },
+  {
+    "place_id": 48899,
+    "name": "Nidri (Lefkada)",
+    "country_id": 15
+  },
+  {
+    "place_id": 49265,
+    "name": "Nieuwpoort",
+    "country_id": 12
+  },
+  {
+    "place_id": 56821,
+    "name": "Nigde",
+    "country_id": 30
+  },
+  {
+    "place_id": 64466,
+    "name": "Niigata",
+    "country_id": 46
+  },
+  {
+    "place_id": 32299,
+    "name": "Nijmegen",
+    "country_id": 10
+  },
+  {
+    "place_id": 64468,
+    "name": "Nikko",
+    "country_id": 46
+  },
+  {
+    "place_id": 6211,
+    "name": "Nimes",
+    "country_id": 2
+  },
+  {
+    "place_id": 36013,
+    "name": "Nin",
+    "country_id": 13
+  },
+  {
+    "place_id": 63256,
+    "name": "Ninh Binh",
+    "country_id": 43
+  },
+  {
+    "place_id": 59323,
+    "name": "Nis",
+    "country_id": 34
+  },
+  {
+    "place_id": 53947,
+    "name": "Nitra",
+    "country_id": 27
+  },
+  {
+    "place_id": 49174,
+    "name": "Nivelles",
+    "country_id": 12
+  },
+  {
+    "place_id": 74725,
+    "name": "Nizhny Novgorod",
+    "country_id": 58
+  },
+  {
+    "place_id": 21320,
+    "name": "Noerdlingen",
+    "country_id": 5
+  },
+  {
+    "place_id": 1467,
+    "name": "Noli",
+    "country_id": 1
+  },
+  {
+    "place_id": 62065,
+    "name": "Nong Khai",
+    "country_id": 42
+  },
+  {
+    "place_id": 62031,
+    "name": "Nonthaburi",
+    "country_id": 42
+  },
+  {
+    "place_id": 32305,
+    "name": "Noordwijk",
+    "country_id": 10
+  },
+  {
+    "place_id": 50140,
+    "name": "Norrkoping",
+    "country_id": 16
+  },
+  {
+    "place_id": 49302,
+    "name": "Northampton",
+    "country_id": 4
+  },
+  {
+    "place_id": 20596,
+    "name": "Norwich",
+    "country_id": 4
+  },
+  {
+    "place_id": 49216,
+    "name": "Nottingham",
+    "country_id": 4
+  },
+  {
+    "place_id": 49434,
+    "name": "Novalja",
+    "country_id": 13
+  },
+  {
+    "place_id": 59381,
+    "name": "Novi Pazar",
+    "country_id": 34
+  },
+  {
+    "place_id": 59310,
+    "name": "Novi Sad",
+    "country_id": 34
+  },
+  {
+    "place_id": 36256,
+    "name": "Novigrad",
+    "country_id": 13
+  },
+  {
+    "place_id": 48180,
+    "name": "Novo Mesto",
+    "country_id": 24
+  },
+  {
+    "place_id": 55253,
+    "name": "Nowy Sacz",
+    "country_id": 26
+  },
+  {
+    "place_id": 21480,
+    "name": "Nuremberg",
+    "country_id": 5
+  },
+  {
+    "place_id": 68592,
+    "name": "Nusa Dua",
+    "country_id": 52
+  },
+  {
+    "place_id": 50197,
+    "name": "Nykoping",
+    "country_id": 16
+  },
+  {
+    "place_id": 26893,
+    "name": "Nyon",
+    "country_id": 7
+  },
+  {
+    "place_id": 65979,
+    "name": "Oamaru",
+    "country_id": 47
+  },
+  {
+    "place_id": 49368,
+    "name": "Oban",
+    "country_id": 4
+  },
+  {
+    "place_id": 21322,
+    "name": "Oberammergau",
+    "country_id": 5
+  },
+  {
+    "place_id": 6218,
+    "name": "Obernai",
+    "country_id": 2
+  },
+  {
+    "place_id": 21324,
+    "name": "Oberstdorf",
+    "country_id": 5
+  },
+  {
+    "place_id": 33758,
+    "name": "Obidos",
+    "country_id": 11
+  },
+  {
+    "place_id": 50578,
+    "name": "Odda",
+    "country_id": 19
+  },
+  {
+    "place_id": 45668,
+    "name": "Odense",
+    "country_id": 18
+  },
+  {
+    "place_id": 60708,
+    "name": "Odessa",
+    "country_id": 40
+  },
+  {
+    "place_id": 60396,
+    "name": "Ohrid",
+    "country_id": 38
+  },
+  {
+    "place_id": 40683,
+    "name": "Oia (Santorini)",
+    "country_id": 15
+  },
+  {
+    "place_id": 32307,
+    "name": "Oisterwijk",
+    "country_id": 10
+  },
+  {
+    "place_id": 64473,
+    "name": "Okayama",
+    "country_id": 46
+  },
+  {
+    "place_id": 49423,
+    "name": "Okrug Gornji",
+    "country_id": 13
+  },
+  {
+    "place_id": 1617,
+    "name": "Olbia",
+    "country_id": 1
+  },
+  {
+    "place_id": 47228,
+    "name": "Olden",
+    "country_id": 19
+  },
+  {
+    "place_id": 49626,
+    "name": "Olhao",
+    "country_id": 11
+  },
+  {
+    "place_id": 14518,
+    "name": "Olite",
+    "country_id": 3
+  },
+  {
+    "place_id": 48667,
+    "name": "Olomouc",
+    "country_id": 17
+  },
+  {
+    "place_id": 14585,
+    "name": "Olot",
+    "country_id": 3
+  },
+  {
+    "place_id": 56749,
+    "name": "Oludeniz",
+    "country_id": 30
+  },
+  {
+    "place_id": 40685,
+    "name": "Olympia",
+    "country_id": 15
+  },
+  {
+    "place_id": 49455,
+    "name": "Omis",
+    "country_id": 13
+  },
+  {
+    "place_id": 32309,
+    "name": "Ootmarsum",
+    "country_id": 10
+  },
+  {
+    "place_id": 36019,
+    "name": "Opatija",
+    "country_id": 13
+  },
+  {
+    "place_id": 54458,
+    "name": "Oradea",
+    "country_id": 28
+  },
+  {
+    "place_id": 6224,
+    "name": "Orange",
+    "country_id": 2
+  },
+  {
+    "place_id": 30944,
+    "name": "Orange",
+    "country_id": 9
+  },
+  {
+    "place_id": 49922,
+    "name": "Orbetello",
+    "country_id": 1
+  },
+  {
+    "place_id": 36022,
+    "name": "Orebic",
+    "country_id": 13
+  },
+  {
+    "place_id": 50120,
+    "name": "Orebro",
+    "country_id": 16
+  },
+  {
+    "place_id": 60615,
+    "name": "Orhei",
+    "country_id": 39
+  },
+  {
+    "place_id": 1620,
+    "name": "Oristano",
+    "country_id": 1
+  },
+  {
+    "place_id": 6231,
+    "name": "Orleans",
+    "country_id": 2
+  },
+  {
+    "place_id": 70192,
+    "name": "Oroklini",
+    "country_id": 57
+  },
+  {
+    "place_id": 1262,
+    "name": "Orvieto",
+    "country_id": 1
+  },
+  {
+    "place_id": 64479,
+    "name": "Osaka",
+    "country_id": 46
+  },
+  {
+    "place_id": 36025,
+    "name": "Osijek",
+    "country_id": 13
+  },
+  {
+    "place_id": 46526,
+    "name": "Oslo",
+    "country_id": 19
+  },
+  {
+    "place_id": 35019,
+    "name": "Ostend",
+    "country_id": 12
+  },
+  {
+    "place_id": 50068,
+    "name": "Ostersund",
+    "country_id": 16
+  },
+  {
+    "place_id": 50616,
+    "name": "Ostrava",
+    "country_id": 17
+  },
+  {
+    "place_id": 1089,
+    "name": "Ostuni",
+    "country_id": 1
+  },
+  {
+    "place_id": 58749,
+    "name": "Otepaa",
+    "country_id": 33
+  },
+  {
+    "place_id": 1092,
+    "name": "Otranto",
+    "country_id": 1
+  },
+  {
+    "place_id": 35023,
+    "name": "Oudenaarde",
+    "country_id": 12
+  },
+  {
+    "place_id": 56671,
+    "name": "Ovacik",
+    "country_id": 30
+  },
+  {
+    "place_id": 14371,
+    "name": "Oviedo",
+    "country_id": 3
+  },
+  {
+    "place_id": 20604,
+    "name": "Oxford",
+    "country_id": 4
+  },
+  {
+    "place_id": 67307,
+    "name": "Pacific Harbour",
+    "country_id": 49
+  },
+  {
+    "place_id": 68601,
+    "name": "Padang",
+    "country_id": 52
+  },
+  {
+    "place_id": 68209,
+    "name": "Padangbai",
+    "country_id": 52
+  },
+  {
+    "place_id": 20620,
+    "name": "Padstow",
+    "country_id": 4
+  },
+  {
+    "place_id": 1571,
+    "name": "Padua",
+    "country_id": 1
+  },
+  {
+    "place_id": 49480,
+    "name": "Pag",
+    "country_id": 13
+  },
+  {
+    "place_id": 61965,
+    "name": "Pai",
+    "country_id": 42
+  },
+  {
+    "place_id": 20624,
+    "name": "Painswick",
+    "country_id": 4
+  },
+  {
+    "place_id": 49373,
+    "name": "Paisley",
+    "country_id": 4
+  },
+  {
+    "place_id": 14597,
+    "name": "Palafrugell",
+    "country_id": 3
+  },
+  {
+    "place_id": 40687,
+    "name": "Palaiokastritsa (Corfu)",
+    "country_id": 15
+  },
+  {
+    "place_id": 57866,
+    "name": "Palanga",
+    "country_id": 31
+  },
+  {
+    "place_id": 68610,
+    "name": "Palembang",
+    "country_id": 52
+  },
+  {
+    "place_id": 1001,
+    "name": "Palermo",
+    "country_id": 1
+  },
+  {
+    "place_id": 1226,
+    "name": "Palestrina",
+    "country_id": 1
+  },
+  {
+    "place_id": 59349,
+    "name": "Palic",
+    "country_id": 34
+  },
+  {
+    "place_id": 14510,
+    "name": "Palma de Majorca",
+    "country_id": 3
+  },
+  {
+    "place_id": 33764,
+    "name": "Palmela",
+    "country_id": 11
+  },
+  {
+    "place_id": 14782,
+    "name": "Pamplona",
+    "country_id": 3
+  },
+  {
+    "place_id": 61764,
+    "name": "Pamukkale",
+    "country_id": 30
+  },
+  {
+    "place_id": 1053,
+    "name": "Panarea Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 68211,
+    "name": "Pangandaran",
+    "country_id": 52
+  },
+  {
+    "place_id": 69090,
+    "name": "Panglao City",
+    "country_id": 53
+  },
+  {
+    "place_id": 67992,
+    "name": "Pantai Cenang",
+    "country_id": 51
+  },
+  {
+    "place_id": 70172,
+    "name": "Paphos",
+    "country_id": 57
+  },
+  {
+    "place_id": 70188,
+    "name": "Paralimni",
+    "country_id": 57
+  },
+  {
+    "place_id": 50639,
+    "name": "Pardubice",
+    "country_id": 17
+  },
+  {
+    "place_id": 40689,
+    "name": "Parga",
+    "country_id": 15
+  },
+  {
+    "place_id": 48649,
+    "name": "Pargas",
+    "country_id": 14
+  },
+  {
+    "place_id": 48831,
+    "name": "Parikia (Paros)",
+    "country_id": 15
+  },
+  {
+    "place_id": 6238,
+    "name": "Paris",
+    "country_id": 2
+  },
+  {
+    "place_id": 1397,
+    "name": "Parma",
+    "country_id": 1
+  },
+  {
+    "place_id": 58751,
+    "name": "Parnu",
+    "country_id": 33
+  },
+  {
+    "place_id": 47900,
+    "name": "Pas de la Casa",
+    "country_id": 21
+  },
+  {
+    "place_id": 21326,
+    "name": "Passau",
+    "country_id": 5
+  },
+  {
+    "place_id": 61624,
+    "name": "Pastavy",
+    "country_id": 41
+  },
+  {
+    "place_id": 40691,
+    "name": "Patmos",
+    "country_id": 15
+  },
+  {
+    "place_id": 62037,
+    "name": "Patong",
+    "country_id": 42
+  },
+  {
+    "place_id": 61967,
+    "name": "Pattaya",
+    "country_id": 42
+  },
+  {
+    "place_id": 6283,
+    "name": "Pau",
+    "country_id": 2
+  },
+  {
+    "place_id": 1507,
+    "name": "Pavia",
+    "country_id": 1
+  },
+  {
+    "place_id": 26896,
+    "name": "Payerne",
+    "country_id": 7
+  },
+  {
+    "place_id": 36036,
+    "name": "Pazin",
+    "country_id": 13
+  },
+  {
+    "place_id": 50760,
+    "name": "Pecs",
+    "country_id": 25
+  },
+  {
+    "place_id": 70190,
+    "name": "Pegeia",
+    "country_id": 57
+  },
+  {
+    "place_id": 40695,
+    "name": "Pelekas (Corfu)",
+    "country_id": 15
+  },
+  {
+    "place_id": 30812,
+    "name": "Pemberton",
+    "country_id": 9
+  },
+  {
+    "place_id": 68215,
+    "name": "Pemuteran",
+    "country_id": 52
+  },
+  {
+    "place_id": 49620,
+    "name": "Peniche",
+    "country_id": 11
+  },
+  {
+    "place_id": 20626,
+    "name": "Penrith",
+    "country_id": 4
+  },
+  {
+    "place_id": 20630,
+    "name": "Penzance",
+    "country_id": 4
+  },
+  {
+    "place_id": 59919,
+    "name": "Perast",
+    "country_id": 36
+  },
+  {
+    "place_id": 72226,
+    "name": "Pereslavl-Zalessky",
+    "country_id": 58
+  },
+  {
+    "place_id": 6289,
+    "name": "Perigueux",
+    "country_id": 2
+  },
+  {
+    "place_id": 6295,
+    "name": "Perouges",
+    "country_id": 2
+  },
+  {
+    "place_id": 6301,
+    "name": "Perpignan",
+    "country_id": 2
+  },
+  {
+    "place_id": 30814,
+    "name": "Perth",
+    "country_id": 9
+  },
+  {
+    "place_id": 20634,
+    "name": "Perth",
+    "country_id": 4
+  },
+  {
+    "place_id": 1267,
+    "name": "Perugia",
+    "country_id": 1
+  },
+  {
+    "place_id": 1250,
+    "name": "Pesaro",
+    "country_id": 1
+  },
+  {
+    "place_id": 49916,
+    "name": "Pescara",
+    "country_id": 1
+  },
+  {
+    "place_id": 68008,
+    "name": "Petaling Jaya",
+    "country_id": 51
+  },
+  {
+    "place_id": 20643,
+    "name": "Peterborough",
+    "country_id": 4
+  },
+  {
+    "place_id": 59923,
+    "name": "Petrovac",
+    "country_id": 36
+  },
+  {
+    "place_id": 21330,
+    "name": "Pforzheim",
+    "country_id": 5
+  },
+  {
+    "place_id": 63238,
+    "name": "Phan Thiet",
+    "country_id": 43
+  },
+  {
+    "place_id": 61971,
+    "name": "Phetchaburi",
+    "country_id": 42
+  },
+  {
+    "place_id": 61977,
+    "name": "Phitsanulok",
+    "country_id": 42
+  },
+  {
+    "place_id": 64229,
+    "name": "Phnom Penh",
+    "country_id": 45
+  },
+  {
+    "place_id": 61930,
+    "name": "Phuket",
+    "country_id": 42
+  },
+  {
+    "place_id": 1401,
+    "name": "Piacenza",
+    "country_id": 1
+  },
+  {
+    "place_id": 56320,
+    "name": "Piatra Neamt",
+    "country_id": 28
+  },
+  {
+    "place_id": 1356,
+    "name": "Pienza",
+    "country_id": 1
+  },
+  {
+    "place_id": 54219,
+    "name": "Piestany",
+    "country_id": 27
+  },
+  {
+    "place_id": 50625,
+    "name": "Pilsen",
+    "country_id": 17
+  },
+  {
+    "place_id": 61601,
+    "name": "Pinsk",
+    "country_id": 41
+  },
+  {
+    "place_id": 48182,
+    "name": "Piran",
+    "country_id": 24
+  },
+  {
+    "place_id": 1328,
+    "name": "Pisa",
+    "country_id": 1
+  },
+  {
+    "place_id": 70186,
+    "name": "Pissouri",
+    "country_id": 57
+  },
+  {
+    "place_id": 1631,
+    "name": "Pistoia",
+    "country_id": 1
+  },
+  {
+    "place_id": 43626,
+    "name": "Pitea",
+    "country_id": 16
+  },
+  {
+    "place_id": 1359,
+    "name": "Pitigliano",
+    "country_id": 1
+  },
+  {
+    "place_id": 39084,
+    "name": "Pitlochry",
+    "country_id": 4
+  },
+  {
+    "place_id": 69831,
+    "name": "Pitsunda",
+    "country_id": 55
+  },
+  {
+    "place_id": 40653,
+    "name": "Plaka (Milos)",
+    "country_id": 15
+  },
+  {
+    "place_id": 14603,
+    "name": "Plasencia",
+    "country_id": 3
+  },
+  {
+    "place_id": 57870,
+    "name": "Plateliai",
+    "country_id": 31
+  },
+  {
+    "place_id": 36713,
+    "name": "Plitvicka Jezera",
+    "country_id": 13
+  },
+  {
+    "place_id": 55593,
+    "name": "Plovdiv",
+    "country_id": 29
+  },
+  {
+    "place_id": 20645,
+    "name": "Plymouth",
+    "country_id": 4
+  },
+  {
+    "place_id": 72230,
+    "name": "Plyos",
+    "country_id": 58
+  },
+  {
+    "place_id": 59929,
+    "name": "Podgorica",
+    "country_id": 36
+  },
+  {
+    "place_id": 49438,
+    "name": "Podstrana",
+    "country_id": 13
+  },
+  {
+    "place_id": 6309,
+    "name": "Poitiers",
+    "country_id": 2
+  },
+  {
+    "place_id": 70184,
+    "name": "Polis",
+    "country_id": 57
+  },
+  {
+    "place_id": 61591,
+    "name": "Polotsk",
+    "country_id": 41
+  },
+  {
+    "place_id": 60827,
+    "name": "Poltava",
+    "country_id": 40
+  },
+  {
+    "place_id": 57815,
+    "name": "Pomorie",
+    "country_id": 29
+  },
+  {
+    "place_id": 6315,
+    "name": "Pont Aven",
+    "country_id": 2
+  },
+  {
+    "place_id": 6319,
+    "name": "Pont en Royans",
+    "country_id": 2
+  },
+  {
+    "place_id": 37022,
+    "name": "Ponta Delgada",
+    "country_id": 11
+  },
+  {
+    "place_id": 49647,
+    "name": "Ponte de Lima",
+    "country_id": 11
+  },
+  {
+    "place_id": 14491,
+    "name": "Pontevedra",
+    "country_id": 3
+  },
+  {
+    "place_id": 26899,
+    "name": "Pontresina",
+    "country_id": 7
+  },
+  {
+    "place_id": 55525,
+    "name": "Poprad",
+    "country_id": 27
+  },
+  {
+    "place_id": 36043,
+    "name": "Porec",
+    "country_id": 13
+  },
+  {
+    "place_id": 39955,
+    "name": "Pori",
+    "country_id": 14
+  },
+  {
+    "place_id": 20651,
+    "name": "Porlock",
+    "country_id": 4
+  },
+  {
+    "place_id": 50398,
+    "name": "Porsgrunn",
+    "country_id": 19
+  },
+  {
+    "place_id": 30829,
+    "name": "Port Arthur",
+    "country_id": 9
+  },
+  {
+    "place_id": 30832,
+    "name": "Port Douglas",
+    "country_id": 9
+  },
+  {
+    "place_id": 30835,
+    "name": "Port Macquarie",
+    "country_id": 9
+  },
+  {
+    "place_id": 39114,
+    "name": "Portballintrae",
+    "country_id": 4
+  },
+  {
+    "place_id": 33767,
+    "name": "Portimao",
+    "country_id": 11
+  },
+  {
+    "place_id": 20655,
+    "name": "Portmeirion",
+    "country_id": 4
+  },
+  {
+    "place_id": 33769,
+    "name": "Porto",
+    "country_id": 11
+  },
+  {
+    "place_id": 1454,
+    "name": "Portofino",
+    "country_id": 1
+  },
+  {
+    "place_id": 48210,
+    "name": "Portoroz",
+    "country_id": 24
+  },
+  {
+    "place_id": 1457,
+    "name": "Portovenere",
+    "country_id": 1
+  },
+  {
+    "place_id": 30113,
+    "name": "Portrush",
+    "country_id": 6
+  },
+  {
+    "place_id": 20657,
+    "name": "Portsmouth",
+    "country_id": 4
+  },
+  {
+    "place_id": 39958,
+    "name": "Porvoo",
+    "country_id": 14
+  },
+  {
+    "place_id": 1141,
+    "name": "Positano",
+    "country_id": 1
+  },
+  {
+    "place_id": 49452,
+    "name": "Postira",
+    "country_id": 13
+  },
+  {
+    "place_id": 48191,
+    "name": "Postojna",
+    "country_id": 24
+  },
+  {
+    "place_id": 21332,
+    "name": "Potsdam",
+    "country_id": 5
+  },
+  {
+    "place_id": 51771,
+    "name": "Poznan",
+    "country_id": 26
+  },
+  {
+    "place_id": 62055,
+    "name": "Prachuap Khiri Khan",
+    "country_id": 42
+  },
+  {
+    "place_id": 44246,
+    "name": "Prague",
+    "country_id": 17
+  },
+  {
+    "place_id": 49700,
+    "name": "Praia da Vitoria",
+    "country_id": 11
+  },
+  {
+    "place_id": 49925,
+    "name": "Praiano",
+    "country_id": 1
+  },
+  {
+    "place_id": 1665,
+    "name": "Prato",
+    "country_id": 1
+  },
+  {
+    "place_id": 55534,
+    "name": "Presov",
+    "country_id": 27
+  },
+  {
+    "place_id": 14768,
+    "name": "Priego de Cordoba",
+    "country_id": 3
+  },
+  {
+    "place_id": 59709,
+    "name": "Prijedor",
+    "country_id": 35
+  },
+  {
+    "place_id": 49476,
+    "name": "Primosten",
+    "country_id": 13
+  },
+  {
+    "place_id": 49928,
+    "name": "Procida",
+    "country_id": 1
+  },
+  {
+    "place_id": 35026,
+    "name": "Profondeville",
+    "country_id": 12
+  },
+  {
+    "place_id": 70178,
+    "name": "Protaras",
+    "country_id": 57
+  },
+  {
+    "place_id": 51778,
+    "name": "Przemysl",
+    "country_id": 26
+  },
+  {
+    "place_id": 48196,
+    "name": "Ptuj",
+    "country_id": 24
+  },
+  {
+    "place_id": 14789,
+    "name": "Puerto de la Cruz",
+    "country_id": 3
+  },
+  {
+    "place_id": 69088,
+    "name": "Puerto Princesa",
+    "country_id": 53
+  },
+  {
+    "place_id": 36056,
+    "name": "Pula",
+    "country_id": 13
+  },
+  {
+    "place_id": 72232,
+    "name": "Pushkin",
+    "country_id": 58
+  },
+  {
+    "place_id": 40697,
+    "name": "Pylos",
+    "country_id": 15
+  },
+  {
+    "place_id": 49596,
+    "name": "Quarteira",
+    "country_id": 11
+  },
+  {
+    "place_id": 21342,
+    "name": "Quedlinburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 65679,
+    "name": "Queenstown",
+    "country_id": 47
+  },
+  {
+    "place_id": 6321,
+    "name": "Quimper",
+    "country_id": 2
+  },
+  {
+    "place_id": 63260,
+    "name": "Quy Nhon",
+    "country_id": 43
+  },
+  {
+    "place_id": 36071,
+    "name": "Rab",
+    "country_id": 13
+  },
+  {
+    "place_id": 49492,
+    "name": "Rabac",
+    "country_id": 13
+  },
+  {
+    "place_id": 70080,
+    "name": "Rabat",
+    "country_id": 56
+  },
+  {
+    "place_id": 48200,
+    "name": "Radovljica",
+    "country_id": 24
+  },
+  {
+    "place_id": 1059,
+    "name": "Ragusa",
+    "country_id": 1
+  },
+  {
+    "place_id": 53950,
+    "name": "Rajecke Teplice",
+    "country_id": 27
+  },
+  {
+    "place_id": 60168,
+    "name": "Rakvere",
+    "country_id": 33
+  },
+  {
+    "place_id": 6327,
+    "name": "Rambouillet",
+    "country_id": 2
+  },
+  {
+    "place_id": 46231,
+    "name": "Randers",
+    "country_id": 18
+  },
+  {
+    "place_id": 62077,
+    "name": "Ranong",
+    "country_id": 42
+  },
+  {
+    "place_id": 49924,
+    "name": "Rapallo",
+    "country_id": 1
+  },
+  {
+    "place_id": 62059,
+    "name": "Ratchaburi",
+    "country_id": 42
+  },
+  {
+    "place_id": 42346,
+    "name": "Rattvik",
+    "country_id": 16
+  },
+  {
+    "place_id": 39965,
+    "name": "Rauma",
+    "country_id": 14
+  },
+  {
+    "place_id": 1146,
+    "name": "Ravello",
+    "country_id": 1
+  },
+  {
+    "place_id": 1390,
+    "name": "Ravenna",
+    "country_id": 1
+  },
+  {
+    "place_id": 21350,
+    "name": "Ravensburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 62041,
+    "name": "Rawai",
+    "country_id": 42
+  },
+  {
+    "place_id": 62021,
+    "name": "Rayong",
+    "country_id": 42
+  },
+  {
+    "place_id": 49250,
+    "name": "Reading",
+    "country_id": 4
+  },
+  {
+    "place_id": 68029,
+    "name": "Redang Island",
+    "country_id": 51
+  },
+  {
+    "place_id": 21345,
+    "name": "Regensburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 49923,
+    "name": "Reggio Calabria",
+    "country_id": 1
+  },
+  {
+    "place_id": 6578,
+    "name": "Reims",
+    "country_id": 2
+  },
+  {
+    "place_id": 25204,
+    "name": "Reit im Winkl",
+    "country_id": 5
+  },
+  {
+    "place_id": 47981,
+    "name": "Remich",
+    "country_id": 23
+  },
+  {
+    "place_id": 6333,
+    "name": "Rennes",
+    "country_id": 2
+  },
+  {
+    "place_id": 40703,
+    "name": "Rethymno (Crete)",
+    "country_id": 15
+  },
+  {
+    "place_id": 47670,
+    "name": "Reykjanesbaer",
+    "country_id": 20
+  },
+  {
+    "place_id": 47676,
+    "name": "Reykjavik",
+    "country_id": 20
+  },
+  {
+    "place_id": 58219,
+    "name": "Rezekne",
+    "country_id": 32
+  },
+  {
+    "place_id": 26902,
+    "name": "Rheinfelden",
+    "country_id": 7
+  },
+  {
+    "place_id": 40708,
+    "name": "Rhodes",
+    "country_id": 15
+  },
+  {
+    "place_id": 20666,
+    "name": "Rhuddlan",
+    "country_id": 4
+  },
+  {
+    "place_id": 49338,
+    "name": "Rhyl",
+    "country_id": 4
+  },
+  {
+    "place_id": 45681,
+    "name": "Ribe",
+    "country_id": 18
+  },
+  {
+    "place_id": 20669,
+    "name": "Richmond",
+    "country_id": 4
+  },
+  {
+    "place_id": 58191,
+    "name": "Riga",
+    "country_id": 32
+  },
+  {
+    "place_id": 36076,
+    "name": "Rijeka",
+    "country_id": 13
+  },
+  {
+    "place_id": 56000,
+    "name": "Rila",
+    "country_id": 29
+  },
+  {
+    "place_id": 1404,
+    "name": "Rimini",
+    "country_id": 1
+  },
+  {
+    "place_id": 45685,
+    "name": "Ringkobing",
+    "country_id": 18
+  },
+  {
+    "place_id": 50044,
+    "name": "Ringsted",
+    "country_id": 18
+  },
+  {
+    "place_id": 14606,
+    "name": "Ripoll",
+    "country_id": 3
+  },
+  {
+    "place_id": 20673,
+    "name": "Ripon",
+    "country_id": 4
+  },
+  {
+    "place_id": 6339,
+    "name": "Riquewihr",
+    "country_id": 2
+  },
+  {
+    "place_id": 50405,
+    "name": "Risor",
+    "country_id": 19
+  },
+  {
+    "place_id": 1511,
+    "name": "Riva del Garda",
+    "country_id": 1
+  },
+  {
+    "place_id": 63571,
+    "name": "Rivne",
+    "country_id": 40
+  },
+  {
+    "place_id": 20680,
+    "name": "Robin Hood's Bay",
+    "country_id": 4
+  },
+  {
+    "place_id": 6346,
+    "name": "Rocamadour",
+    "country_id": 2
+  },
+  {
+    "place_id": 30839,
+    "name": "Rockhampton",
+    "country_id": 9
+  },
+  {
+    "place_id": 49285,
+    "name": "Roeselare",
+    "country_id": 12
+  },
+  {
+    "place_id": 49441,
+    "name": "Rogoznica",
+    "country_id": 13
+  },
+  {
+    "place_id": 57873,
+    "name": "Rokiskis",
+    "country_id": 31
+  },
+  {
+    "place_id": 1190,
+    "name": "Rome",
+    "country_id": 1
+  },
+  {
+    "place_id": 26904,
+    "name": "Romont",
+    "country_id": 7
+  },
+  {
+    "place_id": 15029,
+    "name": "Roncal",
+    "country_id": 3
+  },
+  {
+    "place_id": 14498,
+    "name": "Roncesvalles",
+    "country_id": 3
+  },
+  {
+    "place_id": 14874,
+    "name": "Ronda",
+    "country_id": 3
+  },
+  {
+    "place_id": 45687,
+    "name": "Ronne",
+    "country_id": 18
+  },
+  {
+    "place_id": 46549,
+    "name": "Roros",
+    "country_id": 19
+  },
+  {
+    "place_id": 30037,
+    "name": "Roscrea",
+    "country_id": 6
+  },
+  {
+    "place_id": 25323,
+    "name": "Rosenheim",
+    "country_id": 5
+  },
+  {
+    "place_id": 66397,
+    "name": "Rosh Pinna",
+    "country_id": 44
+  },
+  {
+    "place_id": 45690,
+    "name": "Roskilde",
+    "country_id": 18
+  },
+  {
+    "place_id": 21356,
+    "name": "Rostock",
+    "country_id": 5
+  },
+  {
+    "place_id": 72235,
+    "name": "Rostov",
+    "country_id": 58
+  },
+  {
+    "place_id": 21360,
+    "name": "Rothenburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 65681,
+    "name": "Rotorua",
+    "country_id": 47
+  },
+  {
+    "place_id": 32311,
+    "name": "Rotterdam",
+    "country_id": 10
+  },
+  {
+    "place_id": 6351,
+    "name": "Rouen",
+    "country_id": 2
+  },
+  {
+    "place_id": 6364,
+    "name": "Roussillon",
+    "country_id": 2
+  },
+  {
+    "place_id": 39968,
+    "name": "Rovaniemi",
+    "country_id": 14
+  },
+  {
+    "place_id": 36080,
+    "name": "Rovinj",
+    "country_id": 13
+  },
+  {
+    "place_id": 20682,
+    "name": "Royal Tunbridge Wells",
+    "country_id": 4
+  },
+  {
+    "place_id": 6369,
+    "name": "Rueil Malmaison",
+    "country_id": 2
+  },
+  {
+    "place_id": 55600,
+    "name": "Ruse",
+    "country_id": 29
+  },
+  {
+    "place_id": 65683,
+    "name": "Russell",
+    "country_id": 47
+  },
+  {
+    "place_id": 25369,
+    "name": "Rust",
+    "country_id": 5
+  },
+  {
+    "place_id": 28395,
+    "name": "Rust",
+    "country_id": 8
+  },
+  {
+    "place_id": 20684,
+    "name": "Rye",
+    "country_id": 4
+  },
+  {
+    "place_id": 53916,
+    "name": "Rzeszow",
+    "country_id": 26
+  },
+  {
+    "place_id": 26906,
+    "name": "Saas Fee",
+    "country_id": 7
+  },
+  {
+    "place_id": 63837,
+    "name": "Safed",
+    "country_id": 44
+  },
+  {
+    "place_id": 26909,
+    "name": "Saint Gallen",
+    "country_id": 7
+  },
+  {
+    "place_id": 70088,
+    "name": "Saint Julian's",
+    "country_id": 56
+  },
+  {
+    "place_id": 26916,
+    "name": "Saint Maurice",
+    "country_id": 7
+  },
+  {
+    "place_id": 64578,
+    "name": "Saitama",
+    "country_id": 46
+  },
+  {
+    "place_id": 64588,
+    "name": "Sakai",
+    "country_id": 46
+  },
+  {
+    "place_id": 62091,
+    "name": "Sakon Nakhon",
+    "country_id": 42
+  },
+  {
+    "place_id": 14536,
+    "name": "Salamanca",
+    "country_id": 3
+  },
+  {
+    "place_id": 14942,
+    "name": "Salardu",
+    "country_id": 3
+  },
+  {
+    "place_id": 1656,
+    "name": "Salerno",
+    "country_id": 1
+  },
+  {
+    "place_id": 20704,
+    "name": "Salisbury",
+    "country_id": 4
+  },
+  {
+    "place_id": 1487,
+    "name": "Saluzzo",
+    "country_id": 1
+  },
+  {
+    "place_id": 28397,
+    "name": "Salzburg",
+    "country_id": 8
+  },
+  {
+    "place_id": 48933,
+    "name": "Samos",
+    "country_id": 15
+  },
+  {
+    "place_id": 56887,
+    "name": "Samsun",
+    "country_id": 30
+  },
+  {
+    "place_id": 62057,
+    "name": "Samut Prakan",
+    "country_id": 42
+  },
+  {
+    "place_id": 1290,
+    "name": "San Gimignano",
+    "country_id": 1
+  },
+  {
+    "place_id": 1675,
+    "name": "San Marino",
+    "country_id": 1
+  },
+  {
+    "place_id": 1333,
+    "name": "San Miniato",
+    "country_id": 1
+  },
+  {
+    "place_id": 1362,
+    "name": "San Quirico d'Orcia",
+    "country_id": 1
+  },
+  {
+    "place_id": 1460,
+    "name": "San Remo",
+    "country_id": 1
+  },
+  {
+    "place_id": 14752,
+    "name": "San Sebastian",
+    "country_id": 3
+  },
+  {
+    "place_id": 1072,
+    "name": "San Vito Lo Capo",
+    "country_id": 1
+  },
+  {
+    "place_id": 68863,
+    "name": "Sandakan",
+    "country_id": 51
+  },
+  {
+    "place_id": 50346,
+    "name": "Sandefjord",
+    "country_id": 19
+  },
+  {
+    "place_id": 50326,
+    "name": "Sandnes",
+    "country_id": 19
+  },
+  {
+    "place_id": 51781,
+    "name": "Sandomierz",
+    "country_id": 26
+  },
+  {
+    "place_id": 20715,
+    "name": "Sandwich",
+    "country_id": 4
+  },
+  {
+    "place_id": 26919,
+    "name": "Sankt Moritz",
+    "country_id": 7
+  },
+  {
+    "place_id": 56845,
+    "name": "Sanliurfa",
+    "country_id": 30
+  },
+  {
+    "place_id": 14796,
+    "name": "Sanlucar de Barrameda",
+    "country_id": 3
+  },
+  {
+    "place_id": 51783,
+    "name": "Sanok",
+    "country_id": 26
+  },
+  {
+    "place_id": 14643,
+    "name": "Sant Feliu de Guixols",
+    "country_id": 3
+  },
+  {
+    "place_id": 14899,
+    "name": "Sant Joan de les Abadesses",
+    "country_id": 3
+  },
+  {
+    "place_id": 4973,
+    "name": "Sant'Agata de' Goti",
+    "country_id": 1
+  },
+  {
+    "place_id": 49709,
+    "name": "Santa Cruz da Graciosa",
+    "country_id": 11
+  },
+  {
+    "place_id": 14488,
+    "name": "Santa Cruz de Tenerife",
+    "country_id": 3
+  },
+  {
+    "place_id": 1464,
+    "name": "Santa Margherita Ligure",
+    "country_id": 1
+  },
+  {
+    "place_id": 1625,
+    "name": "Santa Teresa Gallura",
+    "country_id": 1
+  },
+  {
+    "place_id": 14623,
+    "name": "Santander",
+    "country_id": 3
+  },
+  {
+    "place_id": 33781,
+    "name": "Santarem",
+    "country_id": 11
+  },
+  {
+    "place_id": 14420,
+    "name": "Santiago de Compostela",
+    "country_id": 3
+  },
+  {
+    "place_id": 14391,
+    "name": "Santillana del Mar",
+    "country_id": 3
+  },
+  {
+    "place_id": 68217,
+    "name": "Sanur",
+    "country_id": 52
+  },
+  {
+    "place_id": 63240,
+    "name": "Sapa",
+    "country_id": 43
+  },
+  {
+    "place_id": 64490,
+    "name": "Sapporo",
+    "country_id": 46
+  },
+  {
+    "place_id": 59639,
+    "name": "Sarajevo",
+    "country_id": 35
+  },
+  {
+    "place_id": 60207,
+    "name": "Saranda",
+    "country_id": 37
+  },
+  {
+    "place_id": 6391,
+    "name": "Sarlat la Caneda",
+    "country_id": 2
+  },
+  {
+    "place_id": 1628,
+    "name": "Sassari",
+    "country_id": 1
+  },
+  {
+    "place_id": 6583,
+    "name": "Saulieu",
+    "country_id": 2
+  },
+  {
+    "place_id": 6396,
+    "name": "Saumur",
+    "country_id": 2
+  },
+  {
+    "place_id": 1086,
+    "name": "Savoca",
+    "country_id": 1
+  },
+  {
+    "place_id": 5039,
+    "name": "Savona",
+    "country_id": 1
+  },
+  {
+    "place_id": 39975,
+    "name": "Savonlinna",
+    "country_id": 14
+  },
+  {
+    "place_id": 67296,
+    "name": "Savusavu",
+    "country_id": 49
+  },
+  {
+    "place_id": 1174,
+    "name": "Scanno",
+    "country_id": 1
+  },
+  {
+    "place_id": 20718,
+    "name": "Scarborough",
+    "country_id": 4
+  },
+  {
+    "place_id": 47968,
+    "name": "Schaan",
+    "country_id": 22
+  },
+  {
+    "place_id": 26925,
+    "name": "Schaffhausen",
+    "country_id": 7
+  },
+  {
+    "place_id": 47962,
+    "name": "Schellenberg",
+    "country_id": 22
+  },
+  {
+    "place_id": 32334,
+    "name": "Scheveningen",
+    "country_id": 10
+  },
+  {
+    "place_id": 21366,
+    "name": "Schiltach",
+    "country_id": 5
+  },
+  {
+    "place_id": 21369,
+    "name": "Schleswig",
+    "country_id": 5
+  },
+  {
+    "place_id": 21489,
+    "name": "Schwabisch Hall",
+    "country_id": 5
+  },
+  {
+    "place_id": 21372,
+    "name": "Schwerin",
+    "country_id": 5
+  },
+  {
+    "place_id": 26931,
+    "name": "Schwyz",
+    "country_id": 7
+  },
+  {
+    "place_id": 1019,
+    "name": "Scicli",
+    "country_id": 1
+  },
+  {
+    "place_id": 28429,
+    "name": "Seefeld",
+    "country_id": 8
+  },
+  {
+    "place_id": 14348,
+    "name": "Segovia",
+    "country_id": 3
+  },
+  {
+    "place_id": 56614,
+    "name": "Selcuk",
+    "country_id": 30
+  },
+  {
+    "place_id": 47688,
+    "name": "Selfoss",
+    "country_id": 20
+  },
+  {
+    "place_id": 68704,
+    "name": "Semarang",
+    "country_id": 52
+  },
+  {
+    "place_id": 68222,
+    "name": "Seminyak",
+    "country_id": 52
+  },
+  {
+    "place_id": 64494,
+    "name": "Sendai",
+    "country_id": 46
+  },
+  {
+    "place_id": 49461,
+    "name": "Senj",
+    "country_id": 13
+  },
+  {
+    "place_id": 6403,
+    "name": "Senlis",
+    "country_id": 2
+  },
+  {
+    "place_id": 6408,
+    "name": "Sens",
+    "country_id": 2
+  },
+  {
+    "place_id": 67235,
+    "name": "Seogwipo",
+    "country_id": 48
+  },
+  {
+    "place_id": 67084,
+    "name": "Seoul",
+    "country_id": 48
+  },
+  {
+    "place_id": 50591,
+    "name": "Serres",
+    "country_id": 15
+  },
+  {
+    "place_id": 33789,
+    "name": "Sesimbra",
+    "country_id": 11
+  },
+  {
+    "place_id": 33791,
+    "name": "Setubal",
+    "country_id": 11
+  },
+  {
+    "place_id": 60779,
+    "name": "Sevastopol",
+    "country_id": 40
+  },
+  {
+    "place_id": 14378,
+    "name": "Seville",
+    "country_id": 3
+  },
+  {
+    "place_id": 47692,
+    "name": "Seydisfjordur",
+    "country_id": 20
+  },
+  {
+    "place_id": 48220,
+    "name": "Sezana",
+    "country_id": 24
+  },
+  {
+    "place_id": 49133,
+    "name": "Sheffield",
+    "country_id": 4
+  },
+  {
+    "place_id": 20720,
+    "name": "Sherborne",
+    "country_id": 4
+  },
+  {
+    "place_id": 64584,
+    "name": "Shizuoka",
+    "country_id": 46
+  },
+  {
+    "place_id": 60224,
+    "name": "Shkoder",
+    "country_id": 37
+  },
+  {
+    "place_id": 20724,
+    "name": "Shrewsbury",
+    "country_id": 4
+  },
+  {
+    "place_id": 57902,
+    "name": "Siauliai",
+    "country_id": 31
+  },
+  {
+    "place_id": 36089,
+    "name": "Sibenik",
+    "country_id": 13
+  },
+  {
+    "place_id": 54462,
+    "name": "Sibiu",
+    "country_id": 28
+  },
+  {
+    "place_id": 40716,
+    "name": "Sidari (Corfu)",
+    "country_id": 15
+  },
+  {
+    "place_id": 56708,
+    "name": "Side",
+    "country_id": 30
+  },
+  {
+    "place_id": 64236,
+    "name": "Siem Reap",
+    "country_id": 45
+  },
+  {
+    "place_id": 1295,
+    "name": "Siena",
+    "country_id": 1
+  },
+  {
+    "place_id": 67298,
+    "name": "Sigatoka",
+    "country_id": 49
+  },
+  {
+    "place_id": 54469,
+    "name": "Sighisoara",
+    "country_id": 28
+  },
+  {
+    "place_id": 69843,
+    "name": "Signagi",
+    "country_id": 55
+  },
+  {
+    "place_id": 42352,
+    "name": "Sigtuna",
+    "country_id": 16
+  },
+  {
+    "place_id": 14882,
+    "name": "Siguenza",
+    "country_id": 3
+  },
+  {
+    "place_id": 58208,
+    "name": "Sigulda",
+    "country_id": 32
+  },
+  {
+    "place_id": 64246,
+    "name": "Sihanoukville",
+    "country_id": 45
+  },
+  {
+    "place_id": 56829,
+    "name": "Silifke",
+    "country_id": 30
+  },
+  {
+    "place_id": 45697,
+    "name": "Silkeborg",
+    "country_id": 18
+  },
+  {
+    "place_id": 58755,
+    "name": "Sillamae",
+    "country_id": 33
+  },
+  {
+    "place_id": 33797,
+    "name": "Silves",
+    "country_id": 11
+  },
+  {
+    "place_id": 60812,
+    "name": "Simferopol",
+    "country_id": 40
+  },
+  {
+    "place_id": 42357,
+    "name": "Simrishamn",
+    "country_id": 16
+  },
+  {
+    "place_id": 54473,
+    "name": "Sinaia",
+    "country_id": 28
+  },
+  {
+    "place_id": 68120,
+    "name": "Singapore",
+    "country_id": 50
+  },
+  {
+    "place_id": 56618,
+    "name": "Sinop",
+    "country_id": 30
+  },
+  {
+    "place_id": 49188,
+    "name": "Sint Niklaas",
+    "country_id": 12
+  },
+  {
+    "place_id": 49217,
+    "name": "Sint-Truiden",
+    "country_id": 12
+  },
+  {
+    "place_id": 33803,
+    "name": "Sintra",
+    "country_id": 11
+  },
+  {
+    "place_id": 53908,
+    "name": "Siofok",
+    "country_id": 25
+  },
+  {
+    "place_id": 26935,
+    "name": "Sion",
+    "country_id": 7
+  },
+  {
+    "place_id": 1515,
+    "name": "Sirmione",
+    "country_id": 1
+  },
+  {
+    "place_id": 14615,
+    "name": "Sitges",
+    "country_id": 3
+  },
+  {
+    "place_id": 45700,
+    "name": "Skagen",
+    "country_id": 18
+  },
+  {
+    "place_id": 42363,
+    "name": "Skarhamn",
+    "country_id": 16
+  },
+  {
+    "place_id": 50106,
+    "name": "Skelleftea",
+    "country_id": 16
+  },
+  {
+    "place_id": 40718,
+    "name": "Skiathos",
+    "country_id": 15
+  },
+  {
+    "place_id": 49542,
+    "name": "Skibbereen",
+    "country_id": 6
+  },
+  {
+    "place_id": 46553,
+    "name": "Skien",
+    "country_id": 19
+  },
+  {
+    "place_id": 20729,
+    "name": "Skipton",
+    "country_id": 4
+  },
+  {
+    "place_id": 48205,
+    "name": "Skofja Loka",
+    "country_id": 24
+  },
+  {
+    "place_id": 47695,
+    "name": "Skogar",
+    "country_id": 20
+  },
+  {
+    "place_id": 48920,
+    "name": "Skopelos",
+    "country_id": 15
+  },
+  {
+    "place_id": 60377,
+    "name": "Skopje",
+    "country_id": 38
+  },
+  {
+    "place_id": 50201,
+    "name": "Skovde",
+    "country_id": 16
+  },
+  {
+    "place_id": 36100,
+    "name": "Skrip",
+    "country_id": 13
+  },
+  {
+    "place_id": 48925,
+    "name": "Skyros",
+    "country_id": 15
+  },
+  {
+    "place_id": 63596,
+    "name": "Slavske",
+    "country_id": 40
+  },
+  {
+    "place_id": 70082,
+    "name": "Sliema",
+    "country_id": 56
+  },
+  {
+    "place_id": 30039,
+    "name": "Sligo",
+    "country_id": 6
+  },
+  {
+    "place_id": 32336,
+    "name": "Sloten",
+    "country_id": 10
+  },
+  {
+    "place_id": 59370,
+    "name": "Smederevo",
+    "country_id": 34
+  },
+  {
+    "place_id": 30045,
+    "name": "Sneem",
+    "country_id": 6
+  },
+  {
+    "place_id": 72283,
+    "name": "Sochi",
+    "country_id": 58
+  },
+  {
+    "place_id": 50209,
+    "name": "Soderhamn",
+    "country_id": 16
+  },
+  {
+    "place_id": 55603,
+    "name": "Sofia",
+    "country_id": 29
+  },
+  {
+    "place_id": 26940,
+    "name": "Soglio",
+    "country_id": 7
+  },
+  {
+    "place_id": 35037,
+    "name": "Soignies",
+    "country_id": 12
+  },
+  {
+    "place_id": 67099,
+    "name": "Sokcho",
+    "country_id": 48
+  },
+  {
+    "place_id": 36110,
+    "name": "Solin",
+    "country_id": 13
+  },
+  {
+    "place_id": 26942,
+    "name": "Solothurn",
+    "country_id": 7
+  },
+  {
+    "place_id": 59357,
+    "name": "Sombor",
+    "country_id": 34
+  },
+  {
+    "place_id": 62025,
+    "name": "Songkhla",
+    "country_id": 42
+  },
+  {
+    "place_id": 51788,
+    "name": "Sopot",
+    "country_id": 26
+  },
+  {
+    "place_id": 50769,
+    "name": "Sopron",
+    "country_id": 25
+  },
+  {
+    "place_id": 1365,
+    "name": "Sorano",
+    "country_id": 1
+  },
+  {
+    "place_id": 60609,
+    "name": "Soroca",
+    "country_id": 39
+  },
+  {
+    "place_id": 1159,
+    "name": "Sorrento",
+    "country_id": 1
+  },
+  {
+    "place_id": 14748,
+    "name": "Sos del Rey Catolico",
+    "country_id": 3
+  },
+  {
+    "place_id": 20733,
+    "name": "Southampton",
+    "country_id": 4
+  },
+  {
+    "place_id": 55612,
+    "name": "Sozopol",
+    "country_id": 29
+  },
+  {
+    "place_id": 35040,
+    "name": "Spa",
+    "country_id": 12
+  },
+  {
+    "place_id": 40720,
+    "name": "Sparta",
+    "country_id": 15
+  },
+  {
+    "place_id": 1272,
+    "name": "Spello",
+    "country_id": 1
+  },
+  {
+    "place_id": 21378,
+    "name": "Speyer",
+    "country_id": 5
+  },
+  {
+    "place_id": 26948,
+    "name": "Spiez",
+    "country_id": 7
+  },
+  {
+    "place_id": 50633,
+    "name": "Spindleruv Mlyn",
+    "country_id": 17
+  },
+  {
+    "place_id": 36115,
+    "name": "Split",
+    "country_id": 13
+  },
+  {
+    "place_id": 1275,
+    "name": "Spoleto",
+    "country_id": 1
+  },
+  {
+    "place_id": 59354,
+    "name": "Sremski Karlovci",
+    "country_id": 34
+  },
+  {
+    "place_id": 20689,
+    "name": "St. Andrews",
+    "country_id": 4
+  },
+  {
+    "place_id": 28431,
+    "name": "St. Anton am Arlberg",
+    "country_id": 8
+  },
+  {
+    "place_id": 6374,
+    "name": "St. Cirq Lapopie",
+    "country_id": 2
+  },
+  {
+    "place_id": 20694,
+    "name": "St. David's",
+    "country_id": 4
+  },
+  {
+    "place_id": 6380,
+    "name": "St. Emilion",
+    "country_id": 2
+  },
+  {
+    "place_id": 6386,
+    "name": "St. Germain en Laye",
+    "country_id": 2
+  },
+  {
+    "place_id": 35028,
+    "name": "St. Gilles",
+    "country_id": 12
+  },
+  {
+    "place_id": 35031,
+    "name": "St. Hubert",
+    "country_id": 12
+  },
+  {
+    "place_id": 20698,
+    "name": "St. Ives",
+    "country_id": 4
+  },
+  {
+    "place_id": 6412,
+    "name": "St. Jean Cap Ferrat",
+    "country_id": 2
+  },
+  {
+    "place_id": 6417,
+    "name": "St. Jean de Luz",
+    "country_id": 2
+  },
+  {
+    "place_id": 28433,
+    "name": "St. Johann im Pongau",
+    "country_id": 8
+  },
+  {
+    "place_id": 6422,
+    "name": "St. Malo",
+    "country_id": 2
+  },
+  {
+    "place_id": 6448,
+    "name": "St. Maries de la Mer",
+    "country_id": 2
+  },
+  {
+    "place_id": 20735,
+    "name": "St. Mawes",
+    "country_id": 4
+  },
+  {
+    "place_id": 6587,
+    "name": "St. Paul de Vence",
+    "country_id": 2
+  },
+  {
+    "place_id": 70092,
+    "name": "St. Paul's Bay",
+    "country_id": 56
+  },
+  {
+    "place_id": 72241,
+    "name": "St. Petersburg",
+    "country_id": 58
+  },
+  {
+    "place_id": 6430,
+    "name": "St. Raphael",
+    "country_id": 2
+  },
+  {
+    "place_id": 6434,
+    "name": "St. Remy de Provence",
+    "country_id": 2
+  },
+  {
+    "place_id": 6441,
+    "name": "St. Tropez",
+    "country_id": 2
+  },
+  {
+    "place_id": 28435,
+    "name": "St. Wolfgang",
+    "country_id": 8
+  },
+  {
+    "place_id": 20737,
+    "name": "Stamford",
+    "country_id": 4
+  },
+  {
+    "place_id": 48208,
+    "name": "Stanjel",
+    "country_id": 24
+  },
+  {
+    "place_id": 26950,
+    "name": "Stans",
+    "country_id": 7
+  },
+  {
+    "place_id": 32338,
+    "name": "Staphorst",
+    "country_id": 10
+  },
+  {
+    "place_id": 35979,
+    "name": "Stari Grad",
+    "country_id": 13
+  },
+  {
+    "place_id": 46557,
+    "name": "Stavanger",
+    "country_id": 19
+  },
+  {
+    "place_id": 26952,
+    "name": "Stein am Rhein",
+    "country_id": 7
+  },
+  {
+    "place_id": 21382,
+    "name": "Steinau",
+    "country_id": 5
+  },
+  {
+    "place_id": 69819,
+    "name": "Stepantsminda",
+    "country_id": 55
+  },
+  {
+    "place_id": 28437,
+    "name": "Steyr",
+    "country_id": 8
+  },
+  {
+    "place_id": 20744,
+    "name": "Stirling",
+    "country_id": 4
+  },
+  {
+    "place_id": 42367,
+    "name": "Stockholm",
+    "country_id": 16
+  },
+  {
+    "place_id": 49190,
+    "name": "Stoke-on-Trent",
+    "country_id": 4
+  },
+  {
+    "place_id": 20753,
+    "name": "Stow-on-the-Wold",
+    "country_id": 4
+  },
+  {
+    "place_id": 21384,
+    "name": "Stralsund",
+    "country_id": 5
+  },
+  {
+    "place_id": 50297,
+    "name": "Stranda",
+    "country_id": 19
+  },
+  {
+    "place_id": 6452,
+    "name": "Strasbourg",
+    "country_id": 2
+  },
+  {
+    "place_id": 20755,
+    "name": "Stratford-upon-Avon",
+    "country_id": 4
+  },
+  {
+    "place_id": 54311,
+    "name": "Strbske Pleso",
+    "country_id": 27
+  },
+  {
+    "place_id": 1637,
+    "name": "Stresa",
+    "country_id": 1
+  },
+  {
+    "place_id": 1043,
+    "name": "Stromboli Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 42393,
+    "name": "Stromstad",
+    "country_id": 16
+  },
+  {
+    "place_id": 60416,
+    "name": "Struga",
+    "country_id": 38
+  },
+  {
+    "place_id": 60425,
+    "name": "Strumica",
+    "country_id": 38
+  },
+  {
+    "place_id": 50277,
+    "name": "Stryn",
+    "country_id": 19
+  },
+  {
+    "place_id": 21390,
+    "name": "Stuttgart",
+    "country_id": 5
+  },
+  {
+    "place_id": 59340,
+    "name": "Subotica",
+    "country_id": 34
+  },
+  {
+    "place_id": 60798,
+    "name": "Sudak",
+    "country_id": 40
+  },
+  {
+    "place_id": 61984,
+    "name": "Sukhothai",
+    "country_id": 42
+  },
+  {
+    "place_id": 69829,
+    "name": "Sukhumi",
+    "country_id": 55
+  },
+  {
+    "place_id": 49489,
+    "name": "Sukosan",
+    "country_id": 13
+  },
+  {
+    "place_id": 1177,
+    "name": "Sulmona",
+    "country_id": 1
+  },
+  {
+    "place_id": 50772,
+    "name": "Sumeg",
+    "country_id": 25
+  },
+  {
+    "place_id": 68226,
+    "name": "Sumenep",
+    "country_id": 52
+  },
+  {
+    "place_id": 63589,
+    "name": "Sumy",
+    "country_id": 40
+  },
+  {
+    "place_id": 50112,
+    "name": "Sundsvall",
+    "country_id": 16
+  },
+  {
+    "place_id": 50213,
+    "name": "Sunne",
+    "country_id": 16
+  },
+  {
+    "place_id": 57804,
+    "name": "Sunny Beach",
+    "country_id": 29
+  },
+  {
+    "place_id": 49444,
+    "name": "Supetar",
+    "country_id": 13
+  },
+  {
+    "place_id": 62069,
+    "name": "Suphan Buri",
+    "country_id": 42
+  },
+  {
+    "place_id": 53901,
+    "name": "Suprasl",
+    "country_id": 26
+  },
+  {
+    "place_id": 68228,
+    "name": "Surabaya",
+    "country_id": 52
+  },
+  {
+    "place_id": 68224,
+    "name": "Surakarta",
+    "country_id": 52
+  },
+  {
+    "place_id": 61999,
+    "name": "Surat Thani",
+    "country_id": 42
+  },
+  {
+    "place_id": 30885,
+    "name": "Surfers Paradise",
+    "country_id": 9
+  },
+  {
+    "place_id": 62002,
+    "name": "Surin",
+    "country_id": 42
+  },
+  {
+    "place_id": 59965,
+    "name": "Sutomore",
+    "country_id": 36
+  },
+  {
+    "place_id": 67300,
+    "name": "Suva",
+    "country_id": 49
+  },
+  {
+    "place_id": 67101,
+    "name": "Suwon",
+    "country_id": 48
+  },
+  {
+    "place_id": 72293,
+    "name": "Suzdal",
+    "country_id": 58
+  },
+  {
+    "place_id": 45707,
+    "name": "Svendborg",
+    "country_id": 18
+  },
+  {
+    "place_id": 57904,
+    "name": "Sventoji",
+    "country_id": 31
+  },
+  {
+    "place_id": 50286,
+    "name": "Svolvaer",
+    "country_id": 19
+  },
+  {
+    "place_id": 49316,
+    "name": "Swansea",
+    "country_id": 4
+  },
+  {
+    "place_id": 51790,
+    "name": "Swidnica",
+    "country_id": 26
+  },
+  {
+    "place_id": 30841,
+    "name": "Sydney",
+    "country_id": 9
+  },
+  {
+    "place_id": 1022,
+    "name": "Syracuse",
+    "country_id": 1
+  },
+  {
+    "place_id": 53921,
+    "name": "Szczecin",
+    "country_id": 26
+  },
+  {
+    "place_id": 50775,
+    "name": "Szeged",
+    "country_id": 25
+  },
+  {
+    "place_id": 50780,
+    "name": "Szekesfehervar",
+    "country_id": 25
+  },
+  {
+    "place_id": 50783,
+    "name": "Szenna",
+    "country_id": 25
+  },
+  {
+    "place_id": 50785,
+    "name": "Szentendre",
+    "country_id": 25
+  },
+  {
+    "place_id": 44306,
+    "name": "Tabor",
+    "country_id": 17
+  },
+  {
+    "place_id": 69098,
+    "name": "Tagaytay",
+    "country_id": 53
+  },
+  {
+    "place_id": 69082,
+    "name": "Tagbilaran",
+    "country_id": 53
+  },
+  {
+    "place_id": 64499,
+    "name": "Takamatsu",
+    "country_id": 46
+  },
+  {
+    "place_id": 64506,
+    "name": "Takayama",
+    "country_id": 46
+  },
+  {
+    "place_id": 42395,
+    "name": "Tallberg",
+    "country_id": 16
+  },
+  {
+    "place_id": 58757,
+    "name": "Tallinn",
+    "country_id": 33
+  },
+  {
+    "place_id": 39980,
+    "name": "Tampere",
+    "country_id": 14
+  },
+  {
+    "place_id": 68085,
+    "name": "Tanah Rata",
+    "country_id": 51
+  },
+  {
+    "place_id": 1028,
+    "name": "Taormina",
+    "country_id": 1
+  },
+  {
+    "place_id": 1113,
+    "name": "Taranto",
+    "country_id": 1
+  },
+  {
+    "place_id": 54484,
+    "name": "Targu Mures",
+    "country_id": 28
+  },
+  {
+    "place_id": 14904,
+    "name": "Tarifa",
+    "country_id": 3
+  },
+  {
+    "place_id": 1681,
+    "name": "Tarquinia",
+    "country_id": 1
+  },
+  {
+    "place_id": 14731,
+    "name": "Tarragona",
+    "country_id": 3
+  },
+  {
+    "place_id": 56836,
+    "name": "Tarsus",
+    "country_id": 30
+  },
+  {
+    "place_id": 58783,
+    "name": "Tartu",
+    "country_id": 33
+  },
+  {
+    "place_id": 14800,
+    "name": "Taull",
+    "country_id": 3
+  },
+  {
+    "place_id": 65685,
+    "name": "Taupo",
+    "country_id": 47
+  },
+  {
+    "place_id": 65687,
+    "name": "Tauranga",
+    "country_id": 47
+  },
+  {
+    "place_id": 67304,
+    "name": "Taveuni",
+    "country_id": 49
+  },
+  {
+    "place_id": 33817,
+    "name": "Tavira",
+    "country_id": 11
+  },
+  {
+    "place_id": 69811,
+    "name": "Tbilisi",
+    "country_id": 55
+  },
+  {
+    "place_id": 65689,
+    "name": "Te Anau",
+    "country_id": 47
+  },
+  {
+    "place_id": 21398,
+    "name": "Tegernsee",
+    "country_id": 5
+  },
+  {
+    "place_id": 63819,
+    "name": "Tel Aviv",
+    "country_id": 44
+  },
+  {
+    "place_id": 69839,
+    "name": "Telavi",
+    "country_id": 55
+  },
+  {
+    "place_id": 44308,
+    "name": "Telc",
+    "country_id": 17
+  },
+  {
+    "place_id": 20762,
+    "name": "Tenby",
+    "country_id": 4
+  },
+  {
+    "place_id": 45407,
+    "name": "Teplice",
+    "country_id": 17
+  },
+  {
+    "place_id": 44312,
+    "name": "Terezin",
+    "country_id": 17
+  },
+  {
+    "place_id": 1181,
+    "name": "Termoli",
+    "country_id": 1
+  },
+  {
+    "place_id": 60909,
+    "name": "Ternopil",
+    "country_id": 40
+  },
+  {
+    "place_id": 32341,
+    "name": "Terschelling",
+    "country_id": 10
+  },
+  {
+    "place_id": 14552,
+    "name": "Teruel",
+    "country_id": 3
+  },
+  {
+    "place_id": 35042,
+    "name": "Tervuren",
+    "country_id": 12
+  },
+  {
+    "place_id": 20766,
+    "name": "Tetbury",
+    "country_id": 4
+  },
+  {
+    "place_id": 60419,
+    "name": "Tetovo",
+    "country_id": 38
+  },
+  {
+    "place_id": 40725,
+    "name": "Thassos",
+    "country_id": 15
+  },
+  {
+    "place_id": 62004,
+    "name": "That Phanom",
+    "country_id": 42
+  },
+  {
+    "place_id": 32343,
+    "name": "The Hague",
+    "country_id": 10
+  },
+  {
+    "place_id": 40728,
+    "name": "Thessaloniki",
+    "country_id": 15
+  },
+  {
+    "place_id": 32356,
+    "name": "Thorn",
+    "country_id": 10
+  },
+  {
+    "place_id": 26955,
+    "name": "Thun",
+    "country_id": 7
+  },
+  {
+    "place_id": 63829,
+    "name": "Tiberias",
+    "country_id": 44
+  },
+  {
+    "place_id": 50792,
+    "name": "Tihany",
+    "country_id": 25
+  },
+  {
+    "place_id": 35917,
+    "name": "Tilburg",
+    "country_id": 10
+  },
+  {
+    "place_id": 66143,
+    "name": "Timaru",
+    "country_id": 47
+  },
+  {
+    "place_id": 54476,
+    "name": "Timisoara",
+    "country_id": 28
+  },
+  {
+    "place_id": 20769,
+    "name": "Tintagel",
+    "country_id": 4
+  },
+  {
+    "place_id": 49552,
+    "name": "Tipperary",
+    "country_id": 6
+  },
+  {
+    "place_id": 60193,
+    "name": "Tirana",
+    "country_id": 37
+  },
+  {
+    "place_id": 60596,
+    "name": "Tiraspol",
+    "country_id": 39
+  },
+  {
+    "place_id": 49495,
+    "name": "Tisno",
+    "country_id": 13
+  },
+  {
+    "place_id": 59953,
+    "name": "Tivat",
+    "country_id": 36
+  },
+  {
+    "place_id": 1219,
+    "name": "Tivoli",
+    "country_id": 1
+  },
+  {
+    "place_id": 1278,
+    "name": "Todi",
+    "country_id": 1
+  },
+  {
+    "place_id": 53913,
+    "name": "Tokaj",
+    "country_id": 25
+  },
+  {
+    "place_id": 64514,
+    "name": "Tokyo",
+    "country_id": 46
+  },
+  {
+    "place_id": 14774,
+    "name": "Toledo",
+    "country_id": 3
+  },
+  {
+    "place_id": 49770,
+    "name": "Tolmin",
+    "country_id": 24
+  },
+  {
+    "place_id": 33819,
+    "name": "Tomar",
+    "country_id": 11
+  },
+  {
+    "place_id": 45710,
+    "name": "Tonder",
+    "country_id": 18
+  },
+  {
+    "place_id": 35047,
+    "name": "Tongeren",
+    "country_id": 12
+  },
+  {
+    "place_id": 67103,
+    "name": "Tongyeong",
+    "country_id": 48
+  },
+  {
+    "place_id": 46565,
+    "name": "Tonsberg",
+    "country_id": 19
+  },
+  {
+    "place_id": 30913,
+    "name": "Toowoomba",
+    "country_id": 9
+  },
+  {
+    "place_id": 59396,
+    "name": "Topola",
+    "country_id": 34
+  },
+  {
+    "place_id": 56884,
+    "name": "Torba",
+    "country_id": 30
+  },
+  {
+    "place_id": 1281,
+    "name": "Torgiano",
+    "country_id": 1
+  },
+  {
+    "place_id": 20772,
+    "name": "Torquay",
+    "country_id": 4
+  },
+  {
+    "place_id": 5343,
+    "name": "Torre del Lago",
+    "country_id": 1
+  },
+  {
+    "place_id": 14570,
+    "name": "Torremolinos",
+    "country_id": 3
+  },
+  {
+    "place_id": 51793,
+    "name": "Torun",
+    "country_id": 26
+  },
+  {
+    "place_id": 15025,
+    "name": "Tossa de Mar",
+    "country_id": 3
+  },
+  {
+    "place_id": 20777,
+    "name": "Totnes",
+    "country_id": 4
+  },
+  {
+    "place_id": 13727,
+    "name": "Toulon",
+    "country_id": 2
+  },
+  {
+    "place_id": 6463,
+    "name": "Toulouse",
+    "country_id": 2
+  },
+  {
+    "place_id": 35051,
+    "name": "Tournai",
+    "country_id": 12
+  },
+  {
+    "place_id": 6472,
+    "name": "Tours",
+    "country_id": 2
+  },
+  {
+    "place_id": 30896,
+    "name": "Townsville",
+    "country_id": 9
+  },
+  {
+    "place_id": 63284,
+    "name": "Tra Vinh",
+    "country_id": 43
+  },
+  {
+    "place_id": 21400,
+    "name": "Traben-Trarbach",
+    "country_id": 5
+  },
+  {
+    "place_id": 56602,
+    "name": "Trabzon",
+    "country_id": 30
+  },
+  {
+    "place_id": 57900,
+    "name": "Trakai",
+    "country_id": 31
+  },
+  {
+    "place_id": 30047,
+    "name": "Tralee",
+    "country_id": 6
+  },
+  {
+    "place_id": 30100,
+    "name": "Tramore",
+    "country_id": 6
+  },
+  {
+    "place_id": 62067,
+    "name": "Trang",
+    "country_id": 42
+  },
+  {
+    "place_id": 1069,
+    "name": "Trapani",
+    "country_id": 1
+  },
+  {
+    "place_id": 62083,
+    "name": "Trat",
+    "country_id": 42
+  },
+  {
+    "place_id": 59724,
+    "name": "Travnik",
+    "country_id": 35
+  },
+  {
+    "place_id": 59686,
+    "name": "Trebinje",
+    "country_id": 35
+  },
+  {
+    "place_id": 44314,
+    "name": "Trebon",
+    "country_id": 17
+  },
+  {
+    "place_id": 53952,
+    "name": "Trencin",
+    "country_id": 27
+  },
+  {
+    "place_id": 1559,
+    "name": "Trento",
+    "country_id": 1
+  },
+  {
+    "place_id": 1574,
+    "name": "Treviso",
+    "country_id": 1
+  },
+  {
+    "place_id": 21402,
+    "name": "Triberg",
+    "country_id": 5
+  },
+  {
+    "place_id": 21404,
+    "name": "Trier",
+    "country_id": 5
+  },
+  {
+    "place_id": 1577,
+    "name": "Trieste",
+    "country_id": 1
+  },
+  {
+    "place_id": 30049,
+    "name": "Trim",
+    "country_id": 6
+  },
+  {
+    "place_id": 53955,
+    "name": "Trnava",
+    "country_id": 27
+  },
+  {
+    "place_id": 36137,
+    "name": "Trogir",
+    "country_id": 13
+  },
+  {
+    "place_id": 50216,
+    "name": "Trollhattan",
+    "country_id": 16
+  },
+  {
+    "place_id": 46568,
+    "name": "Tromso",
+    "country_id": 19
+  },
+  {
+    "place_id": 46579,
+    "name": "Trondheim",
+    "country_id": 19
+  },
+  {
+    "place_id": 1640,
+    "name": "Tropea",
+    "country_id": 1
+  },
+  {
+    "place_id": 6478,
+    "name": "Trouville sur Mer",
+    "country_id": 2
+  },
+  {
+    "place_id": 6483,
+    "name": "Troyes",
+    "country_id": 2
+  },
+  {
+    "place_id": 14696,
+    "name": "Trujillo",
+    "country_id": 3
+  },
+  {
+    "place_id": 63593,
+    "name": "Truskavets",
+    "country_id": 40
+  },
+  {
+    "place_id": 55616,
+    "name": "Tryavna",
+    "country_id": 29
+  },
+  {
+    "place_id": 63292,
+    "name": "Tuan Chau",
+    "country_id": 43
+  },
+  {
+    "place_id": 14870,
+    "name": "Tudela",
+    "country_id": 3
+  },
+  {
+    "place_id": 21413,
+    "name": "Tuebingen",
+    "country_id": 5
+  },
+  {
+    "place_id": 14523,
+    "name": "Tui",
+    "country_id": 3
+  },
+  {
+    "place_id": 58217,
+    "name": "Tukums",
+    "country_id": 32
+  },
+  {
+    "place_id": 30104,
+    "name": "Tullamore",
+    "country_id": 6
+  },
+  {
+    "place_id": 28440,
+    "name": "Tulln an der Donau",
+    "country_id": 8
+  },
+  {
+    "place_id": 56635,
+    "name": "Turgutreis",
+    "country_id": 30
+  },
+  {
+    "place_id": 1490,
+    "name": "Turin",
+    "country_id": 1
+  },
+  {
+    "place_id": 56785,
+    "name": "Turkbuku",
+    "country_id": 30
+  },
+  {
+    "place_id": 39988,
+    "name": "Turku",
+    "country_id": 14
+  },
+  {
+    "place_id": 49196,
+    "name": "Turnhout",
+    "country_id": 12
+  },
+  {
+    "place_id": 49920,
+    "name": "Tuscania",
+    "country_id": 1
+  },
+  {
+    "place_id": 59702,
+    "name": "Tuzla",
+    "country_id": 35
+  },
+  {
+    "place_id": 74924,
+    "name": "Tver",
+    "country_id": 58
+  },
+  {
+    "place_id": 53902,
+    "name": "Tykocin",
+    "country_id": 26
+  },
+  {
+    "place_id": 14649,
+    "name": "Ubeda",
+    "country_id": 3
+  },
+  {
+    "place_id": 62007,
+    "name": "Ubon Ratchathani",
+    "country_id": 42
+  },
+  {
+    "place_id": 68230,
+    "name": "Ubud",
+    "country_id": 52
+  },
+  {
+    "place_id": 1732,
+    "name": "Udine",
+    "country_id": 1
+  },
+  {
+    "place_id": 62015,
+    "name": "Udon Thani",
+    "country_id": 42
+  },
+  {
+    "place_id": 21418,
+    "name": "Ueberlingen",
+    "country_id": 5
+  },
+  {
+    "place_id": 59939,
+    "name": "Ulcinj",
+    "country_id": 36
+  },
+  {
+    "place_id": 30878,
+    "name": "Ulladulla",
+    "country_id": 9
+  },
+  {
+    "place_id": 39682,
+    "name": "Ullapool",
+    "country_id": 4
+  },
+  {
+    "place_id": 21420,
+    "name": "Ulm",
+    "country_id": 5
+  },
+  {
+    "place_id": 67107,
+    "name": "Ulsan",
+    "country_id": 48
+  },
+  {
+    "place_id": 50256,
+    "name": "Ulvik",
+    "country_id": 19
+  },
+  {
+    "place_id": 36148,
+    "name": "Umag",
+    "country_id": 13
+  },
+  {
+    "place_id": 63568,
+    "name": "Uman",
+    "country_id": 40
+  },
+  {
+    "place_id": 50075,
+    "name": "Umea",
+    "country_id": 16
+  },
+  {
+    "place_id": 60622,
+    "name": "Ungheni",
+    "country_id": 39
+  },
+  {
+    "place_id": 42397,
+    "name": "Uppsala",
+    "country_id": 16
+  },
+  {
+    "place_id": 1243,
+    "name": "Urbino",
+    "country_id": 1
+  },
+  {
+    "place_id": 69845,
+    "name": "Ureki",
+    "country_id": 55
+  },
+  {
+    "place_id": 56745,
+    "name": "Urgup",
+    "country_id": 30
+  },
+  {
+    "place_id": 1555,
+    "name": "Urtijei",
+    "country_id": 1
+  },
+  {
+    "place_id": 50643,
+    "name": "Usti nad Labem",
+    "country_id": 17
+  },
+  {
+    "place_id": 1008,
+    "name": "Ustica",
+    "country_id": 1
+  },
+  {
+    "place_id": 32358,
+    "name": "Utrecht",
+    "country_id": 10
+  },
+  {
+    "place_id": 64582,
+    "name": "Utsunomiya",
+    "country_id": 46
+  },
+  {
+    "place_id": 6489,
+    "name": "Uzes",
+    "country_id": 2
+  },
+  {
+    "place_id": 60855,
+    "name": "Uzhhorod",
+    "country_id": 40
+  },
+  {
+    "place_id": 40000,
+    "name": "Vaasa",
+    "country_id": 14
+  },
+  {
+    "place_id": 50093,
+    "name": "Vadstena",
+    "country_id": 16
+  },
+  {
+    "place_id": 47947,
+    "name": "Vaduz",
+    "country_id": 22
+  },
+  {
+    "place_id": 6492,
+    "name": "Vaison la Romaine",
+    "country_id": 2
+  },
+  {
+    "place_id": 6496,
+    "name": "Val d'Isere",
+    "country_id": 2
+  },
+  {
+    "place_id": 75216,
+    "name": "Valday",
+    "country_id": 58
+  },
+  {
+    "place_id": 6502,
+    "name": "Valence",
+    "country_id": 2
+  },
+  {
+    "place_id": 14442,
+    "name": "Valencia",
+    "country_id": 3
+  },
+  {
+    "place_id": 32373,
+    "name": "Valkenburg",
+    "country_id": 10
+  },
+  {
+    "place_id": 14590,
+    "name": "Valladolid",
+    "country_id": 3
+  },
+  {
+    "place_id": 14452,
+    "name": "Valldemossa",
+    "country_id": 3
+  },
+  {
+    "place_id": 70084,
+    "name": "Valletta",
+    "country_id": 56
+  },
+  {
+    "place_id": 6507,
+    "name": "Vannes",
+    "country_id": 2
+  },
+  {
+    "place_id": 40508,
+    "name": "Vantaa",
+    "country_id": 14
+  },
+  {
+    "place_id": 36152,
+    "name": "Varazdin",
+    "country_id": 13
+  },
+  {
+    "place_id": 50097,
+    "name": "Varberg",
+    "country_id": 16
+  },
+  {
+    "place_id": 49918,
+    "name": "Varenna",
+    "country_id": 1
+  },
+  {
+    "place_id": 55622,
+    "name": "Varna",
+    "country_id": 29
+  },
+  {
+    "place_id": 50222,
+    "name": "Vasteras",
+    "country_id": 16
+  },
+  {
+    "place_id": 1186,
+    "name": "Vasto",
+    "country_id": 1
+  },
+  {
+    "place_id": 42406,
+    "name": "Vaxjo",
+    "country_id": 16
+  },
+  {
+    "place_id": 14563,
+    "name": "Vejer de la Frontera",
+    "country_id": 3
+  },
+  {
+    "place_id": 45712,
+    "name": "Vejle",
+    "country_id": 18
+  },
+  {
+    "place_id": 49703,
+    "name": "Velas",
+    "country_id": 11
+  },
+  {
+    "place_id": 36165,
+    "name": "Veli Losinj",
+    "country_id": 13
+  },
+  {
+    "place_id": 55628,
+    "name": "Veliko Tarnovo",
+    "country_id": 29
+  },
+  {
+    "place_id": 55640,
+    "name": "Velingrad",
+    "country_id": 29
+  },
+  {
+    "place_id": 6513,
+    "name": "Vence",
+    "country_id": 2
+  },
+  {
+    "place_id": 1593,
+    "name": "Venice",
+    "country_id": 1
+  },
+  {
+    "place_id": 58211,
+    "name": "Ventspils",
+    "country_id": 32
+  },
+  {
+    "place_id": 26959,
+    "name": "Verbier",
+    "country_id": 7
+  },
+  {
+    "place_id": 6516,
+    "name": "Verdun",
+    "country_id": 2
+  },
+  {
+    "place_id": 1580,
+    "name": "Verona",
+    "country_id": 1
+  },
+  {
+    "place_id": 49167,
+    "name": "Verviers",
+    "country_id": 12
+  },
+  {
+    "place_id": 50796,
+    "name": "Veszprem",
+    "country_id": 25
+  },
+  {
+    "place_id": 35061,
+    "name": "Veurne",
+    "country_id": 12
+  },
+  {
+    "place_id": 26964,
+    "name": "Vevey",
+    "country_id": 7
+  },
+  {
+    "place_id": 6523,
+    "name": "Vezelay",
+    "country_id": 2
+  },
+  {
+    "place_id": 33825,
+    "name": "Viana do Castelo",
+    "country_id": 11
+  },
+  {
+    "place_id": 47985,
+    "name": "Vianden",
+    "country_id": 23
+  },
+  {
+    "place_id": 1336,
+    "name": "Viareggio",
+    "country_id": 1
+  },
+  {
+    "place_id": 1586,
+    "name": "Vicenza",
+    "country_id": 1
+  },
+  {
+    "place_id": 70086,
+    "name": "Victoria",
+    "country_id": 56
+  },
+  {
+    "place_id": 57801,
+    "name": "Vidin",
+    "country_id": 29
+  },
+  {
+    "place_id": 28442,
+    "name": "Vienna",
+    "country_id": 8
+  },
+  {
+    "place_id": 6529,
+    "name": "Vienne",
+    "country_id": 2
+  },
+  {
+    "place_id": 14634,
+    "name": "Vigo",
+    "country_id": 3
+  },
+  {
+    "place_id": 50665,
+    "name": "Vik",
+    "country_id": 20
+  },
+  {
+    "place_id": 49664,
+    "name": "Vila do Bispo",
+    "country_id": 11
+  },
+  {
+    "place_id": 33835,
+    "name": "Vila do Conde",
+    "country_id": 11
+  },
+  {
+    "place_id": 49706,
+    "name": "Vila do Porto",
+    "country_id": 11
+  },
+  {
+    "place_id": 49724,
+    "name": "Vila Franca do Campo",
+    "country_id": 11
+  },
+  {
+    "place_id": 49601,
+    "name": "Vila Nova de Gaia",
+    "country_id": 11
+  },
+  {
+    "place_id": 33831,
+    "name": "Vila Real",
+    "country_id": 11
+  },
+  {
+    "place_id": 33833,
+    "name": "Vila Real de Santo Antonio",
+    "country_id": 11
+  },
+  {
+    "place_id": 58793,
+    "name": "Viljandi",
+    "country_id": 33
+  },
+  {
+    "place_id": 28490,
+    "name": "Villach",
+    "country_id": 8
+  },
+  {
+    "place_id": 6536,
+    "name": "Villefranche sur Mer",
+    "country_id": 2
+  },
+  {
+    "place_id": 35064,
+    "name": "Villers-la-Ville",
+    "country_id": 12
+  },
+  {
+    "place_id": 57875,
+    "name": "Vilnius",
+    "country_id": 31
+  },
+  {
+    "place_id": 63248,
+    "name": "Vinh",
+    "country_id": 43
+  },
+  {
+    "place_id": 60864,
+    "name": "Vinnytsia",
+    "country_id": 40
+  },
+  {
+    "place_id": 36168,
+    "name": "Vis",
+    "country_id": 13
+  },
+  {
+    "place_id": 42409,
+    "name": "Visby",
+    "country_id": 16
+  },
+  {
+    "place_id": 59728,
+    "name": "Visegrad",
+    "country_id": 35
+  },
+  {
+    "place_id": 50798,
+    "name": "Visegrad",
+    "country_id": 25
+  },
+  {
+    "place_id": 33837,
+    "name": "Viseu",
+    "country_id": 11
+  },
+  {
+    "place_id": 59732,
+    "name": "Visoko",
+    "country_id": 35
+  },
+  {
+    "place_id": 61572,
+    "name": "Vitebsk",
+    "country_id": 41
+  },
+  {
+    "place_id": 1222,
+    "name": "Viterbo",
+    "country_id": 1
+  },
+  {
+    "place_id": 14547,
+    "name": "Vitoria-Gasteiz",
+    "country_id": 3
+  },
+  {
+    "place_id": 6541,
+    "name": "Vitre",
+    "country_id": 2
+  },
+  {
+    "place_id": 26969,
+    "name": "Vitznau",
+    "country_id": 7
+  },
+  {
+    "place_id": 72300,
+    "name": "Vladimir",
+    "country_id": 58
+  },
+  {
+    "place_id": 60220,
+    "name": "Vlore",
+    "country_id": 37
+  },
+  {
+    "place_id": 49426,
+    "name": "Vodice",
+    "country_id": 13
+  },
+  {
+    "place_id": 36177,
+    "name": "Vodnjan",
+    "country_id": 13
+  },
+  {
+    "place_id": 60568,
+    "name": "Volendam",
+    "country_id": 10
+  },
+  {
+    "place_id": 42196,
+    "name": "Volos",
+    "country_id": 15
+  },
+  {
+    "place_id": 1302,
+    "name": "Volterra",
+    "country_id": 1
+  },
+  {
+    "place_id": 63586,
+    "name": "Vorokhta",
+    "country_id": 40
+  },
+  {
+    "place_id": 58795,
+    "name": "Voru",
+    "country_id": 33
+  },
+  {
+    "place_id": 50259,
+    "name": "Voss",
+    "country_id": 19
+  },
+  {
+    "place_id": 59342,
+    "name": "Vrnjacka Banja",
+    "country_id": 34
+  },
+  {
+    "place_id": 59377,
+    "name": "Vrsac",
+    "country_id": 34
+  },
+  {
+    "place_id": 1049,
+    "name": "Vulcano Island",
+    "country_id": 1
+  },
+  {
+    "place_id": 63250,
+    "name": "Vung Tau",
+    "country_id": 43
+  },
+  {
+    "place_id": 75635,
+    "name": "Vyborg",
+    "country_id": 58
+  },
+  {
+    "place_id": 51838,
+    "name": "Walbrzych",
+    "country_id": 26
+  },
+  {
+    "place_id": 65691,
+    "name": "Wanaka",
+    "country_id": 47
+  },
+  {
+    "place_id": 21424,
+    "name": "Warnemuende",
+    "country_id": 5
+  },
+  {
+    "place_id": 51796,
+    "name": "Warsaw",
+    "country_id": 26
+  },
+  {
+    "place_id": 20783,
+    "name": "Warwick",
+    "country_id": 4
+  },
+  {
+    "place_id": 30108,
+    "name": "Waterford",
+    "country_id": 6
+  },
+  {
+    "place_id": 35067,
+    "name": "Waterloo",
+    "country_id": 12
+  },
+  {
+    "place_id": 50005,
+    "name": "Wavre",
+    "country_id": 12
+  },
+  {
+    "place_id": 26971,
+    "name": "Weggis",
+    "country_id": 7
+  },
+  {
+    "place_id": 21426,
+    "name": "Weimar",
+    "country_id": 5
+  },
+  {
+    "place_id": 65696,
+    "name": "Wellington",
+    "country_id": 47
+  },
+  {
+    "place_id": 20789,
+    "name": "Wells",
+    "country_id": 4
+  },
+  {
+    "place_id": 28494,
+    "name": "Wels",
+    "country_id": 8
+  },
+  {
+    "place_id": 26973,
+    "name": "Wengen",
+    "country_id": 7
+  },
+  {
+    "place_id": 30880,
+    "name": "Wentworth Falls",
+    "country_id": 9
+  },
+  {
+    "place_id": 26975,
+    "name": "Werdenberg",
+    "country_id": 7
+  },
+  {
+    "place_id": 30053,
+    "name": "Westport",
+    "country_id": 6
+  },
+  {
+    "place_id": 65700,
+    "name": "Westport",
+    "country_id": 47
+  },
+  {
+    "place_id": 49517,
+    "name": "Wexford",
+    "country_id": 6
+  },
+  {
+    "place_id": 65693,
+    "name": "Whanganui",
+    "country_id": 47
+  },
+  {
+    "place_id": 65702,
+    "name": "Whangarei",
+    "country_id": 47
+  },
+  {
+    "place_id": 20794,
+    "name": "Whitby",
+    "country_id": 4
+  },
+  {
+    "place_id": 30055,
+    "name": "Wicklow",
+    "country_id": 6
+  },
+  {
+    "place_id": 21438,
+    "name": "Wiesbaden",
+    "country_id": 5
+  },
+  {
+    "place_id": 20798,
+    "name": "Winchester",
+    "country_id": 4
+  },
+  {
+    "place_id": 60523,
+    "name": "Windermere",
+    "country_id": 4
+  },
+  {
+    "place_id": 20804,
+    "name": "Windsor",
+    "country_id": 4
+  },
+  {
+    "place_id": 26977,
+    "name": "Winterthur",
+    "country_id": 7
+  },
+  {
+    "place_id": 30882,
+    "name": "Winton",
+    "country_id": 9
+  },
+  {
+    "place_id": 21441,
+    "name": "Wismar",
+    "country_id": 5
+  },
+  {
+    "place_id": 21443,
+    "name": "Wolfenbuettel",
+    "country_id": 5
+  },
+  {
+    "place_id": 30909,
+    "name": "Wollongong",
+    "country_id": 9
+  },
+  {
+    "place_id": 49211,
+    "name": "Wolverhampton",
+    "country_id": 4
+  },
+  {
+    "place_id": 20812,
+    "name": "Worcester",
+    "country_id": 4
+  },
+  {
+    "place_id": 21449,
+    "name": "Worms",
+    "country_id": 5
+  },
+  {
+    "place_id": 49333,
+    "name": "Wrexham",
+    "country_id": 4
+  },
+  {
+    "place_id": 51819,
+    "name": "Wroclaw",
+    "country_id": 26
+  },
+  {
+    "place_id": 21454,
+    "name": "Wuerzburg",
+    "country_id": 5
+  },
+  {
+    "place_id": 56719,
+    "name": "Yalikavak",
+    "country_id": 30
+  },
+  {
+    "place_id": 60790,
+    "name": "Yalta",
+    "country_id": 40
+  },
+  {
+    "place_id": 63580,
+    "name": "Yaremche",
+    "country_id": 40
+  },
+  {
+    "place_id": 72306,
+    "name": "Yaroslavl",
+    "country_id": 58
+  },
+  {
+    "place_id": 67109,
+    "name": "Yeosu",
+    "country_id": 48
+  },
+  {
+    "place_id": 60816,
+    "name": "Yevpatoria",
+    "country_id": 40
+  },
+  {
+    "place_id": 68241,
+    "name": "Yogyakarta",
+    "country_id": 52
+  },
+  {
+    "place_id": 64572,
+    "name": "Yokohama",
+    "country_id": 46
+  },
+  {
+    "place_id": 20817,
+    "name": "York",
+    "country_id": 4
+  },
+  {
+    "place_id": 35070,
+    "name": "Ypres",
+    "country_id": 12
+  },
+  {
+    "place_id": 42417,
+    "name": "Ystad",
+    "country_id": 16
+  },
+  {
+    "place_id": 26986,
+    "name": "Yverdon-les-Bains",
+    "country_id": 7
+  },
+  {
+    "place_id": 32378,
+    "name": "Zaandijk",
+    "country_id": 10
+  },
+  {
+    "place_id": 59969,
+    "name": "Zabljak",
+    "country_id": 36
+  },
+  {
+    "place_id": 36187,
+    "name": "Zadar",
+    "country_id": 13
+  },
+  {
+    "place_id": 36206,
+    "name": "Zagreb",
+    "country_id": 13
+  },
+  {
+    "place_id": 14721,
+    "name": "Zahara de la Sierra",
+    "country_id": 3
+  },
+  {
+    "place_id": 51826,
+    "name": "Zakopane",
+    "country_id": 26
+  },
+  {
+    "place_id": 48903,
+    "name": "Zakynthos",
+    "country_id": 15
+  },
+  {
+    "place_id": 14673,
+    "name": "Zamora",
+    "country_id": 3
+  },
+  {
+    "place_id": 51830,
+    "name": "Zamosc",
+    "country_id": 26
+  },
+  {
+    "place_id": 32380,
+    "name": "Zandvoort",
+    "country_id": 10
+  },
+  {
+    "place_id": 60847,
+    "name": "Zaporizhia",
+    "country_id": 40
+  },
+  {
+    "place_id": 14573,
+    "name": "Zaragoza",
+    "country_id": 3
+  },
+  {
+    "place_id": 63598,
+    "name": "Zatoka",
+    "country_id": 40
+  },
+  {
+    "place_id": 35074,
+    "name": "Zaventem",
+    "country_id": 12
+  },
+  {
+    "place_id": 28498,
+    "name": "Zell am See",
+    "country_id": 8
+  },
+  {
+    "place_id": 28500,
+    "name": "Zell am Ziller",
+    "country_id": 8
+  },
+  {
+    "place_id": 59706,
+    "name": "Zenica ",
+    "country_id": 35
+  },
+  {
+    "place_id": 26988,
+    "name": "Zermatt",
+    "country_id": 7
+  },
+  {
+    "place_id": 63671,
+    "name": "Zhytomyr",
+    "country_id": 40
+  },
+  {
+    "place_id": 63835,
+    "name": "Zichron Ya'akov",
+    "country_id": 44
+  },
+  {
+    "place_id": 55517,
+    "name": "Zilina",
+    "country_id": 27
+  },
+  {
+    "place_id": 59338,
+    "name": "Zlatibor",
+    "country_id": 34
+  },
+  {
+    "place_id": 44319,
+    "name": "Znojmo",
+    "country_id": 17
+  },
+  {
+    "place_id": 59363,
+    "name": "Zrenjanin",
+    "country_id": 34
+  },
+  {
+    "place_id": 26994,
+    "name": "Zug",
+    "country_id": 7
+  },
+  {
+    "place_id": 69851,
+    "name": "Zugdidi",
+    "country_id": 55
+  },
+  {
+    "place_id": 15042,
+    "name": "Zuheros",
+    "country_id": 3
+  },
+  {
+    "place_id": 26997,
+    "name": "Zuoz",
+    "country_id": 7
+  },
+  {
+    "place_id": 27000,
+    "name": "Zurich",
+    "country_id": 7
+  }
+]
